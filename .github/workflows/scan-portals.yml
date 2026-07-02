@@ -1,0 +1,42 @@
+name: Denni sken JS portalu s verejnymi zakazkami
+
+on:
+  schedule:
+    # 6:30 UTC = 7:30 nebo 8:30 stredoevropskeho casu (podle letniho/zimniho
+    # casu) - cca hodinu az dve pred bezem hlidace v Cowork (7:03 mistniho
+    # casu), aby uz mel Claude cerstva data k dispozici.
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}   # umoznuje rucni spusteni tlacitkem "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repozitare
+        uses: actions/checkout@v4
+
+      - name: Nastavit Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Nainstalovat zavislosti
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Spustit scraper
+        run: python scan_portals.py
+        continue-on-error: true   # jeden spadly portal nema shodit cely beh
+
+      - name: Commitnout vysledky
+        run: |
+          git config user.name "portal-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dumps/
+          git diff --quiet --cached || git commit -m "Denni sken portalu $(date -u +%Y-%m-%d)"
+          git push
