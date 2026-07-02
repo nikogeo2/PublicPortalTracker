@@ -31,38 +31,52 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 # bez zivého prohlizece. Pokud dump vyjde prazdny nebo nesmyslny, uprav
 # URL podle toho, co v prohlizeci skutecne uvidis.
 TARGETS: dict[str, str] = {
-    # Tyto tri fungovaly na prvni pokus - vraceji realny seznam zakazek:
-    "nen": "https://nen.nipez.cz/verejne-zakazky",
+    # NEN podporuje rozsah stranek primo v URL (p:vz:page=1-10), takze
+    # jednim requestem dostaneme prvnich 10 stranek najednou (~500 nejnovejsich
+    # zaznamu) - mnohem jednodussi a rychlejsi nez procházet stranky zvlast.
+    "nen": "https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10",
     "eveza": "https://www.eveza.cz/verejne-zakazky",
     "e-zakazky": "https://www.e-zakazky.cz/verejne-zakazky",
     # ISVZ vyrazeno - je to spis statisticky/reportovaci nastroj (dashboardy,
     # open data), ne seznam otevrenych zakazek. NEN uz tuhle roli pokryva.
     #
-    # Tyhle dve jeste nejsou spravne - prvni pokus selhal (404 / prazdny
-    # obsah). Zkousime jine URL, ale muze byt potreba dalsi doladeni, az
-    # uvidime, co skutecne vrati:
-    "tenderarena": "https://tenderarena.cz/dodavatel",
-    "tendermarket": "https://www.tendermarket.cz/verejne-zakazky",
+    # Tendermarket vyrazen - nema jednu centralni adresu se seznamem zakazek.
+    # Kazdy zadavatel ma vlastni subdomenu (napr. deda.tendermarket.cz/...),
+    # podobne jako klasicky E-ZAK - je to tisice oddelenych instalaci, ne
+    # jeden portal. Bez seznamu zadavatelu, kteri Tendermarket pouzivaji,
+    # ho neni mozne centralne skenovat jednou URL.
+    #
+    # TenderArena VYRAZENA z tohohle scraperu - ma verejne JSON API
+    # (https://api.tenderarena.cz/ta/profil/seznam-zakazek/noveUverejneneZakazky),
+    # ktere vraci vsechny aktualni zakazky najednou jako obycejny JSON.
+    # Nepotrebuje prohlizec ani GitHub Actions - Cowork hlidac si ho stahuje
+    # primo pres WebFetch. Diky za tenhle nalez!
 }
 
 OUTPUT_DIR = pathlib.Path("dumps")
-MAX_CHARS = 60_000  # ať jsou soubory rozumně velké pro pozdější fetch/čtení
+MAX_CHARS = 200_000  # NEN rozsah 10 stranek muze mit ~500 zaznamu, tak s rezervou
+
+
+def _goto(page, url: str) -> str | None:
+    """Navigate a page; return an error string on failure, None on success."""
+    try:
+        page.goto(url, wait_until="networkidle", timeout=45_000)
+        return None
+    except PlaywrightTimeoutError:
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=30_000)
+            return None
+        except Exception as exc:  # noqa: BLE001
+            return f"CHYBA pri nacitani {url}: {exc}"
 
 
 def dump_one(page, name: str, url: str) -> None:
+    """Vetsina portalu: jedna stranka staci, zadny paging neresime."""
     print(f"-> {name}: {url}")
-    try:
-        page.goto(url, wait_until="networkidle", timeout=45_000)
-    except PlaywrightTimeoutError:
-        # networkidle se nemusi nikdy dockat u stranek s pollingem/websockety
-        # - zkusime aspon "domcontentloaded" a chvili pockame rucne.
-        try:
-            page.goto(url, wait_until="domcontentloaded", timeout=30_000)
-        except Exception as exc:  # noqa: BLE001
-            (OUTPUT_DIR / f"{name}.txt").write_text(
-                f"CHYBA pri nacitani {url}: {exc}", encoding="utf-8"
-            )
-            return
+    err = _goto(page, url)
+    if err:
+        (OUTPUT_DIR / f"{name}.txt").write_text(err, encoding="utf-8")
+        return
 
     # dej JS aplikaci chvili navic na dorenderovani seznamu
     page.wait_for_timeout(4000)
@@ -72,7 +86,10 @@ def dump_one(page, name: str, url: str) -> None:
     except Exception as exc:  # noqa: BLE001
         text = f"CHYBA pri cteni obsahu: {exc}"
 
-    text = text.strip()
+    _write_dump(name, url, text.strip())
+
+
+def _write_dump(name: str, url: str, text: str) -> None:
     if len(text) > MAX_CHARS:
         text = text[:MAX_CHARS] + "\n\n[...oříznuto...]"
 
@@ -100,6 +117,7 @@ def main() -> int:
         page = context.new_page()
 
         had_error = False
+
         for name, url in TARGETS.items():
             try:
                 dump_one(page, name, url)
