@@ -31,12 +31,18 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 # bez zivého prohlizece. Pokud dump vyjde prazdny nebo nesmyslny, uprav
 # URL podle toho, co v prohlizeci skutecne uvidis.
 TARGETS: dict[str, str] = {
-    "tenderarena": "https://www.tenderarena.cz/dodavatel/seznam-zakazek",
-    "tendermarket": "https://www.tendermarket.cz/cz/verejne-zakazky",
+    # Tyto tri fungovaly na prvni pokus - vraceji realny seznam zakazek:
     "nen": "https://nen.nipez.cz/verejne-zakazky",
-    "isvz": "https://isvz.nipez.cz/vz",
     "eveza": "https://www.eveza.cz/verejne-zakazky",
     "e-zakazky": "https://www.e-zakazky.cz/verejne-zakazky",
+    # ISVZ vyrazeno - je to spis statisticky/reportovaci nastroj (dashboardy,
+    # open data), ne seznam otevrenych zakazek. NEN uz tuhle roli pokryva.
+    #
+    # Tyhle dve jeste nejsou spravne - prvni pokus selhal (404 / prazdny
+    # obsah). Zkousime jine URL, ale muze byt potreba dalsi doladeni, az
+    # uvidime, co skutecne vrati:
+    "tenderarena": "https://tenderarena.cz/dodavatel",
+    "tendermarket": "https://www.tendermarket.cz/verejne-zakazky",
 }
 
 OUTPUT_DIR = pathlib.Path("dumps")
