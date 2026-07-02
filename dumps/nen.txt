@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/verejne-zakazky
-Staženo: 2026-07-02T09:13:28.218551+00:00
+Staženo: 2026-07-02T09:35:07.033465+00:00
 ------------------------------------------------------------
 Přeskočit na Hlavní obsah (Accesskey: o)
 Přeskočit na Hlavní navigaci (Accesskey: n)
@@ -39,6 +39,24 @@ ZADAVATEL
 	
 LHŮTA PODÁNÍ NABÍDEK
 
+Detail	N006/26/V00019585	Vypracování PD ve stupni DPZ+DPS+IČ na stavbu „Silnice III/46431 Rekonstrukce mostu 46431-1 přes potok Sedlnička v obci Albrechtičky“	Neukončen	Správa silnic Moravskoslezského kraje, příspěvková organizace	08. 07. 2026 08:00
+Detail	N006/26/V00018406	PS 0110 – Jince Nová kasárna – Oprava trafostanice s výměnou stroje	Zrušen	Ministerstvo obrany	25. 06. 2026 07:00
+Detail	N006/26/V00013435	Výzva č. 229 k RD 23106000347	Zadán	Ministerstvo obrany	
+Detail	N006/26/V00019680	Nákup zimních pneumatik z RD - 3/2026	Zadán	Krajské ředitelství policie kraje Vysočina	
+Detail	N006/26/V00020867	DP č. 4 nákup léčiv	Zadán	Ministerstvo obrany	
+Detail	N006/26/V00010016	Rozvodna 110/22 kV pro záměr Strategický podnikatelský park Cheb	Neukončen	Státní investiční a rozvojová společnost, a.s.	10. 07. 2026 13:00
+Detail	N006/26/V00009681	F972 – TQ, TX TRANSPORTY NEPŘÍSTUPNÝCH MOTORŮ 6 KV	Neukončen	ČEZ, a. s.	
+Detail	N006/26/V00019051	Vsetínská nemocnice a. s. – Areál – CO I – projektová dokumentace	Neukončen	Zlínský kraj	28. 07. 2026 09:00
+Detail	N006/26/V00001062	Dodávky vozidel BEMU121-150, BEDMU 180, EMU121-150 a EMU230 a služby Full-Service	Neukončen	RegioJet a.s.	
+Detail	N006/26/V00017874	Nákup motorových olejů	Zadán	Krajské ředitelství policie Jihomoravského kraje	22. 06. 2026 09:00
+Detail	N006/25/V00022962	25-065 HM strojně technologická část - optimalizace stáčení ze železničních cisteren NM a PL	Zadán	Správa státních hmotných rezerv	07. 08. 2025 09:00
+Detail	N006/26/V00012584	Přeprava Archivu Tábor 10.6.2026	Ukončení plnění	Ministerstvo obrany	13. 05. 2026 08:00
+Detail	N006/25/V00025091	Automobil osobní Ml (elektro-mikrobus) – II.	Ukončení plnění	Ministerstvo obrany	26. 09. 2025 10:00
+Detail	N006/26/V00018926	Posílení biodiverzity krkonošských lesů - ostatní práce dle ZL 07/34/6/2026	Zadán	Správa Krkonošského národního parku	
+Detail	N006/26/V00012022	Rekonstrukce plynové kotelny a měření spotřeby tepla pro bazén na ZŠ Holzova 1 v Brně - Líšni	Neukončen	Statutární město Brno	25. 05. 2026 09:00
+Detail	N006/26/V00018413	PS 0006 – Oprava komunikací v areálu VO Na Baště Petřín	Zadán	Ministerstvo obrany	24. 06. 2026 07:00
+Detail	N006/26/V00011362	Ostrava II – stavební úpravy – II. etapa	Zrušen	Generální finanční ředitelství	08. 06. 2026 10:00
+Detail	N006/26/V00020533	5030_Výzva k plnění - 7. DP - Stravovací poukazy TRC - 06_26	Zadán	Ministerstvo obrany	
 Detail	N006/26/V00020960	Nákup - nácvičné oděvy a obuv	Neukončen	Ministerstvo obrany	13. 07. 2026 08:00
 Detail	N006/26/V00020859	Servis rotačních olejových vývěv E2M30	Neukončen	Ministerstvo obrany	10. 07. 2026 09:00
 Detail	N006/26/V00013041	Provádění elektro revizí pro LOM PRAHA s.p. v areálech na území hlavního města Prahy a Středočeského kraje dle zákona č. 250/2021 Sb., ČSN 33 1500, ČSN 33 1600 a platných norem II	Zadán	LOM PRAHA s.p.	20. 05. 2026 10:00
@@ -71,24 +89,6 @@ Detail	N006/26/V00019097	Zlín střed - Zlín Příluky, komunikace k přejezdu 
 Detail	N006/26/S00000007	Kulturní dům Pasohlávky	Neukončen	Obec Pasohlávky	
 Detail	N006/26/V00020653	KŘP kVy - FKSP - Účelové zařízení Mánes - odvodnění a izolace objektu - I. etapa	Neukončen	Krajské ředitelství policie kraje Vysočina	20. 07. 2026 10:00
 Detail	N006/26/V00020869	RD - Bateriové napájecí zdroje	Neukončen	Ministerstvo obrany	14. 07. 2026 07:00
-Detail	N006/26/V00010758	Přechod pro chodce na sil. I/38 v obci Čížov	Zadán	Obec Čížov	
-Detail	N006/26/V00017106	Zpracování PD Silnice III/4429 – rekonstrukce mostu ev.č.4429-4 přes místní potok u Klokočova	Zadán	Správa silnic Moravskoslezského kraje, příspěvková organizace	26. 06. 2026 10:00
-Detail	N006/26/V00015032	23-041.3 Hadicový kontejner se zakladačem hadic k vysokotlaké mobilní čerpací stanici	Neukončen	Správa státních hmotných rezerv	21. 08. 2026 10:00
-Detail	N006/25/V00015006	Nasvětlení objektů a zdroje – realizace – energosloupky	Zrušen	Statutární město Pardubice	19. 05. 2025 09:00
-Detail	N006/26/V00017329	Filamenty k 3D tiskárnám	Zadán	Ministerstvo obrany	15. 06. 2026 08:00
-Detail	N006/26/V00015099	Pravidelný servis, údržba a opravy klimatizačních jednotek	Zadán	Česká správa sociálního zabezpečení	01. 06. 2026 23:00
-Detail	N006/26/V00020943	Kompletní renovace kuchyňky RP Ústí nad Labem	Neukončen	Státní úřad pro jadernou bezpečnost	15. 07. 2026 09:00
-Detail	N006/25/V00018840	KŘP Msk - Modernizace a přístavba objektu a venkovní plochy pro zázemí kynologů v Ostravě - Nové Vsi	Zadán	Krajské ředitelství policie Moravskoslezského kraje	26. 06. 2025 08:30
-Detail	N006/24/V00040729	Rekonstrukce střechy v Rohové ulici č.p. 134-135	Ukončení plnění	Obec Újezdeček	
-Detail	N006/25/V00020567	Oprava přední zdobené fasády bytového domu č.p. 97, v ulici Za Drahou.	Ukončení plnění	Obec Újezdeček	
-Detail	N006/25/V00038759	Kulturní dům Nýrsko, stavební úpravy - výměna otvorových výplní	Zadán	Město Nýrsko	
-Detail	N006/26/V00010944	Forenzní analýza důkazního materiálu s obsahem jaderných materiálů a radioaktivních látek II	Zadán	Ministerstvo vnitra	26. 05. 2026 10:00
-Detail	N006/26/V00018124	DNS-dodávky potravin a nápojů–maso(ostatní)–Výzva č.98	Zadán	Zařízení služeb pro Ministerstvo vnitra	
-Detail	N006/25/V00034439	Zavedení systému hospodaření s energiemi dle ČSN EN ISO 50001	Ukončení plnění	Krajské ředitelství policie Moravskoslezského kraje	30. 10. 2025 08:00
-Detail	N006/26/V00016371	Sanace vlhkého zdiva v objektu ZŠ Pivovarská, Jablonec nad Nisou – část prostor v 1.PP	Zadán	Statutární město Jablonec nad Nisou	09. 06. 2026 10:00
-Detail	N006/26/V00017221	PS 0429 – Stavební úpravy pro komunikace SO 067, RLS Lažany	Zadán	Ministerstvo obrany	22. 06. 2026 08:00
-Detail	N006/26/V00014751	Dodání vysokorychlostních osoušečů rukou	Ukončení plnění	Národní muzeum	26. 05. 2026 12:00
-Detail	N006/26/V00018127	DNS-dodávky potravin a nápojů–zelenina a ovoce–Výzva č.27	Zadán	Zařízení služeb pro Ministerstvo vnitra	
 NAČÍST DALŠÍCH 50
 Stránka
 1

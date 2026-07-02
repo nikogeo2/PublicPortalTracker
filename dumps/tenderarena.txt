@@ -1,17 +1,189 @@
 Zdroj: tenderarena
-URL: https://www.tenderarena.cz/dodavatel/seznam-zakazek
-Staženo: 2026-07-02T09:13:12.297002+00:00
+URL: https://tenderarena.cz/dodavatel
+Staženo: 2026-07-02T09:35:33.182067+00:00
 ------------------------------------------------------------
 Chytré vyhledávání
 Profily zadavatelů
 E-learning
 Školení
 Nápověda
+Registrace
 Přihlásit
 refresh
-404 - Stránka nenalezena
+PROFILY ZADAVATELŮ
+CHYTRÉ VYHLEDÁVÁNÍ
+search
 
-Pro pokračování na hlavní stránku klikněte ZDE.
+Vyhledáváme zadavatele, kteří mají svůj profil na Tender areně.
+
+Zobrazit všechny profily zadavatelů
+
+Zakázky za posledních 24h
+
+Jak se stát dodavatelem
+
+Novinky
+
+E-learning
+
+Školení
+
+Zakázky za posledních 24h
+
+content_copy
+ID
+access_alarm
+Lhůta pro podání nabídek
+897303
+Poštovní ceniny a filatelistické zboží - tisk z hloubky
+Česká pošta, s.p.
+content_copy
+VZ0252092
+access_alarm
+03. 08. 2026 08:00
+Dodávky bezpečnostních obalů
+Česká pošta, s.p.
+content_copy
+VZ0251685
+access_alarm
+04. 08. 2026 08:00
+Výzva č. 282 Obinutuzumab – Dynamický nákupní systém na dodávky léčivých přípravků
+Fakultní nemocnice Motol a Homolka
+content_copy
+VZ0253780
+access_alarm
+16. 07. 2026 08:00
+UTB – Rekonstrukce a modernizace objektu U2 – projektová dokumentace
+Univerzita Tomáše Bati ve Zlíně
+content_copy
+2740
+access_alarm
+04. 08. 2026 08:00
+C10AX JINÉ LÁTKY UPRAVUJÍCÍ HLADINU LIPIDŮ inj.
+Fakultní nemocnice u sv. Anny v Brně
+content_copy
+VZ0253774
+access_alarm
+14. 07. 2026 08:00
+arrow_back
+
+Předchozí
+
+Další
+
+arrow_forward
+
+Jak se stát dodavatelem?
+
+Získej náskok před ostatními a vyhrávej veřejné zakázky.
+Tender arena je pro dodavatele zdarma.
+
+REGISTROVANÍ DODAVATELÉ ZÍSKAJÍ:
+
+možnost podávat nabídky v elektronické podobě
+
+možnost elektronicky komunikovat se zadavateli
+
+možnost účastnit se elektronických aukcí
+
+šanci na oslovení ze strany zadavatelů podle předmětu činnosti
+
+možnost využít svůj účet i pro jiné elektronické nástroje
+
+create
+REGISTRACE DODAVATELE
+
+Tender arena je napojena na portál Zakázky GOV Ministerstva pro místní rozvoj.
+
+Novinky
+
+22. červen 2026
+Dodavatelé již podávají nabídky přes portál Zakázky GOV
+
+Od spuštění nové funkcionality 15. června 2026 již řada dodavatelů aktivně podává nabídky do veřejných zakázek prostřednictvím portálu Zakázky GOV. Podání je aktuálně možné u nově zahajovaných zakázek zadávaných v elektronických nástrojích NEN a Tender arena.
+
+09. červen 2026
+Tender arena bude přijímat nabídky i z portálu Zakázky GOV
+
+Od 15. června 2026 mohou dodavatelé u nově zahájených zakázek podávat nabídky i prostřednictvím portálu Zakázky GOV Ministerstva pro místní rozvoj. Podání nabídky prostřednictvím nástroje Zakázky GOV je považováno za rovnocenné podání učiněnému prostřednictvím nástroje Tender arena (podrobnější informace najdete v souvisejícím stanovisku MMR ).
+
+01. červen 2026
+Tender arena nově přijímá nabídky i z portálu Zakázky GOV
+
+Od 3. června 2026 mohou dodavatelé u nově zahájených zakázek podávat nabídky i prostřednictvím portálu Zakázky GOV Ministerstva pro místní rozvoj. V první fázi se tato možnost týká pouze zakázek zadavatelů používajících Tender arenu na základě Všeobecných obchodních podmínek. Podrobnější informace najdete v souvisejícím stanovisku MMR . Zadavatelům doporučujeme v zadávací dokumentaci nově zahajovaných zakázek použít aktualizovaný text podmínek elektronické komunikace .
+
+E-learning
+
+Ztrácíte se v oblasti elektronického zadávání veřejných zakázek, nebo se chcete co nejrychleji naučit ovládat elektronický nástroj Tender arena?
+
+Jako alternativu prezenčních školení nabízíme dodavatelům veřejných zakázek řadu teoretických i praktických online kurzů. A abychom udrželi naše studenty v kondici, neustále vytváříme další!
+
+S NAŠIMI ON-LINE KURZY ZÍSKÁTE:
+
+videa s odborným výkladem
+
+odpovědi na nejčastější otázky z praxe
+
+materiály ke stažení
+
+kvízy pro ověření získaných znalostí
+
+možnost individuální diskuze s odborníky
+
+certifikát o absolvování kurzu
+
+Naučte se ovládat Tender arenu během několika desítek minut přímo z pohodlí Vašeho pracoviště!
+
+VYBRAT ON-LINE KURZ
+
+Veřejné zakázky z Tender areny jsou automaticky zobrazovány v rámci portálu Zakázky GOV Ministerstva pro místní rozvoj, který prezentuje data o veřejných zakázkách z různých elektronických nástrojů. Pro zadavatele se tak reálně zvyšuje šance na počet obdržených nabídek.
+
+Portál Zakázky GOV je součástí Národní infrastruktury pro elektronické zadávání veřejných zakázek (NIPEZ). Nabízí bezplatné zasílání notifikací o nových zakázkách, vyhledávání pomocí umělé inteligence a umožňuje dodavatelům kompletní elektronickou komunikaci z jednoho místa.
+
+Pro přihlašování dodavatelů do Tender areny je využíván jednotný účet v rámci Národní infrastruktury pro elektronické zadávání veřejných zakázek (NIPEZ), spravovaný Ministerstvem pro místní rozvoj.
+
+Do tohoto účtu se dodavatelé veřejných zakázek přihlašují skrze Národní bod pro identifikaci a autentizaci (NIA) – např. bankovní identitu, občanský průkaz (s aktivovaným kontaktním elektronickým čipem), Mobilní klíč eGovernmentu či tzv. NIA ID.
+
+Školení
+
+Nevíte si rady ve složité problematice zadávání veřejných zakázek?
+Chcete se dozvědět o novinkách z oblasti elektronizace zadávání veřejných zakázek v České republice?
+
+Nabídka školení:
+
+Bohužel v současné době nejsou vypsány žádné termíny školení.
+
+V případě zájmu o zorganizování školení pro Vás či Vaši společnost nás prosím kontaktujte.
+
+Certifikace a bezpečnost
+
+Tender arena je prvním elektronickým nástrojem v ČR certifikovaným podle zákona č. 134/2016 Sb., o zadávání veřejných zakázek, a to pro všechny druhy zadávacích postupů a všechny funkcionality elektronických nástrojů. Provoz Tender areny dále podléhá zavedenému a certifikovanému systému řízení informační bezpečnosti podle normy ISO 27001.
+
+Statistiky
+
+vytvořených zakázek
+
+více než
+
+800
+
+tisíc
+
+více než
+
+6000
+
+aktivních
+
+zadavatelů
+
+zakázky za
+
+více než
+
+2
+
+biliony Kč
 
 notifications_active PŘIHLAŠTE SE K ODBĚRU NOVINEK
 
