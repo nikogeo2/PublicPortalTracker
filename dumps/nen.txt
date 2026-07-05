@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-07-04T09:05:05.359165+00:00
+Staženo: 2026-07-05T09:27:19.678047+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,10 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/25/V00013032	Prodloužení kanalizace v k.ú. Němčí	Awarded	Obec Podlesí	
+Detail	N006/26/V00021235	CYKLOTRASA RATÍŠKOVICE T MACHINERY SMĚR NÁKLO 2026 (II. ETAPA)	Awarded	Obec Ratíškovice	
+Detail	N006/26/V00017704	Nákup komunálního vozidla OBEC Křelov-Břuchotín	Awarded	Obec Křelov-Břuchotín	
+Detail	N006/26/V00021233	Rámcová dohoda na dodávky kontejnerových stání na území města Frenštát pod Radhoštěm	Not terminated	Město Frenštát pod Radhoštěm	27. 07. 2026 08:00
 Detail	N006/26/V00012139	Dodávky radionuklidového generátoru 68Ge/68Ga pro PET/CT	Awarded	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	29. 05. 2026 10:00
 Detail	N006/26/V00014829	Zpracování projektové dokumentace a zajištění inženýrské činnosti – Úpravy autokempu Frenštát pod Radhoštěm	Not terminated	Město Frenštát pod Radhoštěm	03. 07. 2026 08:00
 Detail	N006/26/V00019519	Těžba dříví s přiblížením na OM (kůň, UKT) na ÚP 35 dle ZL 14/35/2/2026	Awarded	Správa Krkonošského národního parku	
@@ -535,10 +539,6 @@ Detail	N006/26/V00011585	Znalecký posudek, k.ú. Valašské Klobouky, p. p.č. 
 Detail	N006/23/V00031089	Oprava a stavební úpravy hřbitova v Klentnici	Awarded	Obec Klentnice	30. 11. 2023 16:00
 Detail	N006/26/V00013728	Servis a revize 2 ks AP 30 Bumar po 8 letech provozu	Awarded	Hasičský záchranný sbor Plzeňského kraje	29. 05. 2026 09:00
 Detail	N006/26/V00021025	OOPP a stejnokrojové součásti pro THP LS - 2. Q. 2026 - OBJ-2026-348	Awarded	Lesní správa Lány	
-Detail	N006/26/V00009750	Polobotky	Termination of performance	Hasičský záchranný sbor Moravskoslezského kraje	
-Detail	N006/25/V00000722	Zajištění služeb agentury práce při poskytování dočasně přidělených zaměstnanců	Awarded	Agentura pro podporu podnikání a investic CzechInvest	21. 02. 2025 11:00
-Detail	N006/25/V00006491	Rekonstrukce vnitřního prostoru zázemí pro obsluhu areálu ČOV	Awarded	Obec Velké Přílepy	24. 03. 2025 12:00
-Detail	N006/26/V00014565	Rámcová dohoda - náboje 338LM se speciálními střelami a náboje 338LM v provedení pro ozbrojené složky	Awarded	Ministerstvo vnitra	
 LOAD ANOTHER 50
 Page
 1
