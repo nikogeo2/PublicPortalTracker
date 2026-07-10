@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-09T10:04:28.163755+00:00
+Staženo: 2026-07-10T10:00:15.152911+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,16 @@ Předp. cena	 
 	
 		 
   
+	„Projektování, výstavba, provozování a poskytování sociálních služeb domova pro seniory Tuklaty“	Obec Tuklaty	00235822	Koncesní řízení	Služby	10. 7. 2026	3. 8. 2026	Neuvedeno	
+
+  
+	Komunální vozidlo s příslušenstvím	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	9. 7. 2026	29. 7. 2026	2 900 000,00 Kč	
+
+  
 	Splašková kanalizace Němčice	Obec Němčice	00238317	Užší řízení	Stavební práce	8. 7. 2026	31. 7. 2026	59 321 737,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
 
   
 	Obměna vozového parku 2026 – dodávka užitkového vozidla – 2.výzva	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	8. 7. 2026	29. 7. 2026	Neuvedeno	
@@ -41,11 +50,11 @@ Předp. cena	 
   
 	Vodní nádrže Lučinka II Lučice	Obec Bělotín	00301019	Zakázka malého rozsahu	Stavební práce	16. 4. 2026	27. 4. 2026	Neuvedeno	
 
-Příprava nabídky do výběrového řízení v režimu zákona
-
-
   
 	Dolní Boříkovice – kostel Povýšení svatého Kříže, dýmování a insekticidní ošetření mobiliáře	Římskokatolická farnost Králíky	44468750	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
+
+Změny závazků ve VZ
+
 
   
 	Modernizace rozhraní základních registrů a legislativní úpravy PIS AVA	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Jednací řízení bez uveřejnění	Služby	8. 7. 2026	22. 7. 2026	Neuvedeno	
@@ -53,11 +62,11 @@ Příprava nabídky do výběrového řízení v režimu zákona
   
 	II/347 Světlá nad Sázavou – přeložka silnice	Město Světlá nad Sázavou	00268321	Otevřené řízení	Stavební práce	2. 7. 2026	12. 8. 2026	142 257 275,00 Kč	
 
-Zakázkový refresh pro dodavatele
-
-
   
 	Nekoř, kostel sv. Mikuláše, restaurování hlavního oltáře	Římskokatolická farnost Nekoř	49312138	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	ENERGETICKÉ ÚSPORY VEŘEJNÉHO OSVĚTLENÍ RADOMYŠL	Městys Radomyšl	00251721	Zjednodušené podlimitní řízení	Dodávky	8. 7. 2026	29. 7. 2026	3 260 117,95 Kč	
@@ -65,17 +74,8 @@ Zakázkový refresh pro dodavatele
   
 	„V 00908 – Restaurování mariánského sloupu v Drnholci“	Městys Drnholec	00283142	Zjednodušené podlimitní řízení	Služby	7. 7. 2026	24. 7. 2026	3 480 000,00 Kč	
 
-Jak se bránit proti postupu zadavatele
-
-
   
 	Rekonstrukce SCZT - varianta 2a-2PK_PK-HVS_PK-VS10	KLATOVSKÁ TEPLÁRNA a.s.	49790960	Zjednodušené podlimitní řízení	Stavební práce	7. 7. 2026	27. 7. 2026	27 287 173,00 Kč	
-
-  
-	Oprava a obnova havarované zdi ul. Mládežnická	Obec Mšené-lázně	00264083	Zakázka malého rozsahu	Stavební práce	 	 	951 277,80 Kč	
-
-  
-	Rekonstrukce ul. Bohdal Ječovice	Obec Mšené-lázně	00264083	Zakázka malého rozsahu	Stavební práce	 	 	1 805 320,00 Kč	
 Stránka 1 z 178 (2132 položek)12345. . .178
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
