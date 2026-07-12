@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-07-11T08:19:38.621759+00:00
+Staženo: 2026-07-12T08:38:10.641133+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,11 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00019316	Centrum Kociánka - Ekomobilita II – opakované VŘ	Awarded	Centrum Kociánka	29. 06. 2026 10:00
+Detail	N006/26/V00020346	Výpočetní technika 2026	Not terminated	Výzkumný ústav vodohospodářský T. G. Masaryka veřejná výzkumná instituce	17. 07. 2026 10:00
+Detail	N006/26/V00004346	Zajištění mezinárodní autobusové dopravy z ČR z Prahy do Itálie, Pistoia, a zpět v termínu do 11.07.2026 do 16.07.2026 (akce EUROGYM 2026)	Awarded	Česká obec sokolská	02. 03. 2026 10:00
+Detail	N006/26/V00021899	TISK, VÝROBA A DISTRIBUCE MATERIÁLŮ PRO PROJEKT PRO MATEŘSKÉ ŠKOLY „SE SOKOLEM DO ŽIVOTA“ PRO OBDOBÍ DO KONCE ROKU 2026	Not terminated	Česká obec sokolská	22. 07. 2026 10:00
+Detail	N006/26/V00021898	Technické zajištění provozu plaveckého bazénu v objektu Tyršova domu	Not terminated	Česká obec sokolská	17. 08. 2026 10:00
 Detail	N006/26/V00021897	Poskytování hlasových a datových telekomunikačních služeb prostřednictvím mobilního operátora	Not terminated	Rehabilitační ústav Kladruby	21. 07. 2026 09:00
 Detail	N006/26/V00018745	Mléko a mléčné výrobky na období od 4.7.2026 do 31.8.2026	Awarded	Vojenská nemocnice Olomouc	
 Detail	N006/26/V00015638	Pečivo a pekárenské výrobky na období od 19.6.2026 do 19.9.2026	Awarded	Vojenská nemocnice Olomouc	
@@ -534,11 +539,6 @@ Detail	N006/26/V00021697	Nákup skládacích stoliček a stolů	Not terminated	M
 Detail	N006/25/V00024260	Dodávka 28 ks specifikovaných tabletů 2025, včetně příslušenství, pro VPŠ a SPŠ MV v Praze	Termination of performance	Vyšší policejní škola a Střední policejní škola Ministerstva vnitra v Praze	
 Detail	N006/24/V00033133	Výpočetní server a storage pro potřeby projektu SS07020036	Termination of performance	Výzkumný ústav geodetický, topografický a kartografický, v. v. i.	
 Detail	N006/25/V00033071	Hvězdárna Valašské Meziříčí, p. o. – KKC – dodávka laboratorního vybavení: sušírny, odstředivky, lyofilizátoru, myčky laboratorního skla a laminárních boxů	Awarded	Hvězdárna Valašské Meziříčí, příspěvková organizace	20. 10. 2025 10:00
-Detail	N006/26/V00021604	Dodávka zdravotnického materiálu a dezinfekce dle Dezinfekčního programu AČR a dezinfekčních plánů - zakázka dělená na části	Not terminated	Ministerstvo obrany	22. 07. 2026 08:00
-Detail	N006/26/V00021694	Výroba grafiky do výstavy Vytápění	Awarded	Národní technické muzeum	
-Detail	N006/26/V00019900	Nákup sekacího traktoru	Termination of performance	Výzkumný ústav geodetický, topografický a kartografický, v. v. i.	
-Detail	N006/26/V00008619	Rozšíření školní jídelny ZŠ Slovanské nám. 2, Brno	Awarded	Statutární město Brno	06. 05. 2026 10:00
-Detail	N006/26/V00020551	Elektromateriál	Not terminated	Psychiatrická nemocnice Horní Beřkovice	26. 07. 2026 23:59
 LOAD ANOTHER 50
 Page
 1
