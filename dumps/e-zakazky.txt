@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-12T08:38:28.033765+00:00
+Staženo: 2026-07-13T09:54:43.493848+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -40,16 +40,31 @@ Předp. cena	 
 	
 		 
   
+	Licence IP Fabric	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	24. 7. 2026	Neuvedeno	
+
+  
+	Stavba ČOV pro budovy čp.109 a 190 v kú.Strahovice	Obec Strahovice	00534668	Zakázka malého rozsahu	Stavební práce	17. 4. 2026	13. 5. 2026	3 605 800,00 Kč	
+
+  
+	Dodavatel nafty pro vozidla TSMP	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Dodávky	13. 7. 2026	28. 7. 2026	2 900 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Nízkoteplotní kalorimetr typu 3D Calvet pro měření tepelné kapacity a latentního tepla	Ústav termomechaniky AV ČR, v.v.i.	61388998	Otevřené řízení	Dodávky	10. 7. 2026	11. 8. 2026	9 800 000,00 Kč	
+
+  
 	Novostavba pobytového ekocentra	ZO ČSOP Polabí	70843473	Zjednodušené podlimitní řízení	Stavební práce	10. 7. 2026	28. 7. 2026	40 147 486,88 Kč	
 
   
 	Užší řízení - test	OTIDEA	05844428	Užší řízení	Služby	10. 7. 2026	10. 7. 2026	6 000 000,00 Kč	
 
+Změny závazků ve VZ
+
+
   
 	„Projektování, výstavba, provozování a poskytování sociálních služeb domova pro seniory Tuklaty“	Obec Tuklaty	00235822	Koncesní řízení	Služby	10. 7. 2026	3. 8. 2026	Neuvedeno	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	Komunální vozidlo s příslušenstvím	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	9. 7. 2026	29. 7. 2026	2 900 000,00 Kč	
@@ -57,33 +72,18 @@ Práva dodavatele v zadávacím řízení
   
 	Splašková kanalizace Němčice	Obec Němčice	00238317	Užší řízení	Stavební práce	8. 7. 2026	31. 7. 2026	59 321 737,00 Kč	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Obměna vozového parku 2026 – dodávka užitkového vozidla – 2.výzva	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	8. 7. 2026	29. 7. 2026	Neuvedeno	
-
-Změny závazků ve VZ
-
 
   
 	Vodní nádrže Lučinka II Lučice	Obec Bělotín	00301019	Zakázka malého rozsahu	Stavební práce	16. 4. 2026	27. 4. 2026	Neuvedeno	
 
   
 	Dolní Boříkovice – kostel Povýšení svatého Kříže, dýmování a insekticidní ošetření mobiliáře	Římskokatolická farnost Králíky	44468750	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
-
-  
-	Modernizace rozhraní základních registrů a legislativní úpravy PIS AVA	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Jednací řízení bez uveřejnění	Služby	8. 7. 2026	22. 7. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	II/347 Světlá nad Sázavou – přeložka silnice	Město Světlá nad Sázavou	00268321	Otevřené řízení	Stavební práce	2. 7. 2026	12. 8. 2026	142 257 275,00 Kč	
-
-  
-	Nekoř, kostel sv. Mikuláše, restaurování hlavního oltáře	Římskokatolická farnost Nekoř	49312138	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
-
-  
-	ENERGETICKÉ ÚSPORY VEŘEJNÉHO OSVĚTLENÍ RADOMYŠL	Městys Radomyšl	00251721	Zjednodušené podlimitní řízení	Dodávky	8. 7. 2026	29. 7. 2026	3 260 117,95 Kč	
-Stránka 1 z 178 (2134 položek)12345. . .178
+Stránka 1 z 179 (2138 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem

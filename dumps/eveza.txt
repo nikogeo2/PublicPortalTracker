@@ -1,6 +1,6 @@
 Zdroj: eveza
 URL: https://www.eveza.cz/verejne-zakazky
-Staženo: 2026-07-12T08:38:18.896527+00:00
+Staženo: 2026-07-13T09:54:34.358382+00:00
 ------------------------------------------------------------
 Na Vašem soukromí nám záleží
 
@@ -63,6 +63,8 @@ Zavedeno	03.05.2028 10:00	Lesy České republiky, s.p.
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
  Přeprava dříví po železnici (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
+ Služby pěstování reprodukčního materiálu lesních dřevin (DNS)
+Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
  Přeprava dříví (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
  Dodávky sadebního materiálu (DNS)
@@ -70,8 +72,6 @@ Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.
  Provádění těžebních činností 2020+ (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
  Dodávky pneumatik (DNS)
-Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
- Služby pěstování reprodukčního materiálu lesních dřevin (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
 Provádění pěstebních činností 2021+ (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
