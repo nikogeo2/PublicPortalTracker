@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-13T09:54:43.493848+00:00
+Staženo: 2026-07-14T08:35:27.565970+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -40,16 +40,31 @@ Předp. cena	 
 	
 		 
   
+	Vodovodní řad a přípojky pro bytové domy čp. 1147, 1148, 1149, 1150, 1151 a 1152, ul. Budovcova, Poděbrady	Město Poděbrady	00239640	Zakázka malého rozsahu	Stavební práce	13. 7. 2026	28. 7. 2026	Neuvedeno	
+
+  
+	Stavební úpravy a přístavba objektu ZŠ Václava Havla, jižní část	Město Poděbrady	00239640	Zjednodušené podlimitní řízení	Stavební práce	13. 7. 2026	3. 8. 2026	Neuvedeno	
+
+  
+	Sdružené služby dodávky elektrické energie na roky 2027, 2028 a 2029	Město Lysá nad Labem	00239402	Jednací řízení bez uveřejnění	Dodávky	 	 	23 143 649,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Databázové servery (generační obměna MSSQL 01 a MSSQL 02)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zjednodušené podlimitní řízení	Dodávky	13. 7. 2026	29. 7. 2026	5 000 000,00 Kč	
+
+  
 	Licence IP Fabric	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	24. 7. 2026	Neuvedeno	
 
   
 	Stavba ČOV pro budovy čp.109 a 190 v kú.Strahovice	Obec Strahovice	00534668	Zakázka malého rozsahu	Stavební práce	17. 4. 2026	13. 5. 2026	3 605 800,00 Kč	
 
+Změny závazků ve VZ
+
+
   
 	Dodavatel nafty pro vozidla TSMP	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Dodávky	13. 7. 2026	28. 7. 2026	2 900 000,00 Kč	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	Nízkoteplotní kalorimetr typu 3D Calvet pro měření tepelné kapacity a latentního tepla	Ústav termomechaniky AV ČR, v.v.i.	61388998	Otevřené řízení	Dodávky	10. 7. 2026	11. 8. 2026	9 800 000,00 Kč	
@@ -57,33 +72,18 @@ Práva dodavatele v zadávacím řízení
   
 	Novostavba pobytového ekocentra	ZO ČSOP Polabí	70843473	Zjednodušené podlimitní řízení	Stavební práce	10. 7. 2026	28. 7. 2026	40 147 486,88 Kč	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Užší řízení - test	OTIDEA	05844428	Užší řízení	Služby	10. 7. 2026	10. 7. 2026	6 000 000,00 Kč	
-
-Změny závazků ve VZ
-
 
   
 	„Projektování, výstavba, provozování a poskytování sociálních služeb domova pro seniory Tuklaty“	Obec Tuklaty	00235822	Koncesní řízení	Služby	10. 7. 2026	3. 8. 2026	Neuvedeno	
 
   
 	Komunální vozidlo s příslušenstvím	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	9. 7. 2026	29. 7. 2026	2 900 000,00 Kč	
-
-  
-	Splašková kanalizace Němčice	Obec Němčice	00238317	Užší řízení	Stavební práce	8. 7. 2026	31. 7. 2026	59 321 737,00 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Obměna vozového parku 2026 – dodávka užitkového vozidla – 2.výzva	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	8. 7. 2026	29. 7. 2026	Neuvedeno	
-
-  
-	Vodní nádrže Lučinka II Lučice	Obec Bělotín	00301019	Zakázka malého rozsahu	Stavební práce	16. 4. 2026	27. 4. 2026	Neuvedeno	
-
-  
-	Dolní Boříkovice – kostel Povýšení svatého Kříže, dýmování a insekticidní ošetření mobiliáře	Římskokatolická farnost Králíky	44468750	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
-Stránka 1 z 179 (2138 položek)12345. . .179
+Stránka 1 z 179 (2140 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
