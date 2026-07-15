@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-14T08:35:27.565970+00:00
+Staženo: 2026-07-15T08:42:08.657871+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -40,7 +40,40 @@ Předp. cena	 
 	
 		 
   
+	Posypová sůl pro zimní údržbu vozovek	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	15. 7. 2026	3. 8. 2026	Neuvedeno	
+
+  
+	Revitalizace sportovního areálu Janov nad Nisou	Obec Janov nad Nisou	00262358	Zjednodušené podlimitní řízení	Stavební práce	14. 7. 2026	31. 7. 2026	14 176 965,00 Kč	
+
+  
+	Obnova veřejného osvětlení - KD	Obec Hostěrádky - Rešov	00372081	Zjednodušené podlimitní řízení	Stavební práce	 	 	765 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Rozvoj pracovníků pobočkových pracovišť	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	14. 7. 2026	14. 8. 2026	Neuvedeno	
+
+  
+	Architekt kybernetické bezpečnosti	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	14. 7. 2026	31. 7. 2026	Neuvedeno	
+
+  
+	Oprava části místní komunikace Vinohradská - Bečov	Obec Bečov	00265811	Poptávkové řízení	Stavební práce	14. 5. 2026	15. 7. 2026	950 000,00 Kč	
+
+Změny závazků ve VZ
+
+
+  
+	Nákup sporáků se sklokeramickou deskou a horkovzdušnou troubou společností BYTES Tábor s.r.o.	Město Tábor	00253014	Zakázka malého rozsahu	Dodávky	14. 7. 2026	29. 7. 2026	Neuvedeno	
+
+  
+	KOMPLEXNÍ STAVEBNÍ REVITALIZACE A MODERNIZACE OBECNÍHO MULTIFUNKČNÍHO OBJEKTU VE STRAHOVICÍCH	Obec Strahovice	00534668	Otevřené řízení	Stavební práce	14. 7. 2026	17. 8. 2026	20 500 000,00 Kč	
+
+  
 	Vodovodní řad a přípojky pro bytové domy čp. 1147, 1148, 1149, 1150, 1151 a 1152, ul. Budovcova, Poděbrady	Město Poděbrady	00239640	Zakázka malého rozsahu	Stavební práce	13. 7. 2026	28. 7. 2026	Neuvedeno	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Stavební úpravy a přístavba objektu ZŠ Václava Havla, jižní část	Město Poděbrady	00239640	Zjednodušené podlimitní řízení	Stavební práce	13. 7. 2026	3. 8. 2026	Neuvedeno	
@@ -48,42 +81,9 @@ Předp. cena	 
   
 	Sdružené služby dodávky elektrické energie na roky 2027, 2028 a 2029	Město Lysá nad Labem	00239402	Jednací řízení bez uveřejnění	Dodávky	 	 	23 143 649,00 Kč	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Databázové servery (generační obměna MSSQL 01 a MSSQL 02)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zjednodušené podlimitní řízení	Dodávky	13. 7. 2026	29. 7. 2026	5 000 000,00 Kč	
-
-  
-	Licence IP Fabric	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	24. 7. 2026	Neuvedeno	
-
-  
-	Stavba ČOV pro budovy čp.109 a 190 v kú.Strahovice	Obec Strahovice	00534668	Zakázka malého rozsahu	Stavební práce	17. 4. 2026	13. 5. 2026	3 605 800,00 Kč	
-
-Změny závazků ve VZ
-
-
-  
-	Dodavatel nafty pro vozidla TSMP	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Dodávky	13. 7. 2026	28. 7. 2026	2 900 000,00 Kč	
-
-  
-	Nízkoteplotní kalorimetr typu 3D Calvet pro měření tepelné kapacity a latentního tepla	Ústav termomechaniky AV ČR, v.v.i.	61388998	Otevřené řízení	Dodávky	10. 7. 2026	11. 8. 2026	9 800 000,00 Kč	
-
-  
-	Novostavba pobytového ekocentra	ZO ČSOP Polabí	70843473	Zjednodušené podlimitní řízení	Stavební práce	10. 7. 2026	28. 7. 2026	40 147 486,88 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Užší řízení - test	OTIDEA	05844428	Užší řízení	Služby	10. 7. 2026	10. 7. 2026	6 000 000,00 Kč	
-
-  
-	„Projektování, výstavba, provozování a poskytování sociálních služeb domova pro seniory Tuklaty“	Obec Tuklaty	00235822	Koncesní řízení	Služby	10. 7. 2026	3. 8. 2026	Neuvedeno	
-
-  
-	Komunální vozidlo s příslušenstvím	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	9. 7. 2026	29. 7. 2026	2 900 000,00 Kč	
-Stránka 1 z 179 (2140 položek)12345. . .179
+Stránka 1 z 179 (2147 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
