@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-17T08:34:33.064625+00:00
+Staženo: 2026-07-18T08:18:16.509119+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -11,7 +11,7 @@ Informační panel / Information panel
 
 UPOZORNĚNÍ
 
-Dne 10.7.2026 od 22:00 - 06:00 hod. bude probíhat údržba systému zadavatele, takže nebudou funkční aplikace. Omlouváme se a děkujeme za pochopení.
+Dne 18.7.2026 od 22:00 - 06:00 hod. bude probíhat údržba systému zadavatele, takže nebudou funkční aplikace. Omlouváme se a děkujeme za pochopení.
 
 Veřejné zakázky
 	
@@ -40,16 +40,19 @@ Předp. cena	 
 	
 		 
   
+	Firmware monitoru Eizo RP2126	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	30. 7. 2026	Neuvedeno	
+
+  
 	Novostavba skladu posypové soli v areálu plánských služeb	Město Planá	00260096	Zakázka malého rozsahu	Stavební práce	17. 7. 2026	31. 7. 2026	8 120 000,00 Kč	
 
   
 	Nákup sanitární keramiky společností BYTES Tábor s.r.o.	Město Tábor	00253014	Zakázka malého rozsahu	Dodávky	17. 7. 2026	3. 8. 2026	Neuvedeno	
 
-  
-	VYHOTOVENÍ PROJEKTOVÉ DOKUMENTACE – KABINY NA FOTBALOVÉM HŘIŠTI V OBCI BŘÍZA	Obec Bříza	00263419	Zakázka malého rozsahu	Služby	17. 7. 2026	3. 8. 2026	Neuvedeno	
-
 Práva dodavatele v zadávacím řízení
 
+
+  
+	VYHOTOVENÍ PROJEKTOVÉ DOKUMENTACE – KABINY NA FOTBALOVÉM HŘIŠTI V OBCI BŘÍZA	Obec Bříza	00263419	Zakázka malého rozsahu	Služby	17. 7. 2026	3. 8. 2026	Neuvedeno	
 
   
 	Zázemí pro technické služby Štramberk – vybudování zásobníků na sypké hmoty	Město Štramberk	00298468	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	17. 8. 2026	Neuvedeno	
@@ -57,11 +60,11 @@ Práva dodavatele v zadávacím řízení
   
 	ŠTĚTÍ – OBNOVA CHODNÍKU NA LABSKÉM NÁBŘEŽÍ	Město Štětí	00264466	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	7. 8. 2026	1 293 629,00 Kč	
 
-  
-	Datové přepínače fibre channel (SAN)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zjednodušené podlimitní řízení	Dodávky	16. 7. 2026	3. 8. 2026	5 000 000,00 Kč	
-
 Změny závazků ve VZ
 
+
+  
+	Datové přepínače fibre channel (SAN)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zjednodušené podlimitní řízení	Dodávky	16. 7. 2026	3. 8. 2026	5 000 000,00 Kč	
 
   
 	ZŠ Zliv – dodávka a instalace školního nábytku	Město Zliv	00245721	Zjednodušené podlimitní řízení	Dodávky	16. 7. 2026	3. 8. 2026	Neuvedeno	
@@ -69,21 +72,18 @@ Změny závazků ve VZ
   
 	Oprava chodníků Pražská - Dolnokubínská	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	29. 7. 2026	980 000,00 Kč	
 
-  
-	Oprava chodníku na jižní straně Selicharovy ulice v Hradci Králové- Etapa I.	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	3. 8. 2026	Neuvedeno	
-
 Jak se bránit proti postupu zadavatele
 
+
+  
+	Oprava chodníku na jižní straně Selicharovy ulice v Hradci Králové- Etapa I.	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	3. 8. 2026	Neuvedeno	
 
   
 	Obnova víceúčelového hřiště Žihle	Obec Žihle	00258580	Zakázka malého rozsahu	Stavební práce	 	 	1 446 565,00 Kč	
 
   
 	Rekonstrukce komunikace na pozemku 1031/1 a 1030/1 v k. ú. Polepy	Obec Polepy	00264202	Zjednodušené podlimitní řízení	Stavební práce	16. 7. 2026	3. 8. 2026	5 603 377,69 Kč	
-
-  
-	Parkovací stání a úprava VO ul. Dukelská, Zliv	Město Zliv	00245721	Zjednodušené podlimitní řízení	Stavební práce	15. 7. 2026	7. 8. 2026	30 103 365,00 Kč	
-Stránka 1 z 180 (2154 položek)12345. . .180
+Stránka 1 z 180 (2152 položek)12345. . .180
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
