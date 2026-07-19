@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-07-18T08:17:58.895573+00:00
+Staženo: 2026-07-19T08:42:47.536873+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,9 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00015152	Rekonstrukce teplovodu a ops Na Libuši, Bechyni	Awarded	Město Bechyně	08. 06. 2026 15:00
+Detail	N006/26/V00013467	Dočasná stavba skladového a výstavního hangáru pro letadla a stroje Technického muzea v Brně - Design & Build	Not terminated	Technické muzeum v Brně	20. 07. 2026 00:00
+Detail	N006/26/V00022768	Oprava silnice III/3712 Rozstání Úprava chodníků v katastru obce Rozstání (I. a II. etapa)	Awarded	Obec Rozstání	
 Detail	N006/26/V00022012	Nákup traktoru s lesnickou nástavbou	Not terminated	Statutární město Zlín	05. 08. 2026 10:00
 Detail	N006/26/V00018490	MUO, SEFO -Vytvoření digitálního modelu pro provádění stavby na základě dokumentace pro provádění stavby	Not terminated	Muzeum umění Olomouc	24. 07. 2026 08:00
 Detail	N006/26/V00019479	Skvrňov – veřejné osvětlení	Cancelled	Obec Skvrňov	21. 07. 2026 10:00
@@ -536,9 +539,6 @@ Detail	N006/26/V00018679	12 Výzva k RD - oprava Fabia	Termination of performanc
 Detail	N006/26/V00011519	26. DP 2026 Čechy opravy a údržba služebních vozidel Š a VW	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00019614	GŘ OL – Služební pracovní stejnokroje 2026 (VZN)	Not terminated	Vězeňská služba České republiky	15. 09. 2026 10:00
 Detail	N006/26/V00014318	Nákup licencí Microsoft včetně Microsoft Software Assurance na 3 roky	Awarded	Ústavní soud	15. 06. 2026 10:00
-Detail	N006/26/V00020377	Výzva č. 274 k RD 23106000347	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00013761	10 Realizační smlouva - oprava T-815	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00011502	02 Výzva k RD - oprava ÚDS	Termination of performance	Ministerstvo obrany	
 LOAD ANOTHER 50
 Page
 1
