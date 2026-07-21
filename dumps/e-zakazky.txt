@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-20T09:42:03.543871+00:00
+Staženo: 2026-07-21T09:09:03.629590+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,6 +33,18 @@ Předp. cena	 
 	
 		 
   
+	Svoz a nakládání s odpadem pro obec Průhonice	Obec Průhonice	00241563	Otevřené řízení	Služby	21. 7. 2026	24. 8. 2026	25 816 334,00 Kč	
+
+  
+	Třístranný sklápěč s kropící nástavbou + ZÚ	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zjednodušené podlimitní řízení	Dodávky	21. 7. 2026	6. 8. 2026	4 150 000,00 Kč	
+
+  
+	Veletiny - odkanalizování obce	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	20. 7. 2026	21. 8. 2026	350 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
 	Elektronický systém spisové služby s atestací	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Otevřené řízení	Dodávky	17. 7. 2026	17. 8. 2026	11 000 000,00 Kč	
 
   
@@ -41,7 +53,7 @@ Předp. cena	 
   
 	Novostavba skladu posypové soli v areálu plánských služeb	Město Planá	00260096	Zakázka malého rozsahu	Stavební práce	17. 7. 2026	31. 7. 2026	8 120 000,00 Kč	
 
-Práva dodavatele v zadávacím řízení
+Změny závazků ve VZ
 
 
   
@@ -53,7 +65,7 @@ Práva dodavatele v zadávacím řízení
   
 	Zázemí pro technické služby Štramberk – vybudování zásobníků na sypké hmoty	Město Štramberk	00298468	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	17. 8. 2026	Neuvedeno	
 
-Změny závazků ve VZ
+Jak se bránit proti postupu zadavatele
 
 
   
@@ -64,18 +76,6 @@ Změny závazků ve VZ
 
   
 	ZŠ Zliv – dodávka a instalace školního nábytku	Město Zliv	00245721	Zjednodušené podlimitní řízení	Dodávky	16. 7. 2026	3. 8. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Oprava chodníků Pražská - Dolnokubínská	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	29. 7. 2026	980 000,00 Kč	
-
-  
-	Oprava chodníku na jižní straně Selicharovy ulice v Hradci Králové- Etapa I.	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Stavební práce	16. 7. 2026	3. 8. 2026	Neuvedeno	
-
-  
-	Obnova víceúčelového hřiště Žihle	Obec Žihle	00258580	Zakázka malého rozsahu	Stavební práce	 	 	1 446 565,00 Kč	
 Stránka 1 z 180 (2152 položek)12345. . .180
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
