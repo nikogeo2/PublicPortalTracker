@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-07-25T08:29:30.538168+00:00
+Staženo: 2026-07-26T08:55:40.613581+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,12 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00018955	ZZS ZK – Komunikační OBU jednotky II	Awarded	Zdravotnická záchranná služba Zlínského kraje, příspěvková organizace	29. 06. 2026 13:00
+Detail	N006/26/V00018288	54-2 JN - Prkna snowboardová II. pro ASC DUKLA - 2026	Awarded	Ministerstvo obrany	10. 07. 2026 09:00
+Detail	N006/26/V00018283	54-1 JN - Prkna snowboardová I. pro ASC DUKLA - 2026	Awarded	Ministerstvo obrany	10. 07. 2026 09:00
+Detail	N006/26/V00004643	Nástavba ZŠ Jaroměřice	Cancelled	Obec Jaroměřice	29. 05. 2026 09:00
+Detail	N006/25/V00017621	Borkovany - novostavba rodinného domu se 3 bytovými jednotkami	Awarded	Obec Borkovany	12. 06. 2025 10:00
+Detail	N006/26/V00023598	„Zápy - Oprava střechy MŠ Zápy“	Awarded	Městys Zápy	
 Detail	N006/26/V00015298	SNÍŽENÍ ENERGETICKÉ NÁROČNOSTI TEKO TRUTNOV a.s. – ADMINISTRATIVA	Awarded	TEKO Trutnov a.s.	18. 06. 2026 10:00
 Detail	N006/26/V00023497	Nákup tlakových láhví a ventilu	Not terminated	Ministerstvo obrany	05. 08. 2026 07:30
 Detail	N006/26/V00023496	Nákup multispektrálního optického zařízení 7ks	Not terminated	Ministerstvo obrany	05. 08. 2026 07:00
@@ -533,12 +539,6 @@ Detail	N006/26/V00022689	Komunikace a chodník, Marefy	Not terminated	Město Bu�
 Detail	N006/26/V00021641	26558/2026-ZE, Chemikálie pro hmotnostní spektrometrii	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00017775	Obnova podpory páskových knihoven Actilib	Awarded	Digitální a informační agentura	22. 06. 2026 10:00
 Detail	N006/26/V00023079	Server pro detekci anomálií	Not terminated	Středisko společných činností AV ČR, v. v. i.	28. 08. 2026 10:00
-Detail	N006/26/V00005491	KŘP Lbk – OOP Stráž p. Ralskem – rekonstrukce objektu – stavební práce	Awarded	Krajské ředitelství policie Libereckého kraje	21. 05. 2026 13:00
-Detail	N006/26/V00021592	26559/2026-ZE, Biochemický prostředek pro detekci nervově paralytických látek - detehit	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00023136	Praní a chemické čištění prádla	Not terminated	Krajské ředitelství policie Jihomoravského kraje	04. 08. 2026 09:00
-Detail	N006/25/V00040426	Vozidlo s alternativním pohonem – obec Polnička	Termination of performance	Obec Polnička	
-Detail	N006/26/V00002897	Dodávka kovových regálů pro uložení knihovního fondu	Awarded	Město Jičín	02. 03. 2026 09:00
-Detail	N006/26/V00023234	Park Houbalova	Not terminated	Statutární město Brno	15. 09. 2026 09:00
 LOAD ANOTHER 50
 Page
 1
