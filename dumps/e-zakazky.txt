@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-07-26T08:55:57.899888+00:00
+Staženo: 2026-07-27T10:26:26.524774+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,16 +33,31 @@ Předp. cena	 
 	
 		 
   
+	Výběr poskytovatele mobilních služeb elektronických komunikací – předběžná tržní konzultace	Pražské vodovody a kanalizace, a.s.	25656635	Poptávkové řízení	Služby	24. 7. 2026	17. 8. 2026	Neuvedeno	
+
+  
+	Rekonstrukce dešťové kanalizace	Obec Hamry na Sázavou	00543870	Zakázka malého rozsahu	Stavební práce	14. 11. 2025	25. 11. 2025	1 500 000,00 Kč	
+
+  
+	Oprava komunikace po stavbě vodovodu	Obec Hamry na Sázavou	00543870	Zakázka malého rozsahu	Stavební práce	17. 7. 2026	22. 7. 2026	1 800 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Pravidelný úklid Schebkova paláce 2026 – 2030	Ekonomický ústav AV ČR, v. v. i.	67985998	Otevřené řízení	Služby	27. 7. 2026	25. 8. 2026	4 200 000,00 Kč	
+
+  
 	Hanušovice – Holba	Město Hanušovice	00302546	Zjednodušené podlimitní řízení	Stavební práce	27. 7. 2026	17. 8. 2026	23 763 447,19 Kč	
 
   
 	Dodavatel multifunkčního komunálního traktoru	Statutární město Brno, MČ Brno - Maloměřice a Obřany	44992785	Poptávkové řízení	Dodávky	24. 7. 2026	4. 8. 2026	Neuvedeno	
 
+Změny závazků ve VZ
+
+
   
 	Výměna střešní krytiny včetně umístění fotovoltaické elektrárny Základní škola Dolní Životice	Obec Dolní Životice	00635570	Zakázka malého rozsahu	Stavební práce	3. 6. 2026	24. 6. 2026	2 500 000,00 Kč	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	Rekonstrukce místní komunikace U Bažantnice II. etapa	Město Poděbrady	00239640	Zjednodušené podlimitní řízení	Stavební práce	23. 7. 2026	10. 8. 2026	8 851 851,78 Kč	
@@ -50,33 +65,18 @@ Práva dodavatele v zadávacím řízení
   
 	Mobilní diesel agregát kapotovaný na brzděném podvozku	Sociální služby města Havlíčkova Brodu	70188467	Zakázka malého rozsahu	Dodávky	23. 7. 2026	14. 8. 2026	950 000,00 Kč	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Výměna střešní krytiny, Deblín č.p. 320	Městys Deblín	00281697	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
-
-Změny závazků ve VZ
-
 
   
 	CAS 20/4000/240 – S2R pro SDH Okříšky	Městys Okříšky	00290050	Otevřené řízení	Dodávky	22. 7. 2026	25. 8. 2026	10 000 000,00 Kč	
 
   
 	Polopodzemní kontejnery Poděbrady – V. etapa	Město Poděbrady	00239640	Zakázka malého rozsahu	Stavební práce	23. 7. 2026	7. 8. 2026	Neuvedeno	
-
-  
-	Koupě nemovitosti	OBEC OČELICE	00275158	Zakázka malého rozsahu	Dodávky	 	 	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Přístavba objektu šaten a zázemí pro mládežnické fotbalové týmy	Městys Okříšky	00290050	Zjednodušené podlimitní řízení	Stavební práce	22. 7. 2026	12. 8. 2026	10 318 683,81 Kč	
-
-  
-	Licence PAM	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	22. 7. 2026	3. 8. 2026	1 200 000,00 Kč	
-
-  
-	Terasa a její zastřešení	Město Blansko	00279943	Zakázka malého rozsahu	Stavební práce	22. 7. 2026	5. 8. 2026	Neuvedeno	
-Stránka 1 z 180 (2153 položek)12345. . .180
+Stránka 1 z 180 (2151 položek)12345. . .180
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
