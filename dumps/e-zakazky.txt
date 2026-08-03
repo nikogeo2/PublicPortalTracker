@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-08-02T08:43:40.908701+00:00
+Staženo: 2026-08-03T10:12:38.723414+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,16 @@ Předp. cena	 
 	
 		 
   
+	Úprava plochy parc. č. 17 v Bludově	Obec Bludov	00302368	Zakázka malého rozsahu	Stavební práce	3. 8. 2026	3. 8. 2026	2 272 211,00 Kč	
+
+  
+	Výstavba multifunkčního hřiště	Obec Vrcovice	00476471	Zakázka malého rozsahu	Stavební práce	 	 	4 000 000,00 Kč	
+
+  
 	Rekonstrukce komunikace na parcele č. 1566/3, k.ú. Životice u Nového Jičína	Obec Životice u Nového Jičína	48804711	Zakázka malého rozsahu	Stavební práce	30. 7. 2026	30. 7. 2026	Neuvedeno	
+
+Práva dodavatele v zadávacím řízení
+
 
   
 	Místní a účelové komunikace, chodníky obec Labska Stráň.	Obec Labská Stráň	00555991	Zakázka malého rozsahu	Stavební práce	6. 5. 2026	25. 5. 2026	1 054 701,00 Kč	
@@ -41,11 +50,11 @@ Předp. cena	 
   
 	Vakuová kalící pec	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	31. 7. 2026	20. 8. 2026	1 446 281,00 Kč	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Výroba plastových karet EHIC	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Zakázka malého rozsahu	Dodávky	31. 7. 2026	14. 8. 2026	3 000 000,00 Kč	
+
+Změny závazků ve VZ
+
 
   
 	Spolehlivé diskové pole – rozšířené zadání	Fyzikální ústav AV ČR, v. v. i.	68378271	Zjednodušené podlimitní řízení	Dodávky	30. 7. 2026	21. 8. 2026	3 373 550,00 Kč	
@@ -53,11 +62,11 @@ Práva dodavatele v zadávacím řízení
   
 	Oprava místní komunikace a dešťové kanalizace v ulici Nad nádražím	OBEC NEMOJANY	00292125	Zakázka malého rozsahu	Stavební práce	9. 6. 2026	22. 6. 2026	Neuvedeno	
 
-Změny závazků ve VZ
-
-
   
 	Benchtop NMR Spectrometer	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	30. 7. 2026	20. 8. 2026	1 700 000,00 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Novostavba chodníku v ulici Dubinská ve Zruči nad Sázavou	Město Zruč nad Sázavou	00236667	Zjednodušené podlimitní řízení	Stavební práce	30. 7. 2026	19. 8. 2026	Neuvedeno	
@@ -65,18 +74,9 @@ Změny závazků ve VZ
   
 	Technická podpora a profylaktické služby zálohovací a archivační infrastruktury	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	30. 7. 2026	10. 8. 2026	Neuvedeno	
 
-Jak se bránit proti postupu zadavatele
-
-
   
 	Reklama a propagace II. – Minitendr č. 1	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	30. 7. 2026	7. 8. 2026	20 000,00 Kč	
-
-  
-	Oprava polní esty k obecnímu lesu Forota	Obec Jamné	00285960	Zakázka malého rozsahu	Stavební práce	 	 	1 148 638,00 Kč	
-
-  
-	Rekonstrukce sestavy vzduchotechniky a chlazení ve strojovně F42	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Stavební práce	29. 7. 2026	20. 8. 2026	5 160 000,00 Kč	
-Stránka 1 z 179 (2141 položek)12345. . .179
+Stránka 1 z 179 (2140 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
