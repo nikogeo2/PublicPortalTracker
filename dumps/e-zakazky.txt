@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-08-03T10:12:38.723414+00:00
+Staženo: 2026-08-04T09:20:03.324081+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,40 @@ Předp. cena	 
 	
 		 
   
+	Založení stromořadí a alejí v obci Malý Újezd	Obec Malý Újezd	00237043	Zjednodušené podlimitní řízení	Služby	4. 8. 2026	24. 8. 2026	4 557 876,18 Kč	
+
+  
+	Doplnění veřejného osvětlení Obce Milenov	Obec Milenov	00301582	Zakázka malého rozsahu	Stavební práce	4. 8. 2026	17. 8. 2026	Neuvedeno	
+
+  
+	Energeticky úsporná opatření na objektu fary ŘKC Rokytnice v Orlických horách	Římskokatolická farnost Rokytnice v Orlických horách	60884428	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	NAVÝŠENÍ KAPACITY ZŠ BOHUTÍN	Obec Bohutín	00241946	Zjednodušené podlimitní řízení	Stavební práce	3. 8. 2026	26. 8. 2026	35 000 000,00 Kč	
+
+  
+	Opravy asfaltových povrchů a oprava krajnic	Obec Rokle	00262129	Zakázka malého rozsahu	Stavební práce	29. 4. 2026	4. 8. 2026	1 658 444,15 Kč	
+
+  
+	"Osazení obrubníků - ulice Na Újezdě"	Obec Rudice	00280895	Poptávkové řízení	Stavební práce	 	 	Neuvedeno	
+
+Změny závazků ve VZ
+
+
+  
+	Dodávka zemního plynu maloodběr, velkoodběr	Městská část Praha 2	00063461	Jednací řízení bez uveřejnění	Dodávky	 	 	60 876 273,00 Kč	
+
+  
+	Výměna svítidel ve městě Krnov na ul. Okružní, Poštovní, Blatná, Hlubčická	Technické služby Krnov s.r.o.	25398547	Zakázka malého rozsahu	Dodávky	29. 6. 2026	13. 7. 2026	1 500 000,00 Kč	
+
+  
 	Úprava plochy parc. č. 17 v Bludově	Obec Bludov	00302368	Zakázka malého rozsahu	Stavební práce	3. 8. 2026	3. 8. 2026	2 272 211,00 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Výstavba multifunkčního hřiště	Obec Vrcovice	00476471	Zakázka malého rozsahu	Stavební práce	 	 	4 000 000,00 Kč	
@@ -41,42 +74,9 @@ Předp. cena	 
   
 	Rekonstrukce komunikace na parcele č. 1566/3, k.ú. Životice u Nového Jičína	Obec Životice u Nového Jičína	48804711	Zakázka malého rozsahu	Stavební práce	30. 7. 2026	30. 7. 2026	Neuvedeno	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Místní a účelové komunikace, chodníky obec Labska Stráň.	Obec Labská Stráň	00555991	Zakázka malého rozsahu	Stavební práce	6. 5. 2026	25. 5. 2026	1 054 701,00 Kč	
-
-  
-	Vakuová kalící pec	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	31. 7. 2026	20. 8. 2026	1 446 281,00 Kč	
-
-  
-	Výroba plastových karet EHIC	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Zakázka malého rozsahu	Dodávky	31. 7. 2026	14. 8. 2026	3 000 000,00 Kč	
-
-Změny závazků ve VZ
-
-
-  
-	Spolehlivé diskové pole – rozšířené zadání	Fyzikální ústav AV ČR, v. v. i.	68378271	Zjednodušené podlimitní řízení	Dodávky	30. 7. 2026	21. 8. 2026	3 373 550,00 Kč	
-
-  
-	Oprava místní komunikace a dešťové kanalizace v ulici Nad nádražím	OBEC NEMOJANY	00292125	Zakázka malého rozsahu	Stavební práce	9. 6. 2026	22. 6. 2026	Neuvedeno	
-
-  
-	Benchtop NMR Spectrometer	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	30. 7. 2026	20. 8. 2026	1 700 000,00 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Novostavba chodníku v ulici Dubinská ve Zruči nad Sázavou	Město Zruč nad Sázavou	00236667	Zjednodušené podlimitní řízení	Stavební práce	30. 7. 2026	19. 8. 2026	Neuvedeno	
-
-  
-	Technická podpora a profylaktické služby zálohovací a archivační infrastruktury	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	30. 7. 2026	10. 8. 2026	Neuvedeno	
-
-  
-	Reklama a propagace II. – Minitendr č. 1	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	30. 7. 2026	7. 8. 2026	20 000,00 Kč	
-Stránka 1 z 179 (2140 položek)12345. . .179
+Stránka 1 z 179 (2146 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
