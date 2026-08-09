@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-08-08T07:28:24.287528+00:00
+Staženo: 2026-08-09T07:31:06.776265+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,12 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00021016	Rekonstrukce vily Birnbaum	Not terminated	GT Property Management s.r.o.	19. 08. 2026 10:00
+Detail	N006/25/V00036262	Rekonstrukce b.j. 7/7 o velikosti 1+1 – nám. T.G.Masaryka, Bechyně	Termination of performance	Město Bechyně	
+Detail	N006/25/V00030657	Rekonstrukce BJ č. 805/1 o velikosti 2+1 – Obránců Míru, Bechyně	Termination of performance	Město Bechyně	
+Detail	N006/25/V00036260	Rekonstrukce b.j. 808/5 o velikosti 3+1 – Obránců míru, Bechyně	Termination of performance	Město Bechyně	
+Detail	N006/26/V00025258	Dodávka a implementace nového lokálního katalogu otevřených dat Ministerstva vnitra	Not terminated	Ministerstvo vnitra	20. 08. 2026 10:00
+Detail	N006/26/V00025259	Oprava opěrné zdi, st.p.č.82, k.ú. Dolní Žandov	Awarded	Obec Dolní Žandov	
 Detail	N006/26/V00017890	Zajištění komunikační platformy pro Bezpečnostní dohledové centrum - Telekomunikační služby II.	Not terminated	Moravskoslezské datové centrum, příspěvková organizace	24. 07. 2026 10:00
 Detail	N006/26/V00012889	Chodníky v průtahu obci Litostrov	Awarded	Obec Litostrov	22. 05. 2026 10:00
 Detail	N006/26/V00021635	Úklidové služby objektů MPSV v Praze (2026+)	Not terminated	Ministerstvo práce a sociálních věcí	13. 08. 2026 09:00
@@ -533,12 +539,6 @@ Detail	N006/26/V00016119	Výzva k podání nabídky 4023	Termination of performa
 Detail	N006/26/V00024445	Oprava střechy na budově č.1 v areálu KVV Zlín	Not terminated	Ministerstvo obrany	18. 08. 2026 12:00
 Detail	N006/26/V00022546	Provedení pravidelné servisní údržby autobusů IVECO CROSSWAY.	Termination of performance	Ministerstvo obrany	28. 07. 2026 07:00
 Detail	N006/26/V00025002	VZ - OOP ŽLUTICE – OPRAVA VÝMĚNÍKOVÉ STANICE	Not terminated	Krajské ředitelství policie Karlovarského kraje	14. 08. 2026 08:00
-Detail	N006/26/V00019682	Zhotovení PD – Silnice III/370 - rekonstrukce mostu ev. č. 370-025 přes řeku Moravici před obcí Velká Štáhle	Awarded	Správa silnic Moravskoslezského kraje, příspěvková organizace	07. 07. 2026 08:00
-Detail	N006/26/V00015507	Dodávka, rozvoj a provoz softwarového řešení agendového informačního systému	Not terminated	Státní fond audiovize	21. 09. 2026 14:00
-Detail	N006/26/V00022932	Dodávka ochranných folií invisibleshield	Not terminated	Krajské ředitelství policie hlavního města Prahy	30. 07. 2026 09:00
-Detail	N006/26/V00024918	Hasičská výstroj	Not terminated	Ministerstvo obrany	21. 08. 2026 23:59
-Detail	N006/26/V00008762	Výzva k podání nabídky 3014	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00022517	SPS 0401 Oprava komunikace k ubytovně	Cancelled	Ministerstvo obrany	28. 07. 2026 10:00
 LOAD ANOTHER 50
 Page
 1
