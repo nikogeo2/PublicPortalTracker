@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-08-11T07:45:54.283093+00:00
+Staženo: 2026-08-12T07:59:31.437739+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,28 @@ Předp. cena	 
 	
 		 
   
+	Elektrický osobní automobil	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	12. 8. 2026	31. 8. 2026	Neuvedeno	
+
+  
+	Končiny u Litomyšle, Křížová cesta, obnova zastavení křížové cesty I.-VI.+VIII.-III.etapa	Římskokatolická farnost - proboštství Litomyšl	47489014	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
+
+  
+	Spolkový dům OPAT - přestavba sociálního zařízení, zásobovacího jádra objektu a prostor zázemí kuchyňského provozu	OBEC OPATOVICE NAD LABEM	00274011	Zakázka malého rozsahu	Služby	 	 	1 300 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Design & Build dětského hřiště v MČ Praha-Křeslice	Městská část Praha-Křeslice	00240389	Zakázka malého rozsahu	Stavební práce	11. 8. 2026	24. 8. 2026	1 500 000,00 Kč	
+
+  
+	Žihle - oprava plochy na návsi	Obec Žihle	00258580	Zakázka malého rozsahu	Stavební práce	 	 	1 768 467,27 Kč	
+
+  
 	Úložiště pro data strukturní analýzy	Fyzikální ústav AV ČR, v. v. i.	68378271	Zjednodušené podlimitní řízení	Dodávky	11. 8. 2026	28. 8. 2026	1 446 281,00 Kč	
+
+Změny závazků ve VZ
+
 
   
 	Komunální stroj - Technické služby Havlíčkův Brod	Technické služby Havlíčkův Brod	70188041	Otevřené řízení	Dodávky	10. 8. 2026	10. 9. 2026	6 200 000,00 Kč	
@@ -41,11 +62,11 @@ Předp. cena	 
   
 	Stavební úpravy Městské knihovny v Táboře, Jiráskova 1775 - dodávka IT vybavení	Město Tábor	00253014	Zakázka malého rozsahu	Dodávky	11. 8. 2026	27. 8. 2026	1 244 239,94 Kč	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Spektroskopický elipsometr Muellerovy aplikace pro ex-situ charakterizaci	Fyzikální ústav AV ČR, v. v. i.	68378271	Zjednodušené podlimitní řízení	Dodávky	11. 8. 2026	28. 8. 2026	3 970 000,00 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Optická multifunkční sonda pro PPMS	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	10. 8. 2026	25. 8. 2026	1 640 500,00 Kč	
@@ -53,30 +74,9 @@ Práva dodavatele v zadávacím řízení
   
 	CER-JRBU-Nové zdravotní středisko Čeřovka – projektová dokumentace, inženýrská činnost a dozor projektanta	Město Mnichovice	00240478	Jednací řízení bez uveřejnění	Služby	10. 8. 2026	13. 8. 2026	5 800 000,00 Kč	
 
-Změny závazků ve VZ
-
-
   
 	Terasa a její zastřešení, OŘ1	Město Blansko	00279943	Zakázka malého rozsahu	Stavební práce	10. 8. 2026	25. 8. 2026	Neuvedeno	
-
-  
-	Revitalizace zázemí Městské knihovny u Lázeňského parku Poděbrady	Město Poděbrady	00239640	Zjednodušené podlimitní řízení	Stavební práce	10. 8. 2026	27. 8. 2026	9 439 000,00 Kč	
-
-  
-	Dodávka vybavení pro odborné učebny ZŠ Školní, Louny	Základní škola Louny, Školní 2426, 44001 Louny, příspěvková organizace	49123858	Otevřené řízení	Dodávky	7. 8. 2026	 	15 885 000,00 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Modernizace monitorovacího vybavení SOMS Karlovice	Český telekomunikační úřad	70106975	Otevřené řízení	Dodávky	6. 8. 2026	14. 9. 2026	12 039 500,00 Kč	
-
-  
-	VDJ Mistřice školka - vodotěsná izolace stropu akumulační komory	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Stavební práce	10. 8. 2026	26. 8. 2026	550 000,00 Kč	
-
-  
-	Poskytování služeb v oblasti ochrany osobních údajů	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	7. 8. 2026	18. 8. 2026	Neuvedeno	
-Stránka 1 z 179 (2148 položek)12345. . .179
+Stránka 1 z 180 (2149 položek)12345. . .180
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
