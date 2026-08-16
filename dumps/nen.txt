@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-08-15T07:06:55.443141+00:00
+Staženo: 2026-08-16T07:08:42.079950+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,11 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00024557	ZALOŽENÍ VÝVOJOVÉHO CENTRA SPOLEČNOSTI METALSAFE s.r.o. - DODÁVKA SPECIÁLNÍHO TECHNOLOGICKÉHO VYBAVENÍ II.	Not terminated	Metalsafe s.r.o.	08. 09. 2026 10:00
+Detail	N006/26/V00026062	Zajištění realizace akce Future of Export Summit 2026	Not terminated	CzechBusiness	28. 08. 2026 09:00
+Detail	N006/26/V00019661	FVE města Veltrusy	Not terminated	Město Veltrusy	27. 07. 2026 10:05
+Detail	N006/26/V00018388	Modernizace odborných učeben v ZŠ Brušperk – vybavení technikou	Awarded	Základní škola Vojtěcha Martínka Brušperk, okres Frýdek-Místek	14. 07. 2026 08:00
+Detail	N006/25/V00036331	Revitalizace fotbalového hřiště Pavlovice u Přerova	Awarded	Obec Pavlovice u Přerova	
 Detail	N006/26/V00016594	Servis informačního systému ekonomických a personálních agend	Awarded	Národní pedagogický institut České republiky (zařízení pro další vzdělávání pedagogických pracovníků)	30. 06. 2026 10:00
 Detail	N006/26/V00025685	Obnova podpory pro ArcServe (2026)	Not terminated	CzechBusiness	28. 08. 2026 10:00
 Detail	N006/26/V00022168	Ekologizace kovárny TATRA METALURGIE a.s.- Kovací linka	Not terminated	TATRA METALURGIE a.s.	25. 08. 2026 10:00
@@ -364,7 +369,6 @@ Detail	N006/26/V00021143	Záchranná letecká vesta - nákup	Not terminated	Mini
 Detail	N006/25/V00031177	SZT - Horkovodní propoj Jírovcova - Nové Vráto	Not terminated	Teplárna České Budějovice, a.s.	
 Detail	N006/26/V00022270	Tisk Zpráv památkové péče 2026	Awarded	Národní památkový ústav	
 Detail	N006/26/V00023664	VUZ Žatec – stavební úpravy objektu v areálu kasáren kpt. Jesioka	Not terminated	Armádní Servisní, příspěvková organizace	27. 08. 2026 10:00
-Detail	N006/26/V00024557	ZALOŽENÍ VÝVOJOVÉHO CENTRA SPOLEČNOSTI METALSAFE s.r.o. - DODÁVKA SPECIÁLNÍHO TECHNOLOGICKÉHO VYBAVENÍ II.	Not terminated	Metalsafe s.r.o.	08. 09. 2026 10:00
 Detail	N006/26/V00025907	Servis a opravy motorových vozidel a příslušenství k nim pro potřeby ÚP České Budějovice	Not terminated	Úřad pro zastupování státu ve věcech majetkových	31. 08. 2026 09:00
 Detail	N006/26/V00021256	Dodání vzorkovacích zařízení a doplnění staniční sítě	Not terminated	Český hydrometeorologický ústav	20. 08. 2026 10:00
 Detail	N006/26/V00025909	ČOV Petrovice u Karviné	Not terminated	Obec Petrovice u Karviné	02. 09. 2026 08:00
@@ -535,10 +539,6 @@ Detail	N006/26/V00006098	Modernizace signalizace setra-pacient v pavilonu B na o
 Detail	N006/26/V00025830	Rekonstrukce stávajícího objektu Sedlo – výměna oken	Awarded	Obec Číměř	
 Detail	N006/26/V00025823	Výkon TDS a koordinátora BOZP „Domov pro osoby se zdravotním postižením Ostrava-Poruba"	Not terminated	Moravskoslezský kraj	25. 08. 2026 10:00
 Detail	N006/26/V00025820	Stavba - rekonstrukce střechy letního koupaliště Vřesina u Hlučína	Awarded	Obec Vřesina	
-Detail	N006/26/V00025827	Stavební úpravy objektu s dílnami a učebnami při Masarykově ZŠ, Krupka – II vyhlášení	Awarded	Město Krupka	
-Detail	N006/26/V00022293	Kurzy strukturované kabeláže a podpora výuky	Awarded	Ministerstvo obrany	
-Detail	N006/26/P00000191	Výzva k účasti na předběžné tržní konzultaci pro přípravu veřejných zakázek v rámci projektu Renovace a modernizace ukrajinských nemocnic	Not terminated	Česká rozvojová agentura	
-Detail	N006/26/V00025825	Nákup sluchátek	Not terminated	Krajské ředitelství policie Jihočeského kraje	20. 08. 2026 07:00
 LOAD ANOTHER 50
 Page
 1
