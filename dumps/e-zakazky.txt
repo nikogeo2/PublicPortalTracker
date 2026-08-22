@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-08-21T07:23:18.617305+00:00
+Staženo: 2026-08-22T07:09:29.554580+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,16 +33,19 @@ Předp. cena	 
 	
 		 
   
+	Velkoobjemové kontejnery - sběrný dvůr Přibyslav	Město Přibyslav	00268097	Zakázka malého rozsahu	Dodávky	21. 8. 2026	7. 9. 2026	2 400 000,00 Kč	
+
+  
 	Vodovodní řad a přípojky pro bytové domy čp. 1147, 1148, 1149, 1150, 1151 a 1152, ul. Budovcova, Poděbrady - opakové řízení	Město Poděbrady	00239640	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	7. 9. 2026	Neuvedeno	
 
   
 	Technologická obměna gastronomického zařízení, bistro horní stanice LD Sněžka, Pec pod Sněžkou	MĚSTO PEC POD SNĚŽKOU	00278181	Zakázka malého rozsahu	Dodávky	20. 8. 2026	9. 9. 2026	Neuvedeno	
 
-  
-	Předběžná tržní konzultace "Služby Security Operations Center (SOC)"	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Poptávkové řízení	Služby	20. 8. 2026	4. 9. 2026	Neuvedeno	
-
 Práva dodavatele v zadávacím řízení
 
+
+  
+	Předběžná tržní konzultace "Služby Security Operations Center (SOC)"	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Poptávkové řízení	Služby	20. 8. 2026	4. 9. 2026	Neuvedeno	
 
   
 	Rozšíření parku u muzea – základy pro komín	Město Moravská Třebová	00277037	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	4. 9. 2026	3 900 000,00 Kč	
@@ -50,11 +53,11 @@ Práva dodavatele v zadávacím řízení
   
 	Vodohospodářská infrastruktura v obci Petrovice - výběr zhotovitele	Obec Újezd	00253839	Zjednodušené podlimitní řízení	Stavební práce	20. 8. 2026	4. 9. 2026	28 130 000,00 Kč	
 
-  
-	Oprava bytu č. 34, ul. Buzulucká, čp. 2354, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	10. 9. 2026	Neuvedeno	
-
 Změny závazků ve VZ
 
+
+  
+	Oprava bytu č. 34, ul. Buzulucká, čp. 2354, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	10. 9. 2026	Neuvedeno	
 
   
 	Oprava bytu č. 309, ul. Zavadilská, čp. 2842, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	10. 9. 2026	Neuvedeno	
@@ -62,20 +65,17 @@ Změny závazků ve VZ
   
 	Dodávka malého komunálního vozidla 4x4 s příslušenstvím	Technické služby města Příbrami, příspěvková organizace	00068047	Zjednodušené podlimitní řízení	Dodávky	20. 8. 2026	7. 9. 2026	4 134 000,00 Kč	
 
-  
-	Červený Potok, kostel Navštívení Panny Marie, stavební obnova, III. etapa	Římskokatolická farnost Králíky	44468750	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
-
 Jak se bránit proti postupu zadavatele
 
+
+  
+	Červený Potok, kostel Navštívení Panny Marie, stavební obnova, III. etapa	Římskokatolická farnost Králíky	44468750	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
 
   
 	Novostavba obecního domu, rekonstrukce obecního úřadu a revitalizace veřejných prostor Stránecká Zhoř	obec Stránecká Zhoř	00599841	Otevřené řízení	Stavební práce	19. 8. 2026	18. 9. 2026	91 883 000,00 Kč	
 
   
 	Tvorba marketingové strategie pro rok 2027	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	19. 8. 2026	11. 9. 2026	Neuvedeno	
-
-  
-	Reklama a propagace II. – Minitendr č. 2	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	19. 8. 2026	27. 8. 2026	118 000,00 Kč	
 Stránka 1 z 181 (2161 položek)12345. . .181
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
