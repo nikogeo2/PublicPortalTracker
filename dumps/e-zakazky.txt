@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-08-24T07:36:35.673620+00:00
+Staženo: 2026-08-25T07:25:05.420457+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,50 +33,50 @@ Předp. cena	 
 	
 		 
   
-	Velkoobjemové kontejnery - sběrný dvůr Přibyslav	Město Přibyslav	00268097	Zakázka malého rozsahu	Dodávky	21. 8. 2026	7. 9. 2026	2 400 000,00 Kč	
+	Odkup plynové kotelny, Nemocniční 638/18, Vysočany, Praha 9 - Otevřená výzva k podání nabídek	Městská část Praha 9	00063894	Poptávkové řízení	Dodávky	 	30. 9. 2026	Neuvedeno	
 
   
-	Vodovodní řad a přípojky pro bytové domy čp. 1147, 1148, 1149, 1150, 1151 a 1152, ul. Budovcova, Poděbrady - opakové řízení	Město Poděbrady	00239640	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	7. 9. 2026	Neuvedeno	
+	Hradčany VO, ul. Čebínská a Drásovská	Obec Hradčany	00362875	Zakázka malého rozsahu	Stavební práce	 	 	3 732 447,14 Kč	
 
   
-	Technologická obměna gastronomického zařízení, bistro horní stanice LD Sněžka, Pec pod Sněžkou	MĚSTO PEC POD SNĚŽKOU	00278181	Zakázka malého rozsahu	Dodávky	20. 8. 2026	9. 9. 2026	Neuvedeno	
+	Voice communication tester - II	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	10. 9. 2026	Neuvedeno	
 
 Práva dodavatele v zadávacím řízení
 
 
   
-	Předběžná tržní konzultace "Služby Security Operations Center (SOC)"	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Poptávkové řízení	Služby	20. 8. 2026	4. 9. 2026	Neuvedeno	
+	Pěstební opatření na dřevinách rostoucích na Svatováclavském náměstí, v ul. Prašingerova, ul. Bendlova a v ul. Brněnská	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	24. 8. 2026	8. 9. 2026	Neuvedeno	
 
   
-	Rozšíření parku u muzea – základy pro komín	Město Moravská Třebová	00277037	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	4. 9. 2026	3 900 000,00 Kč	
+	ÚV O. N. Ves - budova flokulace a ozonizace - FVE	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Stavební práce	24. 8. 2026	14. 9. 2026	1 300 000,00 Kč	
 
   
-	Vodohospodářská infrastruktura v obci Petrovice - výběr zhotovitele	Obec Újezd	00253839	Zjednodušené podlimitní řízení	Stavební práce	20. 8. 2026	4. 9. 2026	28 130 000,00 Kč	
+	Uherský Brod, ul. U Sboru - oprava kanalizace BVT, stoka CI, CI-5, Š700 - Š807	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Stavební práce	24. 8. 2026	4. 9. 2026	3 625 000,00 Kč	
 
 Změny závazků ve VZ
 
 
   
-	Oprava bytu č. 34, ul. Buzulucká, čp. 2354, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	10. 9. 2026	Neuvedeno	
+	Parní kotle 2 x 40 t/ hod (1. fáze – žádosti o účast)	TAMERO INVEST s.r.o.	24781452	Jednací řízení s uveřejněním	Dodávky	24. 8. 2026	25. 9. 2026	100 000 000,00 Kč	
 
   
-	Oprava bytu č. 309, ul. Zavadilská, čp. 2842, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	20. 8. 2026	10. 9. 2026	Neuvedeno	
+	Reklama a propagace II. – Minitendr č. 3	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	24. 8. 2026	31. 8. 2026	143 000,00 Kč	
 
   
-	Dodávka malého komunálního vozidla 4x4 s příslušenstvím	Technické služby města Příbrami, příspěvková organizace	00068047	Zjednodušené podlimitní řízení	Dodávky	20. 8. 2026	7. 9. 2026	4 134 000,00 Kč	
+	Oprava bytových a nebytových prostor v majetku města Brandýs nad Labem-Stará Boleslav	Technické služby Brandýs - Boleslav s.r.o.	07825579	Minitendr (zadání na základě rámcové dohody)	Stavební práce	24. 8. 2026	7. 9. 2026	Neuvedeno	
 
 Jak se bránit proti postupu zadavatele
 
 
   
-	Červený Potok, kostel Navštívení Panny Marie, stavební obnova, III. etapa	Římskokatolická farnost Králíky	44468750	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
+	RCOM pro ATIS LKCS	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	25. 9. 2026	Neuvedeno	
 
   
-	Novostavba obecního domu, rekonstrukce obecního úřadu a revitalizace veřejných prostor Stránecká Zhoř	obec Stránecká Zhoř	00599841	Otevřené řízení	Stavební práce	19. 8. 2026	18. 9. 2026	91 883 000,00 Kč	
+	Podpora OKbase personálního systému	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Zakázka malého rozsahu	Služby	24. 8. 2026	8. 9. 2026	3 000 000,00 Kč	
 
   
-	Tvorba marketingové strategie pro rok 2027	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	19. 8. 2026	11. 9. 2026	Neuvedeno	
-Stránka 1 z 180 (2160 položek)12345. . .180
+	Velkoobjemové kontejnery - sběrný dvůr Přibyslav	Město Přibyslav	00268097	Zakázka malého rozsahu	Dodávky	21. 8. 2026	7. 9. 2026	2 400 000,00 Kč	
+Stránka 1 z 179 (2148 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
