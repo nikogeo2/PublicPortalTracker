@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-08-26T07:25:15.594920+00:00
+Staženo: 2026-08-27T17:48:11.464246+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,50 +33,50 @@ Předp. cena	 
 	
 		 
   
-	Propustek na silnici II_446, Libina	Obec Libina	00302899	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
+	Dodávka kompaktního zametacího stroje	Technické služby Tábor s.r.o.	62502565	Otevřené řízení	Dodávky	31. 8. 2026	29. 9. 2026	6 600 000,00 Kč	
+
+  
+	Zvýšení digitální úrovně ve společnosti SANTAL spol. s r. o. (Digitální technologie – Výzva I.)	SANTAL spol. s r.o.	42408121	Dotační zakázka (mimo režim zákona)	Dodávky	27. 8. 2026	29. 9. 2026	Neuvedeno	
+
+  
+	Rekonstrukce velké zasedací místnosti v budově Sokolovská 58/219, Praha 9 (opakovaná)	Český telekomunikační úřad	70106975	Zakázka malého rozsahu	Stavební práce	27. 8. 2026	16. 9. 2026	2 388 843,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Nákup keramických obkladů a dlažeb společností BYTES Tábor s.r.o.	Město Tábor	00253014	Zakázka malého rozsahu	Dodávky	27. 8. 2026	10. 9. 2026	Neuvedeno	
+
+  
+	Rekonstrukce hokejbalového hřiště ve Vsetíně	Hokejbalový klub Vsetín z.s.	66184606	Zjednodušené podlimitní řízení	Stavební práce	28. 8. 2026	12. 10. 2026	7 500 000,00 Kč	
+
+  
+	Chodník podél silnice III/4673 Mokré Lazce – Štítina	Obec Mokré Lazce	00300462	Zjednodušené podlimitní řízení	Stavební práce	27. 8. 2026	24. 9. 2026	10 229 122,00 Kč	
+
+Změny závazků ve VZ
+
+
+  
+	„PŘÍSTAVBA PŘÍSTŘEŠKU PRO SNĚHOVOU ROLBU“	Obec Modrava	00573418	Otevřené řízení	Stavební práce	27. 8. 2026	11. 9. 2026	3 000 000,00 Kč	
+
+  
+	Instalace FVE na objektu základní školy	Obec Blažovice	00281603	Zakázka malého rozsahu	Dodávky	3. 7. 2026	20. 7. 2026	1 100 000,00 Kč	
+
+  
+	Reklama a propagace II. – Minitendr č. 4	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	26. 8. 2026	4. 9. 2026	Neuvedeno	
+
+Jak se bránit proti postupu zadavatele
+
+
+  
+	Nákup tiskových zařízení a související podpory	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Otevřené řízení	Služby	25. 8. 2026	25. 9. 2026	Neuvedeno	
 
   
 	Stavební úpravy hygienického zařízení v kulturním domě Životice u Nového Jičína	Obec Životice u Nového Jičína	48804711	Poptávkové řízení	Stavební práce	24. 6. 2026	24. 6. 2026	1 760 780,00 Kč	
 
   
 	Polní cesta NA VYHLÍDKU	Obec Bolatice	00299847	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
-
-Práva dodavatele v zadávacím řízení
-
-
-  
-	MŠ Kovářská II. – novostavba mateřské školy včetně demolice stávajícího objektu	Městská část Praha 9	00063894	Otevřené řízení	Stavební práce	 	24. 9. 2026	78 000 000,00 Kč	
-
-  
-	Georadar pro diagnostiku mostů	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	25. 8. 2026	8. 9. 2026	1 150 000,00 Kč	
-
-  
-	Odkup plynové kotelny, Nemocniční 638/18, Vysočany, Praha 9 - Otevřená výzva k podání nabídek	Městská část Praha 9	00063894	Poptávkové řízení	Dodávky	 	30. 9. 2026	Neuvedeno	
-
-Změny závazků ve VZ
-
-
-  
-	Hradčany VO, ul. Čebínská a Drásovská	Obec Hradčany	00362875	Zakázka malého rozsahu	Stavební práce	 	 	3 732 447,14 Kč	
-
-  
-	Voice communication tester - II	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Dodávky	 	10. 9. 2026	Neuvedeno	
-
-  
-	Pěstební opatření na dřevinách rostoucích na Svatováclavském náměstí, v ul. Prašingerova, ul. Bendlova a v ul. Brněnská	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	24. 8. 2026	8. 9. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	ÚV O. N. Ves - budova flokulace a ozonizace - FVE	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Stavební práce	24. 8. 2026	14. 9. 2026	1 300 000,00 Kč	
-
-  
-	Uherský Brod, ul. U Sboru - oprava kanalizace BVT, stoka CI, CI-5, Š700 - Š807	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Stavební práce	24. 8. 2026	4. 9. 2026	3 625 000,00 Kč	
-
-  
-	Parní kotle 2 x 40 t/ hod (1. fáze – žádosti o účast)	TAMERO INVEST s.r.o.	24781452	Jednací řízení s uveřejněním	Dodávky	24. 8. 2026	25. 9. 2026	100 000 000,00 Kč	
-Stránka 1 z 179 (2148 položek)12345. . .179
+Stránka 1 z 180 (2154 položek)12345. . .180
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
