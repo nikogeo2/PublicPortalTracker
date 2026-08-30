@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-08-29T12:47:15.922969+00:00
+Staženo: 2026-08-30T12:06:40.019558+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,7 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00027093	Programátorské služby při vývoji desktopové GUI aplikace pro monitoring, konfiguraci a diagnostiku elektronického řídicího systému, včetně podpory pozemních operací, ladění a integrace	Not terminated	Volteek solutions s.r.o.	03. 09. 2026 23:55
 Detail	N006/26/V00024398	Dětské hřiště na ulici Dolní ve Frenštátě pod Radhoštěm	Not terminated	Město Frenštát pod Radhoštěm	29. 09. 2026 10:00
 Detail	N006/26/V00007474	Bezpečnostní služba pro objekty depozitáře NFA Hradištko – opakované řízení	Awarded	Národní filmový archiv	20. 04. 2026 10:00
 Detail	N006/26/V00024067	Výměna zázemí volejbalu	Not terminated	Město Orlová	25. 08. 2026 08:00
@@ -538,7 +539,6 @@ Detail	N006/26/V00027506	„Pořízení technologie do lesa – SLUŽBY LIŠOV, 
 Detail	N006/26/V00026370	Pronájem prostor pro odběrové středisko dárců krve Mělník	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	03. 09. 2026 10:00
 Detail	N006/26/V00009725	Laboratorní zkoušky vzorků výrobků - rychlovarné konvice	Termination of performance	Česká obchodní inspekce	30. 04. 2026 10:00
 Detail	N006/26/V00027305	Obj. č. 41 k RD č. 523/23-ZE	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00023191	Nákup kovového nábytku pro OAMP Plzeň (RD)	Awarded	Správa uprchlických zařízení Ministerstva vnitra	
 LOAD ANOTHER 50
 Page
 1
