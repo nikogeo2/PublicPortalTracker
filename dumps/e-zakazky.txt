@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-09-04T11:33:47.005215+00:00
+Staženo: 2026-09-05T10:49:30.103654+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,16 @@ Předp. cena	 
 	
 		 
   
+	Initial training of pilots on Beech B300 King Air	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Služby	4. 9. 2026	17. 9. 2026	1 445 500,00 Kč	
+
+  
+	NÁSTAVBA, PŘÍSTAVBA A STAVEBNÍ ÚPRAVY STÁVAJÍCÍHO SPOLEČENSKÉHO SÁLU A HOSPODY	Obec Račice-Pístovice	00292249	Zjednodušené podlimitní řízení	Stavební práce	4. 9. 2026	2. 10. 2026	44 438 341,00 Kč	
+
+  
 	PŘÍSTAVBA PŘÍSTŘEŠKU PRO SNĚHOVOU ROLBU	Obec Modrava	00573418	Zakázka malého rozsahu	Stavební práce	4. 9. 2026	18. 9. 2026	3 000 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
 
   
 	Licence D365 v programu CSP 2026 - 2029	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Služby	3. 9. 2026	16. 9. 2026	2 700 000,00 Kč	
@@ -41,11 +50,11 @@ Předp. cena	 
   
 	Dětské hřiště u rybníka Stráž, Pelhřimov	Město Pelhřimov	00248801	Zakázka malého rozsahu	Stavební práce	 	14. 8. 2026	5 500 000,00 Kč	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Optická multifunkční sonda pro PPMS – opakované zadání	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	3. 9. 2026	14. 9. 2026	1 640 500,00 Kč	
+
+Změny závazků ve VZ
+
 
   
 	Rekonstrukce dvou bytových jednotek v BD Dlouhá 126	městys Lomnice	00280577	Zakázka malého rozsahu	Stavební práce	2. 9. 2026	18. 9. 2026	4 762 491,20 Kč	
@@ -53,11 +62,11 @@ Práva dodavatele v zadávacím řízení
   
 	Výměna jevištní techniky v Kulturním domě v Bludově	Obec Bludov	00302368	Zakázka malého rozsahu	Stavební práce	2. 9. 2026	2. 9. 2026	1 279 200,00 Kč	
 
-Změny závazků ve VZ
-
-
   
 	Snížení energetické náročnosti BD blok E, ul. Sokolovská č.p. 204-206, Stochov	Město Stochov	00234923	Zjednodušené podlimitní řízení	Stavební práce	2. 9. 2026	23. 9. 2026	10 749 985,37 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Stavební úpravy za účelem vybudování odborných učeben a komunitní tělocvičny u ZŠ T. Šobra Písek - dílčí část FOTOVOLTAIKA - Systém FVE (Desing & Build)	Základní škola Tomáše Šobra a Mateřská škola Písek, Šobrova 2070	70943168	Otevřené řízení	Dodávky	31. 8. 2026	2. 10. 2026	5 500 000,00 Kč	
@@ -65,18 +74,9 @@ Změny závazků ve VZ
   
 	Technická podpora HW-ESX	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	2. 9. 2026	17. 9. 2026	Neuvedeno	
 
-Jak se bránit proti postupu zadavatele
-
-
   
 	AntiDDos - opakované řízení	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	2. 9. 2026	14. 9. 2026	Neuvedeno	
-
-  
-	TDS A KOORDINÁTOR BOZP PRO STAVBU - SPOLEČENSKÉ CENTRUM KŘEŠICE - ULICE NÁDRAŽNÍ	Obec Křešice	00263851	Zakázka malého rozsahu	Služby	2. 9. 2026	 	Neuvedeno	
-
-  
-	Kosova Hora – místní část Janov a Dohnalova Lhota – zásobování pitnou vodou - pro podání nabídek	Obec Kosova Hora	00242471	Užší řízení	Stavební práce	1. 9. 2026	23. 9. 2026	Neuvedeno	
-Stránka 1 z 177 (2123 položek)12345. . .177
+Stránka 1 z 178 (2125 položek)12345. . .178
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
