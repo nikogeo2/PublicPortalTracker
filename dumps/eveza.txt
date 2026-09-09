@@ -1,6 +1,6 @@
 Zdroj: eveza
 URL: https://www.eveza.cz/verejne-zakazky
-Staženo: 2026-09-08T11:34:01.667774+00:00
+Staženo: 2026-09-09T11:40:56.684596+00:00
 ------------------------------------------------------------
 Na Vašem soukromí nám záleží
 
@@ -39,6 +39,8 @@ Fulltext
 Zakázky
 Název
 Stav	Lhůta podání	Zadavatel	
+DNS - PŘEPRAVA DŘÍVÍ 2031
+Probíhá příjem	31.12.2031 23:59	Vojenské lesy a statky ČR, s.p.	
 DNS - TĚŽEBNÍ ČINNOST BEZ HARVESTOROVÉ TECHNOLOGIE 2031
 Probíhá jednání	30.09.2031 23:59	Vojenské lesy a statky ČR, s.p.	
 DNS - VÝROBA DŘÍVÍ HARVESTOROVOU TECHNOLOGIÍ 2030
@@ -77,8 +79,6 @@ Provádění pěstebních činností 2021+ (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
 Dodávky kancelářské a výpočetní techniky včetně příslušenství (DNS)
 Zavedeno	31.03.2028 10:00	Lesy České republiky, s.p.	
-Asanace lesních pozemků kontaminovaných pyrotechnickým materiálem
-Zavedeno	22.09.2027 23:59	Lesy České republiky, s.p.	
 Předchozí 1 2 3 4 5 6 7 8 9 10  ... Další  
 Přihlášení Prohlášení o přístupnosti Nápověda Kontakt Test prohlížeče Podpora Nahoru 
 
