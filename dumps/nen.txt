@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-09-12T11:04:23.073655+00:00
+Staženo: 2026-09-13T12:11:47.828310+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,16 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00011474	IT služby pro INSID	Awarded	Inspekce silniční dopravy	29. 06. 2026 10:00
+Detail	N006/26/V00029487	Vysoký Chlumec – autobusové zastávky a chodník podél průtahu silnice II/105	Not terminated	Městys Vysoký Chlumec	01. 10. 2026 09:00
+Detail	N006/26/V00018500	Rekonstrukce obecního domu Bezděz	Awarded	Obec Bezděz	18. 08. 2026 15:00
+Detail	N006/25/V00042533	Březová-Oleško – splašková kanalizace, ČOV a vodovod	Not terminated	Obec Březová-Oleško	30. 09. 2026 17:00
+Detail	N006/26/V00024058	Stezka pro pěší a cyklisty Dolní Morava - I. etepa	Not terminated	Obec Dolní Morava	02. 10. 2026 08:00
+Detail	N006/26/V00021414	ZŠ Novosedlice – rekonstrukce sociálních zařízení (část A)	Awarded	Základní škola Novosedlice, příspěvková organizace	
+Detail	N006/26/V00023579	ZŠ Novosedlice - podlaha v učebně HV a cvičné kuchyňce (část B)	Awarded	Základní škola Novosedlice, příspěvková organizace	
+Detail	N006/26/V00028516	Obnova asfaltového povrchu chodníků Palackého-Mezi Mosty	Not terminated	Městský obvod Pardubice I	17. 09. 2026 10:00
+Detail	N006/26/V00029486	FlowTracker2	Not terminated	Výzkumný ústav vodohospodářský T. G. Masaryka veřejná výzkumná instituce	30. 09. 2026 10:00
+Detail	N006/26/V00029485	Konduktometr	Not terminated	Výzkumný ústav vodohospodářský T. G. Masaryka veřejná výzkumná instituce	30. 09. 2026 10:00
 Detail	N006/25/V00022493	6/2025 Rekonstrukce smuteční síně v Petrovicích u Karviné	Awarded	Obec Petrovice u Karviné	04. 08. 2025 08:00
 Detail	N006/26/V00018954	Poskytování služeb zprostředkování karetních transakcí	Awarded	Koordinátor ODIS s.r.o.	04. 08. 2026 08:00
 Detail	N006/26/V00029019	Rekonstrukce povrchu komunikace Vanerova Ohrazenice	Not terminated	Obec Ohrazenice	10. 09. 2026 00:00
@@ -366,7 +376,6 @@ Detail	N006/26/V00029321	294/2026-7214 Chrániče sluchu	Not terminated	Minister
 Detail	N006/26/V00026673	Navýšení kapacity a stavební úpravy ZŠ Semín	Not terminated	Obec Semín	21. 09. 2026 17:00
 Detail	N006/26/V00028944	Snížení energetické náročnosti gastroprovozu - Základní škola Bechyně, Školní 293 – dodávka vzduchotechniky	Not terminated	Základní škola Bechyně, Školní 293	12. 10. 2026 12:00
 Detail	N006/26/V00028034	Pořízení aplikace pro dohledovou činnost Úřadu pro dohled nad hospodařením politických stran a politických hnutí	Not terminated	Úřad pro dohled nad hospodařením politických stran a politických hnutí	22. 09. 2026 10:00
-Detail	N006/26/V00018500	Rekonstrukce obecního domu Bezděz	Awarded	Obec Bezděz	18. 08. 2026 15:00
 Detail	N006/26/V00026424	Dodávka 20 ks elektrobusů kategorie Md pro PID	Not terminated	ABOUT ME s.r.o.	01. 10. 2026 10:00
 Detail	N006/26/V00026425	Dodávka 10 ks elektrobusů kategorie Md+ pro PID	Not terminated	ABOUT ME s.r.o.	01. 10. 2026 10:00
 Detail	N006/26/V00026426	Dodávka 10 ks elektrobusů kategorie Sd pro PID	Not terminated	ABOUT ME s.r.o.	01. 10. 2026 10:00
@@ -530,15 +539,6 @@ Detail	N006/26/V00024719	Řešení pro automatický přepis audio a video zázna
 Detail	N006/26/V00009108	02 Realizační smlouva - oprava T-815	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00008845	01 Realizační smlouva - oprava T-815	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00025364	Doplnění koncových přepínačů – 2. etapa (rozšíření stávajícího fleetu Aruba CX 6100)	Awarded	Uherskohradišťská nemocnice a.s.	
-Detail	N006/26/V00026647	Nákup (doplnění) textilu a prádla	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	31. 08. 2026 08:00
-Detail	N006/24/V00012204	Olomouc - projektová dokumentace rekonstrukce eskortního dvora	Awarded	Vězeňská služba České republiky	30. 05. 2024 08:00
-Detail	N006/26/V00024349	Valdice SHČ - masné produkty 9/2026	Awarded	Vězeňská služba České republiky	
-Detail	N006/26/V00024229	08 Výzva k RD - oprava CAP 6M1	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00024348	Valdice SHČ - pekařské výrobky 9/2026	Awarded	Vězeňská služba České republiky	
-Detail	N006/26/V00007291	Rámcová dohoda na dodávky výpočetní techniky pro roky 2026 – 2028	Awarded	Ministerstvo vnitra	23. 06. 2026 10:00
-Detail	N006/26/V00013250	REKONSTRUKCE KAVÁRNY VE SPOLKOVÉM DOMĚ RATÍŠKOVICE	Awarded	Obec Ratíškovice	
-Detail	N006/26/V00027780	ÚVN - VoFN Praha - zdravotnické zabezpečení - obměna - Chirurgické síto - Cévní a Hrudní	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	14. 09. 2026 10:00
-Detail	N006/26/V00027834	ÚVN - VoFN Praha - zdravotnické zabezpečení - obměna – Ortopedické síto - Velké trauma	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	14. 09. 2026 10:00
 LOAD ANOTHER 50
 Page
 1
