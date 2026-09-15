@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-09-14T13:09:17.866903+00:00
+Staženo: 2026-09-15T11:58:48.527528+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,6 +33,18 @@ Předp. cena	 
 	
 		 
   
+	Oprava fasády budovy ZŠ Otokara Březiny Jaroměřice nad Rokytnou	Město Jaroměřice Nad Rokytnou	00289507	Zjednodušené podlimitní řízení	Stavební práce	15. 9. 2026	5. 10. 2026	Neuvedeno	
+
+  
+	Smržovka,MK Zvonková terénní a údržbové práce	Město Smržovka	00262579	Zakázka malého rozsahu	Stavební práce	15. 9. 2026	30. 9. 2026	246 775,00 Kč	
+
+  
+	Instalace fotovoltaické elektrárny na budově Mateřské školy v obci Vinařice u Kladna	Obec Vinařice	00235113	Zakázka malého rozsahu	Dodávky	14. 9. 2026	30. 9. 2026	2 763 546,48 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
 	Oprava místní komunikace, ulice Budišovská, Dvorce	Obec Dvorce	00295973	Zakázka malého rozsahu	Stavební práce	14. 9. 2026	21. 9. 2026	Neuvedeno	
 
   
@@ -41,7 +53,7 @@ Předp. cena	 
   
 	Oprava bytu č. 10, ul. Boženy Němcové, čp. 2167, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	14. 9. 2026	5. 10. 2026	Neuvedeno	
 
-Práva dodavatele v zadávacím řízení
+Změny závazků ve VZ
 
 
   
@@ -53,7 +65,7 @@ Práva dodavatele v zadávacím řízení
   
 	Rekonstrukce sociálních zařízení na pobočce OZP v Plzni	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Stavební práce	11. 9. 2026	22. 9. 2026	1 850 000,00 Kč	
 
-Změny závazků ve VZ
+Jak se bránit proti postupu zadavatele
 
 
   
@@ -64,19 +76,7 @@ Změny závazků ve VZ
 
   
 	Dodávka suchého optického kryostatu pro spektroskopii s příslušenstvím	Ústav anorganické chemie AV ČR, v.v.i.	61388980	Zakázka malého rozsahu	Dodávky	11. 9. 2026	21. 9. 2026	2 170 000,00 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Oprava hřiště v Křeptově	Obec Běleč	00532070	Zakázka malého rozsahu	Stavební práce	 	 	1 469 849,00 Kč	
-
-  
-	Oprava komunikace v ulici Růžová, Třebestovice	Obec Třebestovice	00239852	Zakázka malého rozsahu	Stavební práce	10. 9. 2026	21. 9. 2026	975 000,00 Kč	
-
-  
-	Výměna střešního a stěnového pláště zimního stadionu ve Velkém Meziříčí	Město Velké Meziříčí	00295671	Otevřené řízení	Stavební práce	10. 9. 2026	13. 10. 2026	41 570 248,00 Kč	
-Stránka 1 z 182 (2176 položek)12345. . .182
+Stránka 1 z 182 (2175 položek)12345. . .182
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
