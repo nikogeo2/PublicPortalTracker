@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-09-19T11:19:06.245083+00:00
+Staženo: 2026-09-20T11:40:51.125013+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,8 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00028940	Poskytovatel právních služeb	Not terminated	Městská energetická agentura Ostrava, s. r. o.	23. 09. 2026 08:00
+Detail	N006/26/V00030357	Obnova (rekonstrukce) kaple obci Urbanice zasvěcenou panně Marii	Awarded	Obec Urbanice	
 Detail	N006/26/V00028763	Odpadové hospodářství obce Jenišovice 2027 - 2029	Not terminated	Obec Jenišovice	30. 09. 2026 10:00
 Detail	N006/26/V00028614	FVE na městském úřadě a MŠ Čtyřlístek ve městě Žamberk	Not terminated	Město Žamberk	09. 10. 2026 10:00
 Detail	N006/26/V00001793	RD stravovací poukázky 1. 3. 2026 - 31. 3. 2028	Awarded	Ministerstvo obrany	10. 02. 2026 01:00
@@ -537,8 +539,6 @@ Detail	N006/26/V00028875	Komunikace ul. Komenského – I. etapa“	Not terminat
 Detail	N006/26/V00015181	Vybudování hřiště (Gymnázium a Střední průmyslová škola elektrotechniky a informatiky, Frenštát pod Radhoštěm, p. o.)	Awarded	Gymnázium a Střední průmyslová škola elektrotechniky a informatiky, Frenštát pod Radhoštěm, příspěvková organizace	14. 07. 2026 10:00
 Detail	N006/26/V00029770	Výměna oken a dveří na budově OÚ Klentnice	Termination of performance	Obec Klentnice	
 Detail	N006/26/V00015930	Chocerady – logistické centrum – výstavba - PD	Cancelled	Ministerstvo obrany	30. 06. 2026 09:00
-Detail	N006/26/V00028049	Nákup čisticích prostředků, hygienických potřeb a odpadních pytlů s náhradním plněním	Cancelled	Policejní akademie České republiky v Praze	14. 09. 2026 08:00
-Detail	N006/26/V00024995	Multifunkční pavilon s možností izolačního režimu	Not terminated	Moravskoslezský kraj	23. 10. 2026 10:00
 LOAD ANOTHER 50
 Page
 1
