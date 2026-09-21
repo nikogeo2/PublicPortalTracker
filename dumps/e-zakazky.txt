@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-09-20T11:41:09.868272+00:00
+Staženo: 2026-09-21T13:08:12.768271+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,16 +33,31 @@ Předp. cena	 
 	
 		 
   
+	Smržovka,ulice Na Stráži - silniční svodidla	Město Smržovka	00262579	Zakázka malého rozsahu	Stavební práce	21. 9. 2026	5. 10. 2026	173 980,00 Kč	
+
+  
+	Obnova místních komunikací Sudkov, IV. etapa – SO 104, SO 105	Obec Sudkov	00303411	Zjednodušené podlimitní řízení	Stavební práce	21. 9. 2026	9. 10. 2026	2 570 976,20 Kč	
+
+  
+	Oprava HDV a elektrické instalace v bytovém domě Bohušovická 229/14, Praha 9	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Stavební práce	21. 9. 2026	7. 10. 2026	Neuvedeno	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Rámcová dohoda na dodávky elektromateriálu v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Otevřené řízení	Dodávky	21. 9. 2026	26. 10. 2026	Neuvedeno	
+
+  
 	Učebna bezpilotních systémů – stavební úpravy	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Stavební práce	18. 9. 2026	16. 10. 2026	1 050 000,00 Kč	
 
   
 	Vozidlo pro údržbu města na elektropohon	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Dodávky	18. 9. 2026	2. 10. 2026	495 000,00 Kč	
 
+Změny závazků ve VZ
+
+
   
 	PR agentura	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	18. 9. 2026	9. 10. 2026	Neuvedeno	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	Stavební a zemní práce OKRVO TSB	Technické sítě Brno, akciová společnost	25512285	Zakázka malého rozsahu	Stavební práce	18. 9. 2026	25. 9. 2026	9 000 000,00 Kč	
@@ -50,32 +65,17 @@ Práva dodavatele v zadávacím řízení
   
 	Pronájem konferenčních prostor a zajištění souvisejících služeb pro účastníky mezinárodní ornitologické konference v Brně v srpnu 2027	Ústav biologie obratlovců AV ČR, v.v.i.	68081766	Zakázka malého rozsahu	Služby	18. 9. 2026	30. 9. 2026	Neuvedeno	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Protierozní a protipovodňová opatření Tábor - Severovýchod, lokalita Soví a II. etapa zatrubnění Soví - Jordán - výkon funkce TDS a koordinátora BOZP	Město Tábor	00253014	Zakázka malého rozsahu	Služby	17. 9. 2026	5. 10. 2026	871 400,00 Kč	
-
-Změny závazků ve VZ
-
 
   
 	Úložiště pro data strukturní analýzy - opakované zadání	Fyzikální ústav AV ČR, v. v. i.	68378271	Zjednodušené podlimitní řízení	Dodávky	17. 9. 2026	6. 10. 2026	1 450 000,00 Kč	
 
   
 	Podpora infrastruktury CheckPoint a ochrana koncových zařízení	Český telekomunikační úřad	70106975	Otevřené řízení	Dodávky	15. 9. 2026	19. 10. 2026	14 300 000,00 Kč	
-
-  
-	Uherský Brod, ul. Na Tržišti – oprava vodovodního řadu C-2	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Stavební práce	17. 9. 2026	1. 10. 2026	1 900 000,00 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Odkanalizování obce Rtyně nad Bílinou Etapa I. - 1. část - 1. KOLO - ŽÁDOSTI O ÚČAST	Obec Rtyně nad Bílinou	00266574	Užší řízení	Stavební práce	14. 9. 2026	21. 10. 2026	Neuvedeno	
-
-  
-	Dodávka multifunkčního komunálního vozidla	Městys Drásov	00281727	Zjednodušené podlimitní řízení	Dodávky	16. 9. 2026	2. 10. 2026	3 100 000,00 Kč	
-
-  
-	Rozšíření MŠ 60, Plasy - Nový Centrální Pavilon - PD + AD	Město Plasy	00258245	Zakázka malého rozsahu	Služby	16. 9. 2026	1. 10. 2026	Neuvedeno	
 Stránka 1 z 181 (2167 položek)12345. . .181
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
