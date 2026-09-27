@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-09-26T11:39:17.103860+00:00
+Staženo: 2026-09-27T12:17:11.057451+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,9 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00021276	„ENERGIE TERMO s.r.o. - ÚSPORA ENERGIÍ“ DÍLNY (součást zateplení všech objektů v areálu)	Cancelled	ENERGIE Termo s.r.o.	23. 07. 2026 11:00
+Detail	N006/26/V00008382	Nová huť – Melt Shop Technology	Not terminated	NOVÁ HUŤ s.r.o.	
+Detail	N006/26/V00031164	Výměna vodovodního řadu v obci Dalečín	Awarded	Obec Dalečín	
 Detail	N006/26/V00031302	Revitalizace veřejného prostranství Podmokly	Awarded	Obec Podmokly	
 Detail	N006/26/S00000009	Rekonstrukce městského koupaliště Moravské Budějovice	Not terminated	Město Moravské Budějovice	
 Detail	N006/26/V00028690	LAP panel - balistická ochrana spodní části těla	Cancelled	Ministerstvo obrany	30. 09. 2026 10:00
@@ -536,9 +539,6 @@ Detail	N006/26/V00030818	Léčivé přípravky s obsahem účinné látky Leveti
 Detail	N006/26/V00026032	Kabel	Awarded	Ministerstvo obrany	28. 08. 2026 08:00
 Detail	N006/26/V00023831	Síťové switche a příslušenství	Not terminated	Zeměměřický úřad	02. 10. 2026 10:00
 Detail	N006/26/V00031022	Nákup kolového nakladače pro Technické služby města Česká Skalice	Not terminated	MĚSTO ČESKÁ SKALICE	05. 10. 2026 11:00
-Detail	N006/25/V00034019	Technická a produktová podpora HW a SW OBELISK 2026-2030	Awarded	Generální finanční ředitelství	07. 01. 2026 10:00
-Detail	N006/23/V00010794	Mobilní hlasové a datové telekomunikační služby pro HZS Královéhradeckého kraje	Awarded	Hasičský záchranný sbor Královéhradeckého kraje	
-Detail	N006/26/V00027939	Zajištění podpory, údržby a rozvoje personálního a mzdového systému do 31.12.2028	Awarded	Český telekomunikační úřad	
 LOAD ANOTHER 50
 Page
 1
