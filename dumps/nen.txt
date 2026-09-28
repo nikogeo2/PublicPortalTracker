@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-09-27T12:17:11.057451+00:00
+Staženo: 2026-09-28T14:17:59.765679+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,13 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/25/V00008734	Splašková kanalizace Libuň – II. etapa	Awarded	Obec Libuň	04. 04. 2025 11:00
+Detail	N006/26/V00030327	Bezpečností bariéry	Not terminated	OLYMP CENTRUM SPORTU MINISTERSTVA VNITRA	07. 10. 2026 09:00
+Detail	N006/26/V00030452	7. výzva k DP TK a ME nad 3,5t	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00031303	Dokončení vodovodu a kanalizace v Luběnicích	Awarded	Obec Luběnice	
+Detail	N006/25/V00002333	Výstavba odborných učeben a školních družin ZŠ Určice	Awarded	Obec Určice	12. 03. 2025 10:00
+Detail	N006/22/V00003605	SH Veveří - Brána čtyř staletí - PD	Termination of performance	Národní památkový ústav	20. 04. 2022 10:00
+Detail	N006/26/V00026344	Realizace strukturních ložiskových vrtů NPVP – čistecko-jesenický masiv a smrčinské krystalinikum	Not terminated	Česká geologická služba	29. 09. 2026 10:00
 Detail	N006/26/V00021276	„ENERGIE TERMO s.r.o. - ÚSPORA ENERGIÍ“ DÍLNY (součást zateplení všech objektů v areálu)	Cancelled	ENERGIE Termo s.r.o.	23. 07. 2026 11:00
 Detail	N006/26/V00008382	Nová huť – Melt Shop Technology	Not terminated	NOVÁ HUŤ s.r.o.	
 Detail	N006/26/V00031164	Výměna vodovodního řadu v obci Dalečín	Awarded	Obec Dalečín	
@@ -532,13 +539,6 @@ Detail	N006/26/V00031057	Dodávka kancelářských potřeb z Rámcové dohody pr
 Detail	N006/26/V00031063	Koupě komunálního stroje	Awarded	Obec Trubská	
 Detail	N006/24/V00028866	Servis klimatizačních a vzduchotechnických jednotek a sestavné vzduchotechnické jednotky DAIKIN v budovách Magistrátu města Pardubic	Awarded	Statutární město Pardubice	07. 10. 2024 09:00
 Detail	N006/24/V00036063	Vybudování sítě VHCN pro vysokorychlostní internet v národní intervenční oblasti č. 15	Awarded	Sprintel s.r.o.	16. 12. 2024 09:00
-Detail	N006/26/V00031055	Mobilní telefony I	Not terminated	Hasičský záchranný sbor Středočeského kraje	06. 10. 2026 09:00
-Detail	N006/26/V00028039	Víceúčelové hřiště Kornatice 2026	Awarded	Obec Kornatice	
-Detail	N006/26/V00031059	Trubská- u Dibřího potoka-lokalita RD	Awarded	Obec Trubská	
-Detail	N006/26/V00030818	Léčivé přípravky s obsahem účinné látky Levetiracetam	Not terminated	Uherskohradišťská nemocnice a.s.	19. 10. 2026 10:00
-Detail	N006/26/V00026032	Kabel	Awarded	Ministerstvo obrany	28. 08. 2026 08:00
-Detail	N006/26/V00023831	Síťové switche a příslušenství	Not terminated	Zeměměřický úřad	02. 10. 2026 10:00
-Detail	N006/26/V00031022	Nákup kolového nakladače pro Technické služby města Česká Skalice	Not terminated	MĚSTO ČESKÁ SKALICE	05. 10. 2026 11:00
 LOAD ANOTHER 50
 Page
 1
