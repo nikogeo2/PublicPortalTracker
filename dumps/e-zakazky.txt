@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-09-29T13:12:34.852068+00:00
+Staženo: 2026-09-30T12:53:21.851282+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,16 +33,31 @@ Předp. cena	 
 	
 		 
   
+	Soustava DČOV v obci Rašovice a místních částí	Obec Rašovice	00236373	Zjednodušené podlimitní řízení	Stavební práce	30. 9. 2026	19. 10. 2026	34 700 000,00 Kč	
+
+  
+	Stavební úpravy, nástavba a přístavba k objektu č.p. 93- IV.etapa	Město Rožďalovice	00239712	Zjednodušené podlimitní řízení	Stavební práce	30. 9. 2026	20. 10. 2026	Neuvedeno	
+
+  
+	Svoz a nakládání s odpadem pro Svazek obcí Východní Krkonoše	Město Žacléř	00278491	Otevřené řízení	Služby	30. 9. 2026	2. 11. 2026	75 000 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Dodávka a montáž sekčních průmyslových vrat v objektu HZS, 9.května 500, Štětí	Město Štětí	00264466	Zakázka malého rozsahu	Dodávky	30. 9. 2026	18. 10. 2026	Neuvedeno	
+
+  
 	Odkup výměníku pro dodávku tepla, Staromlýnská 577/4, Vysočany, Praha 9 - Otevřená výzva k podání nabídek – opakovaná výzva	Městská část Praha 9	00063894	Poptávkové řízení	Dodávky	29. 9. 2026	27. 10. 2026	Neuvedeno	
 
   
 	Chodník Lipůvka - podél silnice II/379	Obec Lipůvka	00280569	Zakázka malého rozsahu	Stavební práce	 	 	6 926 699,24 Kč	
 
+Změny závazků ve VZ
+
+
   
 	Zajištění realizace marketingové strategie pro rok 2027	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Otevřené řízení	Služby	24. 9. 2026	27. 10. 2026	Neuvedeno	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	„Výběrové řízení na dodávku souboru technologií CNC soustruhu a robotického pracoviště pro společnost Kovo In s.r.o.“	Kovo In s.r.o.	29315107	Otevřené řízení	Dodávky	25. 9. 2026	 	12 200 000,00 Kč	
@@ -50,33 +65,18 @@ Práva dodavatele v zadávacím řízení
   
 	Služby podpory systémů kybernetické bezpečnosti	Městská část Praha 2	00063461	Otevřené řízení	Služby	23. 9. 2026	26. 10. 2026	7 800 000,00 Kč	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Dodávka žacího traktoru pro Štětské komunální služby	Město Štětí	00264466	Zakázka malého rozsahu	Dodávky	25. 9. 2026	12. 10. 2026	702 000,00 Kč	
-
-Změny závazků ve VZ
-
 
   
 	Oprava prostor zkušebny na hotelu Vlčí důl v Bludově	Obec Bludov	00302368	Zakázka malého rozsahu	Stavební práce	25. 9. 2026	25. 9. 2026	992 780,00 Kč	
 
   
 	Rekonstrukce lesní cesty 2L v k. ú. Sobotín	Obec Sobotín	00303348	Zjednodušené podlimitní řízení	Stavební práce	25. 9. 2026	15. 10. 2026	19 050 407,00 Kč	
-
-  
-	Reklama a propagace II. – Minitendr č. 6	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	25. 9. 2026	6. 10. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Oprava bytových a nebytových prostor v majetku města Brandýs nad Labem-Stará Boleslav	Technické služby Brandýs - Boleslav s.r.o.	07825579	Minitendr (zadání na základě rámcové dohody)	Stavební práce	24. 9. 2026	9. 10. 2026	Neuvedeno	
-
-  
-	Oprava vytápění v objektu MěÚ Smržovka	Město Smržovka	00262579	Zakázka malého rozsahu	Stavební práce	24. 9. 2026	5. 10. 2026	718 062,40 Kč	
-
-  
-	Inovovaná plnicí linka pro fermentované mléčné výrobky	LACRUM Velké Meziříčí, s.r.o.	63992370	Otevřené řízení	Dodávky	23. 9. 2026	25. 10. 2026	14 000 000,00 Kč	
-Stránka 1 z 182 (2174 položek)12345. . .182
+Stránka 1 z 182 (2173 položek)12345. . .182
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
