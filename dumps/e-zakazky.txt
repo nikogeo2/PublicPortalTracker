@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-01T13:42:45.954739+00:00
+Staženo: 2026-10-02T12:59:24.729236+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,6 +33,18 @@ Předp. cena	 
 	
 		 
   
+	Zimní údržba místních komunikací v obci Dvorce	Obec Dvorce	00295973	Zakázka malého rozsahu	Služby	2. 10. 2026	12. 10. 2026	Neuvedeno	
+
+  
+	Oprava místní komunikace ul. Smetanova a ul. Řemenovská	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Stavební práce	2. 10. 2026	14. 10. 2026	1 400 000,00 Kč	
+
+  
+	Fotovoltaika v obecních objektech Okrouhlice - design and build	Obec Okrouhlice	00267953	Otevřené řízení	Dodávky	29. 9. 2026	2. 11. 2026	7 891 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
 	Rekonstrukce dešťové kanalizace a uličních chodníků – úsek č. 2 a část úseku č. 3	Obec Vlastislav	00481661	Zakázka malého rozsahu	Stavební práce	1. 10. 2026	19. 10. 2026	Neuvedeno	
 
   
@@ -41,7 +53,7 @@ Předp. cena	 
   
 	Soustava DČOV v obci Rašovice a místních částí	Obec Rašovice	00236373	Zjednodušené podlimitní řízení	Stavební práce	30. 9. 2026	19. 10. 2026	34 700 000,00 Kč	
 
-Práva dodavatele v zadávacím řízení
+Změny závazků ve VZ
 
 
   
@@ -53,7 +65,7 @@ Práva dodavatele v zadávacím řízení
   
 	Dodávka a montáž sekčních průmyslových vrat v objektu HZS, 9.května 500, Štětí	Město Štětí	00264466	Zakázka malého rozsahu	Dodávky	30. 9. 2026	18. 10. 2026	Neuvedeno	
 
-Změny závazků ve VZ
+Jak se bránit proti postupu zadavatele
 
 
   
@@ -64,19 +76,7 @@ Změny závazků ve VZ
 
   
 	Zajištění realizace marketingové strategie pro rok 2027	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Otevřené řízení	Služby	24. 9. 2026	27. 10. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	„Výběrové řízení na dodávku souboru technologií CNC soustruhu a robotického pracoviště pro společnost Kovo In s.r.o.“	Kovo In s.r.o.	29315107	Otevřené řízení	Dodávky	25. 9. 2026	 	12 200 000,00 Kč	
-
-  
-	Služby podpory systémů kybernetické bezpečnosti	Městská část Praha 2	00063461	Otevřené řízení	Služby	23. 9. 2026	26. 10. 2026	7 800 000,00 Kč	
-
-  
-	Dodávka žacího traktoru pro Štětské komunální služby	Město Štětí	00264466	Zakázka malého rozsahu	Dodávky	25. 9. 2026	12. 10. 2026	702 000,00 Kč	
-Stránka 1 z 181 (2166 položek)12345. . .181
+Stránka 1 z 181 (2163 položek)12345. . .181
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
