@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-10-03T11:53:13.649703+00:00
+Staženo: 2026-10-04T12:42:13.659087+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,12 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00031788	Výzva k poskytnutí plnění č. 1/2026 k RD MO 64245/2026-2230 Rozšíření řidičského oprávnění /Hradec Králové//	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00031772	Výzva k poskytnutí plnění č. 5/2026 k RD MO 65298/2026-2230 Učitel autoškoly skupiny B (POÚ) Hradec Králové	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00031119	Analýza homesharingu	Not terminated	Společnost pro homesharing, z.s.	07. 10. 2026 09:00
+Detail	N006/26/V00032060	Oprava zateplení stropu v půdním prostoru čp 5 Konstantinovy Lázně	Awarded	Obec Konstantinovy Lázně	
+Detail	N006/26/V00032059	Obytná zóna Konstantinovy Lázně – východ, komunikace II. etapa (ul. Polní)	Awarded	Obec Konstantinovy Lázně	
+Detail	N006/25/V00035076	Rekonstrukce chodníku ul. Generála Janouška v Přerově	Awarded	Statutární město Přerov	19. 01. 2026 10:00
 Detail	N006/26/V00024040	Nová webová prezentace a databázová aplikace s webovým rozhraním pro zveřejňování informací SÚRAO	Not terminated	Správa úložišť radioaktivních odpadů	09. 10. 2026 10:00
 Detail	N006/26/V00032050	Pořízení lesnické techniky	Awarded	Obec Člunek	
 Detail	N006/26/V00031868	Náhrada substrátu v prokořenitelných buňkách stromové aleje Jahnova – nám. Republiky	Not terminated	Městský obvod Pardubice I	14. 10. 2026 10:00
@@ -533,12 +539,6 @@ Detail	N006/26/V00031825	Elektromateriál	Not terminated	Psychiatrická nemocnic
 Detail	N006/25/V00038513	Stavební úpravy a přístavba tělocvičny ZŠ Kanice	Awarded	Obec Kanice	01. 12. 2025 10:00
 Detail	N006/26/V00022415	Spací pytel pro speciální síly	Not terminated	Ministerstvo obrany	10. 11. 2026 09:00
 Detail	N006/26/V00029541	ČSSZ – Dodávka dataprojektorů	Cancelled	Česká správa sociálního zabezpečení	23. 09. 2026 12:00
-Detail	N006/26/V00031018	VZ Bedřichov - zajištění lyžování pro zimní sezónu 2027	Not terminated	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	19. 10. 2026 23:59
-Detail	N006/26/V00029118	DP05 Radošov - Fabia kolo	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00029444	DP01 Chotyně - Fabia kolo	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00007369	VZ - Vstupenky do multikina z fondu PRCH	Termination of performance	Ministerstvo obrany	30. 03. 2026 08:00
-Detail	N006/26/V00010392	Pokřikov – dostavba vodovodu a dešťové kanalizace	Awarded	Obec Pokřikov	
-Detail	N006/26/V00030936	Nákup notebooků a monitorů z RD	Cancelled	Zařízení služeb pro Ministerstvo vnitra	
 LOAD ANOTHER 50
 Page
 1
@@ -553,7 +553,7 @@ Page
 11
 ...
 Page
-5630
+5631
 NEN System User Support
 ServiceDesk
 +420 272 680 985
