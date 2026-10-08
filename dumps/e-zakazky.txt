@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-07T13:42:32.175202+00:00
+Staženo: 2026-10-08T13:51:08.416473+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,28 @@ Předp. cena	 
 	
 		 
   
+	Zateplení budovy Městského úřadu Ledvice, Mírová 422/42	Město Ledvice	00266434	Zakázka malého rozsahu	Stavební práce	8. 10. 2026	22. 10. 2026	Neuvedeno	
+
+  
+	Cyklostezka Hodonín - Rohatec	Obec Rohatec	00488526	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
+
+  
+	Návrh, zpracování a distribuce časopisu OZP	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	8. 10. 2026	30. 10. 2026	Neuvedeno	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Nákup plochých zobrazovacích panelů pro klientská centra ZP MV ČR	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Otevřené řízení	Dodávky	6. 10. 2026	6. 11. 2026	9 500 000,00 Kč	
+
+  
+	Venkovní koupaliště v Moravské Třebové – výměna bazénové technologie	Město Moravská Třebová	00277037	Otevřené řízení	Dodávky	6. 10. 2026	9. 11. 2026	6 400 000,00 Kč	
+
+  
 	Dodávka datového úložiště a síťové infrastruktury	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	7. 10. 2026	20. 10. 2026	600 000,00 Kč	
+
+Změny závazků ve VZ
+
 
   
 	FVE pro obec Sentice	Obec Sentice	00282545	Zakázka malého rozsahu	Dodávky	 	 	1 324 998,00 Kč	
@@ -41,11 +62,11 @@ Předp. cena	 
   
 	Univerzální kolový nakladač s příslušenstvím	Technické služby města Klatov	00074942	Zakázka malého rozsahu	Dodávky	7. 10. 2026	23. 10. 2026	2 400 000,00 Kč	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Stavební úprava střechy pro FVE - MŠ Angela Kančeva č.p. 2628	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	7. 10. 2026	23. 10. 2026	2 305 901,62 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Oprava silničního mostu M012 a navazujících komunikací	Obec Rychnov na Moravě	00277312	Zakázka malého rozsahu	Stavební práce	 	 	1 144 272,73 Kč	
@@ -53,30 +74,9 @@ Práva dodavatele v zadávacím řízení
   
 	Stavební úprava a přístavba objektu občanské vybavenosti č.p.111 Žáky, Štrampouch	Obec Žáky	00236675	Zjednodušené podlimitní řízení	Stavební práce	7. 10. 2026	21. 10. 2026	22 721 413,00 Kč	
 
-Změny závazků ve VZ
-
-
   
 	Rekonstrukce pozemní komunikace II/122 v průjezdním úseku přes město Netolice - etapa 1, 4 a 5	Město Netolice	00250601	Zjednodušené podlimitní řízení	Stavební práce	 	 	Neuvedeno	
-
-  
-	Snížení energetické náročnosti provozu ČOV – obnova strojního vybavení pro výrobu tlakového vzduchu	Město Pelhřimov	00248801	Zjednodušené podlimitní řízení	Dodávky	6. 10. 2026	4. 11. 2026	4 500 000,00 Kč	
-
-  
-	Drcení živičných ker	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	6. 10. 2026	21. 10. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Prodloužení podpory řešení pro monitorování a zabezpečení sítí	Český telekomunikační úřad	70106975	Otevřené řízení	Služby	2. 10. 2026	2. 11. 2026	4 450 000,00 Kč	
-
-  
-	Výstavba nájemních bytů Dolní Beřkovice	Obec Dolní Beřkovice	00236799	Otevřené řízení	Stavební práce	5. 10. 2026	5. 11. 2026	47 745 839,93 Kč	
-
-  
-	Bezbariérová knihovna Štětí – výměna vchodových dveří – opakované řízení	Město Štětí	00264466	Zakázka malého rozsahu	Stavební práce	5. 10. 2026	26. 10. 2026	Neuvedeno	
-Stránka 1 z 180 (2155 položek)12345. . .180
+Stránka 1 z 179 (2144 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
