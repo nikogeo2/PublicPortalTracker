@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-08T13:51:08.416473+00:00
+Staženo: 2026-10-09T13:35:42.539830+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,7 +33,28 @@ Předp. cena	 
 	
 		 
   
+	Velké Chvojno - odkanalizování místních částí Arnultovice a Luční Chvojno - DSP, IČ SP, DPS, Admin, AD	Obec Velké Chvojno	66109973	Otevřené řízení	Služby	9. 10. 2026	9. 11. 2026	9 240 100,00 Kč	
+
+  
+	Docházkový systém (uzavřená výzva jen pro oslovené dodavatele) - oprava/prodloužená lhůta	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	9. 10. 2026	14. 10. 2026	Neuvedeno	
+
+  
+	Rozšíření metropilitní optické sítě Plasy a sítě Plzeňského kraje CamelNET - 2026	Město Plasy	00258245	Zakázka malého rozsahu	Stavební práce	 	 	2 504 679,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Dodávka elektřiny na období 01.01.2027 - 31.12.2027	Aquavparku Kyjov, s.r.o.	17082331	Jednací řízení bez uveřejnění	Dodávky	9. 10. 2026	 	Neuvedeno	
+
+  
+	Rozmetadlo pro zimní údržbu	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Dodávky	9. 10. 2026	19. 10. 2026	290 000,00 Kč	
+
+  
 	Zateplení budovy Městského úřadu Ledvice, Mírová 422/42	Město Ledvice	00266434	Zakázka malého rozsahu	Stavební práce	8. 10. 2026	22. 10. 2026	Neuvedeno	
+
+Změny závazků ve VZ
+
 
   
 	Cyklostezka Hodonín - Rohatec	Obec Rohatec	00488526	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
@@ -41,11 +62,11 @@ Předp. cena	 
   
 	Návrh, zpracování a distribuce časopisu OZP	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	8. 10. 2026	30. 10. 2026	Neuvedeno	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Nákup plochých zobrazovacích panelů pro klientská centra ZP MV ČR	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Otevřené řízení	Dodávky	6. 10. 2026	6. 11. 2026	9 500 000,00 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Venkovní koupaliště v Moravské Třebové – výměna bazénové technologie	Město Moravská Třebová	00277037	Otevřené řízení	Dodávky	6. 10. 2026	9. 11. 2026	6 400 000,00 Kč	
@@ -53,30 +74,9 @@ Práva dodavatele v zadávacím řízení
   
 	Dodávka datového úložiště a síťové infrastruktury	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	7. 10. 2026	20. 10. 2026	600 000,00 Kč	
 
-Změny závazků ve VZ
-
-
   
 	FVE pro obec Sentice	Obec Sentice	00282545	Zakázka malého rozsahu	Dodávky	 	 	1 324 998,00 Kč	
-
-  
-	Univerzální kolový nakladač s příslušenstvím	Technické služby města Klatov	00074942	Zakázka malého rozsahu	Dodávky	7. 10. 2026	23. 10. 2026	2 400 000,00 Kč	
-
-  
-	Stavební úprava střechy pro FVE - MŠ Angela Kančeva č.p. 2628	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	7. 10. 2026	23. 10. 2026	2 305 901,62 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Oprava silničního mostu M012 a navazujících komunikací	Obec Rychnov na Moravě	00277312	Zakázka malého rozsahu	Stavební práce	 	 	1 144 272,73 Kč	
-
-  
-	Stavební úprava a přístavba objektu občanské vybavenosti č.p.111 Žáky, Štrampouch	Obec Žáky	00236675	Zjednodušené podlimitní řízení	Stavební práce	7. 10. 2026	21. 10. 2026	22 721 413,00 Kč	
-
-  
-	Rekonstrukce pozemní komunikace II/122 v průjezdním úseku přes město Netolice - etapa 1, 4 a 5	Město Netolice	00250601	Zjednodušené podlimitní řízení	Stavební práce	 	 	Neuvedeno	
-Stránka 1 z 179 (2144 položek)12345. . .179
+Stránka 1 z 179 (2147 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
