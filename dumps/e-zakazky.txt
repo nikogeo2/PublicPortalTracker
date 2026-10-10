@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-09T13:35:42.539830+00:00
+Staženo: 2026-10-10T12:51:39.105349+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -33,16 +33,19 @@ Předp. cena	 
 	
 		 
   
+	Oprava místní komunikace	Obec Bousov	00654655	Zakázka malého rozsahu	Stavební práce	 	 	1 989 863,00 Kč	
+
+  
 	Velké Chvojno - odkanalizování místních částí Arnultovice a Luční Chvojno - DSP, IČ SP, DPS, Admin, AD	Obec Velké Chvojno	66109973	Otevřené řízení	Služby	9. 10. 2026	9. 11. 2026	9 240 100,00 Kč	
 
   
 	Docházkový systém (uzavřená výzva jen pro oslovené dodavatele) - oprava/prodloužená lhůta	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	9. 10. 2026	14. 10. 2026	Neuvedeno	
 
-  
-	Rozšíření metropilitní optické sítě Plasy a sítě Plzeňského kraje CamelNET - 2026	Město Plasy	00258245	Zakázka malého rozsahu	Stavební práce	 	 	2 504 679,00 Kč	
-
 Práva dodavatele v zadávacím řízení
 
+
+  
+	Rozšíření metropilitní optické sítě Plasy a sítě Plzeňského kraje CamelNET - 2026	Město Plasy	00258245	Zakázka malého rozsahu	Stavební práce	 	 	2 504 679,00 Kč	
 
   
 	Dodávka elektřiny na období 01.01.2027 - 31.12.2027	Aquavparku Kyjov, s.r.o.	17082331	Jednací řízení bez uveřejnění	Dodávky	9. 10. 2026	 	Neuvedeno	
@@ -50,11 +53,11 @@ Práva dodavatele v zadávacím řízení
   
 	Rozmetadlo pro zimní údržbu	Technické služby města Pelhřimova, příspěvková organizace	49056689	Zakázka malého rozsahu	Dodávky	9. 10. 2026	19. 10. 2026	290 000,00 Kč	
 
-  
-	Zateplení budovy Městského úřadu Ledvice, Mírová 422/42	Město Ledvice	00266434	Zakázka malého rozsahu	Stavební práce	8. 10. 2026	22. 10. 2026	Neuvedeno	
-
 Změny závazků ve VZ
 
+
+  
+	Zateplení budovy Městského úřadu Ledvice, Mírová 422/42	Město Ledvice	00266434	Zakázka malého rozsahu	Stavební práce	8. 10. 2026	22. 10. 2026	Neuvedeno	
 
   
 	Cyklostezka Hodonín - Rohatec	Obec Rohatec	00488526	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
@@ -62,20 +65,17 @@ Změny závazků ve VZ
   
 	Návrh, zpracování a distribuce časopisu OZP	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	8. 10. 2026	30. 10. 2026	Neuvedeno	
 
-  
-	Nákup plochých zobrazovacích panelů pro klientská centra ZP MV ČR	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Otevřené řízení	Dodávky	6. 10. 2026	6. 11. 2026	9 500 000,00 Kč	
-
 Jak se bránit proti postupu zadavatele
 
+
+  
+	Nákup plochých zobrazovacích panelů pro klientská centra ZP MV ČR	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Otevřené řízení	Dodávky	6. 10. 2026	6. 11. 2026	9 500 000,00 Kč	
 
   
 	Venkovní koupaliště v Moravské Třebové – výměna bazénové technologie	Město Moravská Třebová	00277037	Otevřené řízení	Dodávky	6. 10. 2026	9. 11. 2026	6 400 000,00 Kč	
 
   
 	Dodávka datového úložiště a síťové infrastruktury	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	7. 10. 2026	20. 10. 2026	600 000,00 Kč	
-
-  
-	FVE pro obec Sentice	Obec Sentice	00282545	Zakázka malého rozsahu	Dodávky	 	 	1 324 998,00 Kč	
 Stránka 1 z 179 (2147 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
