@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-10-10T12:51:13.806134+00:00
+Staženo: 2026-10-11T13:15:31.523881+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,11 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00019429	Zhotovení PD (DPS), příkazní činnost a výkon AD pro objekt infocentra Památníku Terezín a přilehlé parkoviště	Cancelled	Památník Terezín	22. 07. 2026 10:00
+Detail	N006/26/V00030376	Expozice Ostravského muzea – návrh a kompletní realizace expozice	Not terminated	Ostravské muzeum, příspěvková organizace	26. 10. 2026 08:00
+Detail	N006/26/V00000975	Stavební rekonstrukce muzea Památníku Ležáky	Awarded	Památník Lidice	27. 04. 2026 14:00
+Detail	N006/26/V00031868	Náhrada substrátu v prokořenitelných buňkách stromové aleje Jahnova – nám. Republiky	Not terminated	Městský obvod Pardubice I	14. 10. 2026 10:00
+Detail	N006/26/V00013549	Projektová dokumentace k obnově TPFB	Not terminated	Ministerstvo obrany	03. 11. 2026 10:00
 Detail	N006/26/V00032068	24. dílčí plnění - Provádění TP a ME vozidel nad 3,5t v letech 2025 - 2026 (lokalita Stará Boleslav)	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00032411	51. dílčí plnění - Běžné opravy a servis vozidel značky Škoda a VW, RD č. 25105002471	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00014076	Oprava nestabilního svahu zahrady ZŠ a MŠ, ul. Školní 11	Awarded	Obec Albrechtice	
@@ -89,7 +94,6 @@ Detail	N006/26/V00031768	Výměna protipožárních dveří v depozitáři Terez
 Detail	N006/26/V00030493	KS v Plzni - nákup kancelářských potřeb	Awarded	Krajský soud v Plzni	09. 10. 2026 09:00
 Detail	N006/26/V00020943	Kompletní renovace kuchyňky RP Ústí nad Labem	Termination of performance	Státní úřad pro jadernou bezpečnost	15. 07. 2026 09:00
 Detail	N006/26/V00023847	KŘP-L Technická podpora HW infrastruktury IS JITKA	Awarded	Krajské ředitelství policie Libereckého kraje	
-Detail	N006/26/V00030376	Expozice Ostravského muzea – návrh a kompletní realizace expozice	Not terminated	Ostravské muzeum, příspěvková organizace	26. 10. 2026 08:00
 Detail	N006/26/V00032230	Výzva k poskytnutí plnění č. 2/2026 k RD MO 951199/2025-2230 Rozšíření řidičského oprávnění /Praha/	Awarded	Ministerstvo obrany	
 Detail	N006/25/V00014989	Vsetínská nemocnice a.s. - Využití budovy B1 a B2 - zpracování projektové dokumentace, výkon inženýrské činnosti a autorského dozoru - projektová dokumentace	Awarded	Zlínský kraj	16. 06. 2025 09:00
 Detail	N006/26/V00030947	digitální kompaktní fotoaparát	Awarded	Národní muzeum	04. 10. 2026 23:59
@@ -535,10 +539,6 @@ Detail	N006/26/V00018990	Nákup plnících zařízení 2027	Awarded	Ministerstvo
 Detail	N006/26/V00030538	Nákup 2 osobních vozidel	Awarded	Státní oblastní archiv v Litoměřicích	
 Detail	N006/19/V00012635	Nákup náhradních dílů, materiálu, servisu, oprav a služeb za účelem zajištění funkčnosti leteckého záchranného vybavení a letecké výstroje	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00017903	Košile a halenky pro příslušníky HZS Středočeského kraje	Termination of performance	Hasičský záchranný sbor Středočeského kraje	
-Detail	N006/21/V00027210	Pronájem optické trasy mezi HZS a PČR Vyškov	Awarded	Hasičský záchranný sbor Jihomoravského kraje	26. 10. 2021 09:00
-Detail	N006/26/V00015380	Vybavení nábytkem pro nově zrekonstruované prostory	Awarded	Hotelová škola, Ostrava, příspěvková organizace	10. 08. 2026 11:00
-Detail	N006/26/V00016345	Poptávkové řízení na zajištění opravy přívodního potrubí napájecí vody pro STL parní kotle BK a CERTUSS 1500 II.	Awarded	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	15. 06. 2026 10:00
-Detail	N006/26/V00032056	„Nákup – Třístranný sklápěč pro úsek Technických služeb“	Not terminated	SPORTES Svitavy s.r.o.	22. 10. 2026 10:00
 LOAD ANOTHER 50
 Page
 1
