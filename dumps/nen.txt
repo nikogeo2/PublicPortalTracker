@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-10-17T11:02:40.107019+00:00
+Staženo: 2026-10-18T11:32:00.190554+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,9 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00033939	Dodávka IT vybavení pro SJ ČR	Not terminated	Správa jeskyní České republiky	27. 10. 2026 10:00
+Detail	N006/26/V00033938	Malhotice - FVE na budově Lidového domu	Awarded	Obec Malhotice	
+Detail	N006/26/V00021098	Komunální FVE - Rozhraní II	Awarded	Obec Rozhraní	
 Detail	N006/26/V00033937	Obklad zdiva malé vodní nádrže v k. ú. Hlízov p. p. č. 1195	Awarded	Obec Hlízov	
 Detail	N006/26/V00031017	„Revitalizace malé vodní nádrže v k. ú. Hlízov p. p. č. 1195“	Awarded	Obec Hlízov	
 Detail	N006/26/V00033863	Chodník v obci Jičíněves u ZŠ	Awarded	Obec Jičíněves	
@@ -536,9 +539,6 @@ Detail	N006/26/V00033268	Nákup norem pro laboratoř PHM	Not terminated	Minister
 Detail	N006/26/V00030996	Dodání zátěžových podlah a podložek	Not terminated	Krajské ředitelství policie hlavního města Prahy	06. 10. 2026 08:00
 Detail	N006/26/V00026936	CHS Benešov - přístavba nových prostor chemické a technické služby	Awarded	Hasičský záchranný sbor Středočeského kraje	07. 09. 2026 09:00
 Detail	N006/26/V00032210	261025/2026-SEV - Oprava plynového chromatografu	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00032102	Zabezpečení praní prádla a výstrojních součástek - 48. DP	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00029360	Program ANY-Maze a vyhodnocovací PC jednotka	Awarded	Ministerstvo obrany	22. 09. 2026 09:00
-Detail	N006/26/V00033740	Nákup tabletu	Not terminated	Krajské ředitelství policie Jihočeského kraje	22. 10. 2026 07:00
 LOAD ANOTHER 50
 Page
 1
