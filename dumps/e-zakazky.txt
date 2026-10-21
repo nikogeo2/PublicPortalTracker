@@ -1,11 +1,23 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-20T11:56:20.062416+00:00
+Staženo: 2026-10-21T12:10:08.917338+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
 Domů
 Veřejné zakázky
+Informační panel / Information panel
+
+
+UPOZORNĚNÍ
+
+Rádi bychom vás informovali o plánované technické odstávce systémů Zadavatel, e-zakázky, která proběhne v souvislosti s nasazením nové verze přinášející významná funkční vylepšení.
+
+Termín odstávky: 23.10.2026
+Předpokládaný čas: [22:00–02:00]
+
+Omlouváme se a děkujeme za pochopení.
+
 Veřejné zakázky
 	
 Zakázka neukončena
@@ -33,16 +45,31 @@ Předp. cena	 
 	
 		 
   
+	Vybavení pro obor operátor bezpilotních systémů 2	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	21. 10. 2026	6. 11. 2026	310 000,00 Kč	
+
+  
+	Poptávkové řízení na dodávku 2 ks vzorkovacích nádob	Centrum dopravního výzkumu, v. v. i.	44994575	Poptávkové řízení	Dodávky	21. 10. 2026	2. 11. 2026	190 000,00 Kč	
+
+  
+	Dodávka zařízení pro drcení odpadů na skládce	SONO PLUS, s.r.o.	25034839	Otevřené řízení	Dodávky	19. 10. 2026	19. 11. 2026	13 875 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Oprava bytových a nebytových prostor v majetku města Brandýs nad Labem-Stará Boleslav	Technické služby Brandýs - Boleslav s.r.o.	07825579	Minitendr (zadání na základě rámcové dohody)	Stavební práce	20. 10. 2026	29. 10. 2026	Neuvedeno	
+
+  
 	Rekonstrukce vodovodního přivaděče P-11 z ÚV O. N. Ves do Uh. Ostrohu - 1. etapa a Rekonstrukce vodovodního přivaděče P-11 z ÚV O. N. Ves do Uh. Ostrohu - 4. etapa	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Služby	20. 10. 2026	5. 11. 2026	800 000,00 Kč	
 
   
 	Kontrola systému vytápění nad 70kW dle vyhlášky č. 38/2022 sb.	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	20. 10. 2026	5. 11. 2026	Neuvedeno	
 
+Změny závazků ve VZ
+
+
   
 	Dodávky pracovních oděvů	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	20. 10. 2026	4. 11. 2026	Neuvedeno	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	Rekonstrukce místní komunikace v obci Libina-úseky U Černých, U pelikána, Pančava a stadion	Obec Libina	00302899	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
@@ -50,33 +77,18 @@ Práva dodavatele v zadávacím řízení
   
 	Rekonstrukce účelové komunikace za budovou č.p. 995, Světlá nad Sázavou	Město Světlá nad Sázavou	00268321	Otevřené řízení	Stavební práce	16. 10. 2026	18. 11. 2026	8 929 640,29 Kč	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Vzdělávací služby pro OHK Přerov	Okresní hospodářská komora Přerov	47676981	Zakázka malého rozsahu	Služby	16. 10. 2026	 	2 848 800,00 Kč	
-
-Změny závazků ve VZ
-
 
   
 	Dodávka reklamních předmětů s potiskem / laserovým gravírováním	Centrum dopravního výzkumu, v. v. i.	44994575	Poptávkové řízení	Dodávky	16. 10. 2026	30. 10. 2026	100 000,00 Kč	
 
   
 	Revitalizace zámeckého parku – Tvrziště Klučov	Obec Klučov	00235431	Zjednodušené podlimitní řízení	Stavební práce	15. 10. 2026	5. 11. 2026	45 611 856,00 Kč	
-
-  
-	Rekonstrukce ZŠ v Úštěku - přírodní učebna v zahradě	Město Úštěk	00264571	Zakázka malého rozsahu	Stavební práce	 	22. 9. 2026	1 196 734,10 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Dolní a Horní Chobolice – vodovod - 1. kolo - podání žádostí o účast	Obec Liběšice	00263893	Užší řízení	Stavební práce	15. 10. 2026	13. 11. 2026	74 306 000,00 Kč	
-
-  
-	Dodavatel realizace rekonstrukce bytu Fryčajova 161a	Statutární město Brno, MČ Brno - Maloměřice a Obřany	44992785	Poptávkové řízení	Stavební práce	14. 10. 2026	20. 10. 2026	Neuvedeno	
-
-  
-	Zajištění realizace marketingové strategie pro rok 2026 (Rámcová dohoda) - Uzavřený MINITENDR 20/2026 - pro vybrané společnosti	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Minitendr (zadání na základě rámcové dohody)	Služby	14. 10. 2026	21. 10. 2026	Neuvedeno	
-Stránka 1 z 178 (2130 položek)12345. . .178
+Stránka 1 z 178 (2132 položek)12345. . .178
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
