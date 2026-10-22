@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-21T12:10:08.917338+00:00
+Staženo: 2026-10-22T12:13:56.036028+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -45,7 +45,40 @@ Předp. cena	 
 	
 		 
   
+	Dodávka žacího traktoru pro Štětské komunální služby	Město Štětí	00264466	Zakázka malého rozsahu	Dodávky	22. 10. 2026	6. 11. 2026	702 000,00 Kč	
+
+  
+	Provozování, správa, a údržba veřejného osvětlení města Chlumec nad Cidlinou	Město Chlumec nad Cidlinou	00268861	Otevřené řízení	Služby	22. 10. 2026	26. 11. 2026	6 000 000,00 Kč	
+
+  
+	Zajištění sběru, přepravy, využití a/nebo odstranění směsných komunálních odpadů 2026	Město Chlumec nad Cidlinou	00268861	Otevřené řízení	Služby	22. 10. 2026	26. 11. 2026	Neuvedeno	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Svoz a nakládání se separovaným odpadem města Chlumec nad Cidlinou 2026	Město Chlumec nad Cidlinou	00268861	Otevřené řízení	Služby	22. 10. 2026	26. 11. 2026	13 000 000,00 Kč	
+
+  
+	Oprava rozvodů vody	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Stavební práce	22. 10. 2026	5. 11. 2026	170 000,00 Kč	
+
+  
+	TWR Validation Study	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Služby	 	11. 11. 2026	Neuvedeno	
+
+Změny závazků ve VZ
+
+
+  
+	Odvlhčení spodní stavby bytového domu čp. 143, Pražská ulice v Mnichovicích	Město Mnichovice	00240478	Zakázka malého rozsahu	Stavební práce	24. 9. 2026	5. 10. 2026	2 100 000,00 Kč	
+
+  
+	veřejná zakázka_Vybavení pro obor operátor bezpilotních systémů 3	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	21. 10. 2026	6. 11. 2026	217 000,00 Kč	
+
+  
 	Vybavení pro obor operátor bezpilotních systémů 2	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	21. 10. 2026	6. 11. 2026	310 000,00 Kč	
+
+Jak se bránit proti postupu zadavatele
+
 
   
 	Poptávkové řízení na dodávku 2 ks vzorkovacích nádob	Centrum dopravního výzkumu, v. v. i.	44994575	Poptávkové řízení	Dodávky	21. 10. 2026	2. 11. 2026	190 000,00 Kč	
@@ -53,42 +86,9 @@ Předp. cena	 
   
 	Dodávka zařízení pro drcení odpadů na skládce	SONO PLUS, s.r.o.	25034839	Otevřené řízení	Dodávky	19. 10. 2026	19. 11. 2026	13 875 000,00 Kč	
 
-Práva dodavatele v zadávacím řízení
-
-
   
 	Oprava bytových a nebytových prostor v majetku města Brandýs nad Labem-Stará Boleslav	Technické služby Brandýs - Boleslav s.r.o.	07825579	Minitendr (zadání na základě rámcové dohody)	Stavební práce	20. 10. 2026	29. 10. 2026	Neuvedeno	
-
-  
-	Rekonstrukce vodovodního přivaděče P-11 z ÚV O. N. Ves do Uh. Ostrohu - 1. etapa a Rekonstrukce vodovodního přivaděče P-11 z ÚV O. N. Ves do Uh. Ostrohu - 4. etapa	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Služby	20. 10. 2026	5. 11. 2026	800 000,00 Kč	
-
-  
-	Kontrola systému vytápění nad 70kW dle vyhlášky č. 38/2022 sb.	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	20. 10. 2026	5. 11. 2026	Neuvedeno	
-
-Změny závazků ve VZ
-
-
-  
-	Dodávky pracovních oděvů	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	20. 10. 2026	4. 11. 2026	Neuvedeno	
-
-  
-	Rekonstrukce místní komunikace v obci Libina-úseky U Černých, U pelikána, Pančava a stadion	Obec Libina	00302899	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
-
-  
-	Rekonstrukce účelové komunikace za budovou č.p. 995, Světlá nad Sázavou	Město Světlá nad Sázavou	00268321	Otevřené řízení	Stavební práce	16. 10. 2026	18. 11. 2026	8 929 640,29 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Vzdělávací služby pro OHK Přerov	Okresní hospodářská komora Přerov	47676981	Zakázka malého rozsahu	Služby	16. 10. 2026	 	2 848 800,00 Kč	
-
-  
-	Dodávka reklamních předmětů s potiskem / laserovým gravírováním	Centrum dopravního výzkumu, v. v. i.	44994575	Poptávkové řízení	Dodávky	16. 10. 2026	30. 10. 2026	100 000,00 Kč	
-
-  
-	Revitalizace zámeckého parku – Tvrziště Klučov	Obec Klučov	00235431	Zjednodušené podlimitní řízení	Stavební práce	15. 10. 2026	5. 11. 2026	45 611 856,00 Kč	
-Stránka 1 z 178 (2132 položek)12345. . .178
+Stránka 1 z 178 (2135 položek)12345. . .178
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
