@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-10-24T11:23:29.868792+00:00
+Staženo: 2026-10-25T11:53:56.462617+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,20 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00034652	Chocerady – logistické centrum – výstavba - PD	Not terminated	Ministerstvo obrany	07. 12. 2026 09:00
+Detail	N006/26/V00030744	ZZS ZK – Transportní plicní ventilátory 2026	Awarded	Zdravotnická záchranná služba Zlínského kraje, příspěvková organizace	07. 10. 2026 13:00
+Detail	N006/26/V00025940	DP - RD Převzetí a odstranění odpadů z jímek a odlučovačů tuků 2026-2028. DO 28024/1	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00023395	Náhradní díly pro vozidla Tatra	Termination of performance	Ministerstvo obrany	07. 08. 2026 09:00
+Detail	N006/26/V00022638	Vybavení posilovny	Termination of performance	Ministerstvo obrany	29. 07. 2026 09:00
+Detail	N006/26/V00018971	Barvy, spreje a příslušenství	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00017859	Elektronické distrakční zařízení	Termination of performance	Ministerstvo obrany	19. 06. 2026 09:00
+Detail	N006/26/V00029490	FVE Město Veltrusy – 2.výzva	Not terminated	Město Veltrusy	19. 10. 2026 10:00
+Detail	N006/26/V00017176	Kurz motorového paraglidingu	Termination of performance	Ministerstvo obrany	16. 06. 2026 09:00
+Detail	N006/26/V00014807	DP - RD - Opravy a údržba potápěčské techniky 2026-2029. DO 17961/1	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00034895	Novostavba obecního skladu poz. parc. č. 50/1 a 50/2 v k.ú. Mysletín	Not terminated	Obec Mysletín	29. 01. 2027 19:00
+Detail	N006/26/V00033310	Stavební úpravy 1.NP Biskupského gymnázia, Základní školy a Mateřské školy Bohosudov, Koněvova 100, Krupka – II.	Not terminated	Biskupství litoměřické	04. 11. 2026 12:00
+Detail	N006/26/V00031296	1. část II. etapy rekonstrukce Velkého mlýna - Výměna stávajících okenních výplní za repliky	Not terminated	Spolek Velký mlýn	14. 10. 2026 10:00
+Detail	N006/26/V00032516	Rekonstrukce budovy MŠ Máchova	Awarded	Statutární město Přerov	
 Detail	N006/26/V00034898	Obnova větrolamu v k.ú. Velký Karlov	Awarded	Obec Šanov	
 Detail	N006/26/V00033445	Ovoce a zelenina na období od 21.10.2026 do 20.11.2026	Awarded	Vojenská nemocnice Olomouc	
 Detail	N006/26/V00034329	Předmíř - garážové vjezdy, odvodnění“	Awarded	Obec Předmíř	
@@ -525,20 +539,6 @@ Detail	N006/26/V00032170	Očkovací látky a imunitní séra	Not terminated	Uher
 Detail	N006/26/V00026153	SÚKL ZMR18/2026 - Nákup automatického potenciometrického titrátoru	Awarded	Státní ústav pro kontrolu léčiv	31. 08. 2026 12:00
 Detail	N006/26/V00015981	Stavební práce - Technologický polygon	Awarded	Vojenský technický ústav, s.p.	
 Detail	N006/26/V00029120	Zajištění správy, údržby a rozvoje informačních systémů Kanceláře Akademie věd ČR	Not terminated	Akademie věd České republiky	21. 10. 2026 12:00
-Detail	N006/26/V00028796	Carrier Board pro polní přepínač	Awarded	Vojenský technický ústav, s.p.	
-Detail	N006/26/V00031605	Poskytování služeb traktorbagru pro potřeby LS Lány	Awarded	Lesní správa Lány	20. 10. 2026 09:00
-Detail	N006/26/V00034636	Pořízení elektrokompostérů do jídelen města Jičína	Not terminated	Město Jičín	10. 11. 2026 09:00
-Detail	N006/26/V00030692	RS 2.DP 2025 - Školení práce ve výškách a nad volnou hloubkou	Awarded	Ministerstvo obrany	
-Detail	N006/25/V00040244	VLRZ – sportovní přístrojové vybavení pro PR – nákup	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	16. 03. 2026 23:59
-Detail	N006/26/V00033062	Provozní kapaliny II.	Not terminated	Ministerstvo obrany	21. 10. 2026 08:00
-Detail	N006/26/V00022374	SW a HW pro kybernetické testování	Awarded	Ministerstvo obrany	02. 09. 2026 09:00
-Detail	N006/26/V00034630	Revitalizace místních komunikací a veřejných prostor Zálezly	Not terminated	Obec Velemyšleves	16. 11. 2026 10:00
-Detail	N006/26/V00030461	LP s obsahem sufentanilu 2026	Awarded	Vojenská nemocnice Olomouc	
-Detail	N006/26/V00032160	Nákup zakládacích klínů k letounům v Leteckém muzeu Kbely	Awarded	Ministerstvo obrany	13. 10. 2026 07:00
-Detail	N006/26/V00031938	SM - aglutinační séra pro bakteriologii I.	Awarded	Ministerstvo obrany	14. 10. 2026 06:00
-Detail	N006/26/V00034168	600/2026-BR, objednávka č.2	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00031868	Náhrada substrátu v prokořenitelných buňkách stromové aleje Jahnova – nám. Republiky	Awarded	Městský obvod Pardubice I	14. 10. 2026 10:00
-Detail	N006/25/V00027360	MŠ K Polabinám - rekonstrukce hospodářského pavilonu - PD	Termination of performance	Statutární město Pardubice	04. 09. 2025 09:00
 LOAD ANOTHER 50
 Page
 1
