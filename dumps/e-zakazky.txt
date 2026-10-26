@@ -1,23 +1,11 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-25T11:54:14.941132+00:00
+Staženo: 2026-10-26T13:25:34.074370+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
 Domů
 Veřejné zakázky
-Informační panel / Information panel
-
-
-UPOZORNĚNÍ
-
-Rádi bychom vás informovali o plánované technické odstávce systémů Zadavatel, e-zakázky, která proběhne v souvislosti s nasazením nové verze přinášející významná funkční vylepšení.
-
-Termín odstávky: 23.10.2026
-Předpokládaný čas: [22:00–02:00]
-
-Omlouváme se a děkujeme za pochopení.
-
 Veřejné zakázky
 	
 Zakázka neukončena
@@ -47,6 +35,18 @@ Předp. cena	 
 	
 		 
   
+	Modernizace docházkového a přístupového systému	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	25. 10. 2026	9. 11. 2026	700 000,00 Kč	
+
+  
+	Opravy stožárů veřejného osvětlení v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Stavební práce	26. 10. 2026	11. 11. 2026	Neuvedeno	
+
+  
+	Rámcová dohoda na dodávky náhradních dílů na sekačky Gianni Ferrari	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	26. 10. 2026	11. 11. 2026	Neuvedeno	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
 	Test zakázky - prosím storno faktury	Test agentes	112233445	Otevřené řízení	Služby	24. 10. 2026	24. 10. 2026	Neuvedeno	
 
   
@@ -55,7 +55,7 @@ Předp. cena	 
   
 	Obnova vodovodních přivaděčů Tišnovsko	Svazek vodovodů a kanalizací Tišnovsko	49457004	Zakázka malého rozsahu	Stavební práce	 	 	3 427 500,00 Kč	
 
-Práva dodavatele v zadávacím řízení
+Změny závazků ve VZ
 
 
   
@@ -67,7 +67,7 @@ Práva dodavatele v zadávacím řízení
   
 	„JÚ Železné – napojení vrtu HVZ-1 na ČS JÚ Železné, na pozemku p.č. 1941 v k.ú. Lomnička U Tišnova“	Svazek vodovodů a kanalizací Tišnovsko	49457004	Zakázka malého rozsahu	Stavební práce	 	 	2 621 744,86 Kč	
 
-Změny závazků ve VZ
+Jak se bránit proti postupu zadavatele
 
 
   
@@ -78,18 +78,6 @@ Změny závazků ve VZ
 
   
 	Třídíme odpad v obci Kruh – sběrná místa	Obec Kruh	00275859	Zakázka malého rozsahu	Stavební práce	23. 10. 2026	4. 11. 2026	Neuvedeno	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	Dodávka nákladního vozidla s hákovým nosičem kontejnerů a navijákem	Technické služby Havířov a.s.	25375601	Zjednodušené podlimitní řízení	Dodávky	23. 10. 2026	12. 11. 2026	4 000 000,00 Kč	
-
-  
-	Nákup 2 kusů přehledových monitorovacích přijímačů	Český telekomunikační úřad	70106975	Zakázka malého rozsahu	Dodávky	23. 10. 2026	4. 11. 2026	2 180 000,00 Kč	
-
-  
-	Nákup analyzátoru kvalitativních parametrů v mobilních sítích	Český telekomunikační úřad	70106975	Zakázka malého rozsahu	Dodávky	23. 10. 2026	4. 11. 2026	650 000,00 Kč	
 Stránka 1 z 179 (2148 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
