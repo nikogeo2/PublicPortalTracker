@@ -1,11 +1,28 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-26T13:25:34.074370+00:00
+Staženo: 2026-10-27T12:32:05.265126+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
 Domů
 Veřejné zakázky
+Informační panel / Information panel
+
+Upozornění pro uživatele systému
+
+Vážení klienti,
+
+v souvislosti s implementací nového řízení na straně zadavatele je pro zajištění správné funkčnosti systému potřeba obnovit načtení stránky.
+
+Prosíme, použijte klávesovou zkratku CTRL + SHIFT + R, případně otevřete stránku v jiném internetovém prohlížeči.
+
+Děkujeme za pochopení a omlouváme se za případné komplikace.
+
+S pozdravem
+
+
+Váš tým
+
 Veřejné zakázky
 	
 Zakázka neukončena
@@ -35,16 +52,31 @@ Předp. cena	 
 	
 		 
   
+	Dodávka kontinuálního lisu	RESPONO, a.s., Cukrovarská 486/16, 682 01 Vyškov	49435612	Otevřené řízení	Dodávky	27. 10. 2026	30. 11. 2026	6 500 000,00 Kč	
+
+  
+	Modernizace a rozvoj webové platformy ITS knihovny	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	26. 10. 2026	9. 11. 2026	800 000,00 Kč	
+
+  
+	zajištění cateringových služeb pro odbornou konferenci CLIMove(rs)	Centrum dopravního výzkumu, v. v. i.	44994575	Poptávkové řízení	Služby	25. 10. 2026	9. 11. 2026	75 000,00 Kč	
+
+Práva dodavatele v zadávacím řízení
+
+
+  
+	Projekt vodovdo etapa II. v obci Nespeky	Obec Nespeky	00232335	Zakázka malého rozsahu	Služby	2. 4. 2026	20. 4. 2026	2 980 000,00 Kč	
+
+  
 	Modernizace docházkového a přístupového systému	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	25. 10. 2026	9. 11. 2026	700 000,00 Kč	
 
   
 	Opravy stožárů veřejného osvětlení v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Stavební práce	26. 10. 2026	11. 11. 2026	Neuvedeno	
 
+Změny závazků ve VZ
+
+
   
 	Rámcová dohoda na dodávky náhradních dílů na sekačky Gianni Ferrari	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	26. 10. 2026	11. 11. 2026	Neuvedeno	
-
-Práva dodavatele v zadávacím řízení
-
 
   
 	Test zakázky - prosím storno faktury	Test agentes	112233445	Otevřené řízení	Služby	24. 10. 2026	24. 10. 2026	Neuvedeno	
@@ -52,33 +84,18 @@ Práva dodavatele v zadávacím řízení
   
 	Nákup kombinovaných sporáků společností BYTES Tábor s.r.o.	Město Tábor	00253014	Zakázka malého rozsahu	Dodávky	23. 10. 2026	10. 11. 2026	Neuvedeno	
 
+Jak se bránit proti postupu zadavatele
+
+
   
 	Obnova vodovodních přivaděčů Tišnovsko	Svazek vodovodů a kanalizací Tišnovsko	49457004	Zakázka malého rozsahu	Stavební práce	 	 	3 427 500,00 Kč	
-
-Změny závazků ve VZ
-
 
   
 	„Hradčany u Tišnova, ul. Luční a Chaloupky – obnova vodovodu“	Svazek vodovodů a kanalizací Tišnovsko	49457004	Zakázka malého rozsahu	Stavební práce	 	 	2 794 727,09 Kč	
 
   
 	Promítací zařízení pro kino Máj v Chocni“,„Modernizace kina Máj v Chocni	Město Choceň	00278955	Zjednodušené podlimitní řízení	Dodávky	23. 10. 2026	13. 11. 2026	3 989 750,00 Kč	
-
-  
-	„JÚ Železné – napojení vrtu HVZ-1 na ČS JÚ Železné, na pozemku p.č. 1941 v k.ú. Lomnička U Tišnova“	Svazek vodovodů a kanalizací Tišnovsko	49457004	Zakázka malého rozsahu	Stavební práce	 	 	2 621 744,86 Kč	
-
-Jak se bránit proti postupu zadavatele
-
-
-  
-	„Stavební úpravy vodojem Tišnov Klucanina“ ,,Stavební úpravy vodojem Jamné“ ,,Stavební úpravy vodojem Předklášteří“	Svazek vodovodů a kanalizací Tišnovsko	49457004	Zakázka malého rozsahu	Stavební práce	 	 	2 985 525,91 Kč	
-
-  
-	Zámek Zruč nad Sázavou – oprava dílčích částí zámeckého areálu	Město Zruč nad Sázavou	00236667	Zakázka malého rozsahu	Stavební práce	23. 10. 2026	18. 11. 2026	Neuvedeno	
-
-  
-	Třídíme odpad v obci Kruh – sběrná místa	Obec Kruh	00275859	Zakázka malého rozsahu	Stavební práce	23. 10. 2026	4. 11. 2026	Neuvedeno	
-Stránka 1 z 179 (2148 položek)12345. . .179
+Stránka 1 z 179 (2147 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
