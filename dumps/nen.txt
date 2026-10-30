@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-10-29T13:29:44.060032+00:00
+Staženo: 2026-10-30T13:17:49.881787+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,329 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00032041	Realizace průmyslové a kořenové čistírny odpadních vod	Not terminated	NOVÁK - papír, s.r.o.	01. 12. 2026 10:00
+Detail	N006/26/V00022670	MZM – CDR – regálové vybavení	Awarded	Moravské zemské muzeum	25. 08. 2026 10:00
+Detail	N006/26/V00035586	SPS 0514 – Odvoz a likvidace odpadu (beton, kámen, suť, zemina)	Not terminated	Ministerstvo obrany	11. 11. 2026 10:00
+Detail	N006/26/V00033569	Vinařice - oprava datových kabelů MaR - II.etapa-3	Not terminated	Vězeňská služba České republiky	26. 10. 2026 14:30
+Detail	N006/26/V00029518	Baterie do defibrilátoru D1	Cancelled	Ministerstvo obrany	24. 09. 2026 09:00
+Detail	N006/26/V00035595	Výkon koordinátora BOZP v rámci stavby „Dostavba radnice ve Zlíně I. etapa“	Awarded	Statutární město Zlín	
+Detail	N006/26/V00031048	Dodávka a servis digitálního barevného produkčního zařízení	Not terminated	Úřad vlády České republiky	10. 11. 2026 10:00
+Detail	N006/26/V00031297	ReSURS I. - PISEK - stavební úpravy	Not terminated	Řízení letového provozu České republiky, státní podnik (ŘLP ČR, s.p.)	10. 12. 2026 10:00
+Detail	N006/26/V00031194	Nářadí pro zbrojíře - 2. kolo	Not terminated	Ministerstvo obrany	12. 10. 2026 09:00
+Detail	N006/26/V00035497	OS Bruntál - servery pro virtualizaci 2 ks	Not terminated	Okresní soud v Bruntále	10. 11. 2026 08:00
+Detail	N006/26/V00034488	Zpracování projektové dokumentace pro revitalizaci lokality Mlýnský potok	Not terminated	Správa Národního parku Šumava	10. 11. 2026 08:00
+Detail	N006/26/V00035598	Technické zhodnocení gamaspektrometru	Awarded	Státní ústav jaderné, chemické a biologické ochrany, v. v. i.	
+Detail	N006/26/V00031947	FRONTEX (OS a ŘSCP) – nákup ochranného vybavení	Not terminated	Ministerstvo vnitra	14. 10. 2026 08:00
+Detail	N006/26/V00033363	Supply of optical-fibre cable II.	Not terminated	Geofyzikální ústav AV ČR, v. v. i.	04. 11. 2026 10:00
+Detail	N006/26/V00035600	POPOZT_2026_35 Vozík pro přepravu pacientů (180 kg)	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	10. 11. 2026 10:00
+Detail	N006/25/V00009972	Nová CHÚV	Not terminated	Energotrans, a.s.	
+Detail	N006/26/V00035518	Vytvoření a implementace rezervačního systému akcí Úřadu vlády České republiky	Awarded	Úřad vlády České republiky	
+Detail	N006/26/V00035596	Poptávkové řízení: Zajištění oprav a servisu kávovarů v areálu ÚVN	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	10. 11. 2026 10:00
+Detail	N006/26/V00030592	9503 - Vyvedení tepla z EDU pro město Brno - OB03 - Vyvedení tepla (elektro, SKŘ)	Not terminated	ČEZ, a. s.	
+Detail	N006/26/V00035591	Rekonstrukce budovy na parc. č. st. 738, Pozlovice - změna užívání na apartmánový dům	Not terminated	EXTENSIV GROUP s.r.o.	02. 12. 2026 00:00
+Detail	N006/26/V00030227	Oprava a servis chladících zařízení (opakované řízení)	Awarded	Ministerstvo obrany	07. 10. 2026 10:00
+Detail	N006/26/V00035548	MŠMT – Obnova vozového parku pro potřeby MŠMT 2026 – nákup mikrobusu – část 1	Not terminated	Ministerstvo školství, mládeže a tělovýchovy	10. 11. 2026 10:00
+Detail	N006/26/V00035585	výpočetní technika pro návrhy a zpracování pc grafiky	Not terminated	Národní muzeum	09. 11. 2026 14:00
+Detail	N006/26/V00030814	CELOROČNÍ A ZIMNÍ ÚDRŽBA MÍSTNÍCH KOMUNIKACÍ - II	Not terminated	Město Neratovice	12. 11. 2026 10:00
+Detail	N006/26/V00035559	Stavebnice 3D tiskárny	Not terminated	Ministerstvo obrany	10. 11. 2026 10:00
+Detail	N006/26/V00035590	POPOZT_2026_35 Vozík pro přepravu pacientů (140 kg)	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	10. 11. 2026 10:00
+Detail	N006/26/V00031079	Etalony a měřící zařízení pro metrologické laboratoře AČR (2027)	Not terminated	Ministerstvo obrany	30. 11. 2026 10:00
+Detail	N006/24/V00022706	23-043.2 Terénní vozidlo S×S s přepravním přívěsem (čtyřkolka) - 14 ks	Awarded	Správa státních hmotných rezerv	15. 11. 2024 10:00
+Detail	N006/26/V00035552	MŠMT – Obnova vozového parku pro potřeby MŠMT 2026 – nákup elektrického vozidla – část 2	Not terminated	Ministerstvo školství, mládeže a tělovýchovy	10. 11. 2026 10:00
+Detail	N006/26/V00032740	Centrální nákup na mobilní hlasové a datové služby pro město Příbram 2027	Not terminated	Město Příbram	09. 11. 2026 09:00
+Detail	N006/24/V00026576	24-117 Centrální nákup zemního plynu na rok 2025	Awarded	Správa státních hmotných rezerv	
+Detail	N006/26/V00035532	496000: Nákup polohovacích podstavců pod monitor	Not terminated	Ministerstvo obrany	11. 11. 2026 09:00
+Detail	N006/26/V00027393	Pipetovací špičky pro pipety Finnpipette	Termination of performance	Ministerstvo obrany	08. 09. 2026 07:00
+Detail	N006/26/V00035534	Opravy osobních automobilů v letech 2024-2026 - 22. DP	Awarded	Ministerstvo obrany	
+Detail	N006/24/V00028299	22-134-2.3 Pořízení notebooků	Awarded	Správa státních hmotných rezerv	
+Detail	N006/26/V00033925	MT 40503/ÚP82/LÚ 4/TČ	Awarded	Správa Národního parku Šumava	
+Detail	N006/26/V00025791	Rámcová dohoda na dodávky motorové nafty	Awarded	Dopravní podnik města Hradce Králové, a.s.	14. 09. 2026 10:00
+Detail	N006/26/V00035579	POPOZT_2026_35 Vozík pro přepravu pacientů (130 kg)	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	10. 11. 2026 10:00
+Detail	N006/24/V00027377	Poskytování služeb datové sítě 2024-2026	Awarded	Česká republika - Státní zemědělská a potravinářská inspekce	
+Detail	N006/26/V00035539	Provádění TK+ME vozidel nad 3,5t v letech 2026-2028 RD - 2. DP	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035421	Servis přístrojové techniky Philips	Not terminated	Krajská nemocnice T. Bati, a. s.	30. 11. 2026 09:00
+Detail	N006/26/V00031754	Petřiny - oprava obvodových stěn	Not terminated	Bytová správa Ministerstva vnitra, s.p.o.	09. 11. 2026 09:00
+Detail	N006/26/V00031945	Služby revizního technika (SSPP)	Not terminated	Ministerstvo obrany	12. 10. 2026 23:59
+Detail	N006/26/V00000532	Prováděcí smlouva k rámcové dohodě na poskytování služeb souvisejících s pořízením dat leteckého laserového skenování ČR č. 3 - oblast 1200	Awarded	Zeměměřický úřad	
+Detail	N006/26/V00035573	Rekonstrukce budovy č.p. 340, Pozlovice - změna užívání na domov pro seniory	Not terminated	NICEMAX s.r.o.	02. 12. 2026 09:00
+Detail	N006/26/V00032648	DNS01-26-O-04: Dodávka optických a optomechanických komponentů kategorie O - Laboratorní zdroje světla	Awarded	Ústav přístrojové techniky AV ČR, v. v. i.	
+Detail	N006/26/V00028595	PD - Rekonstrukce / výstavba repliky mostu pod rybníkem Malý Vajgar, Jindřichův Hradec	Awarded	Město Jindřichův Hradec	24. 09. 2026 10:00
+Detail	N006/26/V00032919	Nábytek na míru	Not terminated	Ministerstvo obrany	19. 10. 2026 23:59
+Detail	N006/26/V00033178	Nákup úklidových a hygienických potřeb 15/26.	Termination of performance	Centrum sociálních služeb Tloskov	20. 10. 2026 23:59
+Detail	N006/26/V00033035	RD SVOBODA s.r.o. – OPTIMALIZACE PROVOZU PRO SNÍŽENÍ ENERGETICKÉ NÁROČNOSTI – PILNICE II	Not terminated	RD Svoboda s.r.o.	30. 10. 2026 12:00
+Detail	N006/26/V00034437	NS 229800: VZMR Č. 47/5 ZDRAVOTNICKÝ MATERIÁL A LÉČIVA	Cancelled	Ministerstvo obrany	30. 10. 2026 09:00
+Detail	N006/26/V00032722	Nákup dezinfekčních prostředků 5/26.	Termination of performance	Centrum sociálních služeb Tloskov	16. 10. 2026 23:59
+Detail	N006/26/V00031264	Nákup úklidových a hygienických potřeb 14/26.	Termination of performance	Centrum sociálních služeb Tloskov	06. 10. 2026 23:59
+Detail	N006/26/V00035515	RD – praní a chemické čištění prádla 2027-2028	Not terminated	Ministerstvo obrany	11. 11. 2026 08:00
+Detail	N006/26/V00032532	DNS - kancelářské potřeby 3/2026 - nákup xerografického papíru	Awarded	Krajské ředitelství policie kraje Vysočina	
+Detail	N006/26/V00011781	Nákup granulovaného krmiva pro psy bez zátěže v období 1. 7. 2026 - 30. 6. 2027	Awarded	Ministerstvo obrany	08. 05. 2026 12:00
+Detail	N006/26/V00021686	Nákup masových konzerv 300 g - 450 g pro psy na období 2026 - 2027	Awarded	Ministerstvo obrany	23. 07. 2026 08:00
+Detail	N006/26/V00013829	České Budějovice – rekonstrukce lůžkového výtahu 1600 kg v budově odboru preventivní péče	Awarded	Ministerstvo obrany	11. 06. 2026 09:00
+Detail	N006/26/V00027897	Nákup 2 ks ochranných obleků pro figuranty šitých na míru.	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00023283	ZZC Balková - zvýšení ubytovací kapacity a energetické úspory	Not terminated	Správa uprchlických zařízení Ministerstva vnitra	09. 11. 2026 09:00
+Detail	N006/26/V00031651	Nákup veterinárního krmiva a konzerv v období 3. 11. 2026 - 31. 10. 2027	Awarded	Ministerstvo obrany	09. 10. 2026 09:00
+Detail	N006/26/V00035576	Dodání počítačů pro střih videa II	Not terminated	Krajské ředitelství policie hlavního města Prahy	10. 11. 2026 09:00
+Detail	N006/26/V00033172	PRODUKČNÍ A VIZUÁLNÍ AGENTURA PRO SÚRAO	Not terminated	Správa úložišť radioaktivních odpadů	19. 11. 2026 09:00
+Detail	N006/26/V00034425	Těžba dříví s přiblížením lesní lanovkou na ÚP 32 - dle ZL č. 5/32/5/2026	Awarded	Správa Krkonošského národního parku	
+Detail	N006/26/V00032655	Pneumatiky	Awarded	Ministerstvo obrany	19. 10. 2026 08:00
+Detail	N006/26/V00002648	Architektonická studie pro expozici MUSEum+, Industriální muzeum v Ostravě	Awarded	MUSEum+, Industriální muzeum v Ostravě	23. 03. 2026 10:00
+Detail	N006/26/V00031664	Revitalizace DPS 346 na ul. Rožnovská ve Frenštátě pod Radhoštěm	Not terminated	Město Frenštát pod Radhoštěm	09. 11. 2026 09:00
+Detail	N006/26/V00030133	ŘLZ - nákup sedacího nábytku	Awarded	Ministerstvo vnitra	
+Detail	N006/26/V00033144	Výzva č. 301 k RD 23106000347	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00031125	Laboratorní prasata	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00033985	Těžba dříví s přiblížením na OM (kůň, UKT) na ÚP 32 - dle ZL č. 6/32/4/2026	Awarded	Správa Krkonošského národního parku	
+Detail	N006/26/V00028031	Ůdržba zeleně - zahradnické práce	Cancelled	Národní galerie v Praze	12. 10. 2026 10:00
+Detail	N006/26/V00031126	Laboratorní lednice a mrazák	Awarded	Ministerstvo obrany	12. 10. 2026 10:00
+Detail	N006/26/V00012637	Albertov – Ke Karlovu, schodiště, P2, č. akce 1104 II	Awarded	Technická správa komunikací hl. m. Prahy, a.s.	15. 07. 2026 10:00
+Detail	N006/26/V00035568	Nákup úklidových a hygienických potřeb 16/26.	Not terminated	Centrum sociálních služeb Tloskov	09. 11. 2026 23:59
+Detail	N006/26/V00029218	Oprava střechy MŠ a ZŠ Ohrazenice	Termination of performance	Obec Ohrazenice	
+Detail	N006/26/V00035562	Polyfunkční dům pro seniory - stavební úpravy, přístavba a změn užívání objektu	Not terminated	TOMVIK s.r.o.	02. 12. 2026 09:00
+Detail	N006/26/V00033506	RD - Servis a opravy vozidel 2026 - 2028	Not terminated	Ministerstvo obrany	30. 10. 2026 06:00
+Detail	N006/26/V00034696	Bezkontaktní karty HID iClass Seos	Not terminated	Zařízení služeb pro Ministerstvo vnitra	06. 11. 2026 08:30
+Detail	N006/26/V00033591	Nákup kuchyňského gastro vybavení	Awarded	Ministerstvo obrany	23. 10. 2026 07:00
+Detail	N006/26/V00025003	Dodávka dřevní štěpky jako paliva pro kotelny Hartmanice na srpen 2026	Termination of performance	Město Hartmanice	
+Detail	N006/26/V00035460	„WLC Park s.r.o. - úspora energií“	Not terminated	WLC Park s.r.o.	19. 11. 2026 08:30
+Detail	N006/26/V00033686	Poskytování služeb požární ochrany pro objekty Ministerstva práce a sociálních věcí	Not terminated	Ministerstvo práce a sociálních věcí	09. 11. 2026 10:00
+Detail	N006/26/V00034808	„WLC Park s.r.o. - snížení energetické náročnosti“	Not terminated	WLC Park s.r.o.	19. 11. 2026 10:30
+Detail	N006/26/V00035417	PP - Praní a čištění prádla	Not terminated	Ministerstvo obrany	10. 11. 2026 07:00
+Detail	N006/26/V00032697	DNS – VZ Ovčárna pod Pradědem - Smíšené potravinářské zboží - 13-26048	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
+Detail	N006/26/V00028090	Snížení energetické náročnosti budovy ÚZSVM na Rašínově nábřeží v Praze – Generální dodavatel	Not terminated	Úřad pro zastupování státu ve věcech majetkových	09. 11. 2026 10:00
+Detail	N006/26/V00035557	Dílenské zařízení – automatická plnička klimatizací vozidel	Not terminated	Krajské ředitelství policie Jihočeského kraje	05. 11. 2026 10:00
+Detail	N006/26/V00035075	Pronájem střelnice - 11.DP	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00033539	9. DP RD 25105002713 – Provádění TK a ME vozidel AČR pro kraj Vysočina - Květná	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00030147	Dodávka zásahové obuvi pro HZS HKK 2026 - 2028	Cancelled	Hasičský záchranný sbor Královéhradeckého kraje	
+Detail	N006/26/V00032608	Hrad Krupka – pergola	Not terminated	Město Krupka	19. 10. 2026 08:00
+Detail	N006/26/V00029390	DNS - VZ Ovčárna pod Pradědem - Cukrovinky a pochutiny - 13-26039	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
+Detail	N006/26/V00031282	upgrade odborného software pro zpracování dat - Sigmaplot	Termination of performance	Národní muzeum	
+Detail	N006/26/V00034678	261111/2026-SEV - Pohonné jednotky	Not terminated	Ministerstvo obrany	18. 11. 2026 07:00
+Detail	N006/26/V00012568	5. DP RD 25105002713 – Provádění TK a ME vozidel AČR pro kraj Vysočina	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00016297	Servis, revize a opravy nákladních automobilů, užitkových automobilů, speciálních nástaveb, kontejnerů a jeřábů	Not terminated	Střední odborná škola požární ochrany a Vyšší odborná škola požární ochrany	26. 10. 2026 10:00
+Detail	N006/26/V00032303	Dodávka nákladních pneumatik	Cancelled	Hasičský záchranný sbor Královéhradeckého kraje	22. 10. 2026 10:00
+Detail	N006/26/V00034132	17. DP RD 26105001154 – Provádění TK a ME vozidel AČR Královehradecký kraj	Awarded	Ministerstvo obrany	
+Detail	N006/25/V00002747	Smlouva na mimořádnou ostrahu budovy 21	Awarded	Zlínský kraj	
+Detail	N006/26/V00035536	ENERGETICKÉ MODERNIZACE BUDOVY OVČÁRECKÁ Č.P. 1412, KOLÍN	Not terminated	KARPATY CZ s.r.o.	20. 11. 2026 00:00
+Detail	N006/26/V00034326	Nákup tiskových zařízení	Not terminated	Inspekce silniční dopravy	11. 11. 2026 10:00
+Detail	N006/26/V00035551	Dodávka kancelářských potřeb z Rámcové dohody pro objekt SZ Mnichovo Hradiště	Awarded	Národní památkový ústav	
+Detail	N006/23/V00032066	Odtahy a uskladnění vozidel pro ÚO Bruntál a ÚO Opava	Awarded	Krajské ředitelství policie Moravskoslezského kraje	23. 11. 2023 09:30
+Detail	N006/26/V00030416	935/2026-SE Taláry pro FVT	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00028002	Rámcová dohoda na dodávky pouzder na služební průkaz bez klopy 26	Not terminated	Ministerstvo vnitra	24. 11. 2026 08:15
+Detail	N006/26/V00005758	Chodník Fučíkova-Sousedská	Termination of performance	Obec Ohrazenice	
+Detail	N006/26/V00033210	1043/2026-HR Ochranný odolný přepravní kufr plastový s pěnovou výplní	Not terminated	Ministerstvo obrany	22. 10. 2026 23:59
+Detail	N006/26/V00031044	Nákup elektřiny na období 2027 - 2028 na burze PXE	Awarded	Energetický regulační úřad	
+Detail	N006/26/V00025521	Revitalizace zeleně uličního prostoru na Podlesí III	Awarded	Statutární město Zlín	28. 08. 2026 09:00
+Detail	N006/26/V00034556	Odvoz a odstraňování nebezpečných a ostatních odpadů - 11. DP	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035491	Jazykové vzdělávání pracovníků KRNAP 2026-2029	Not terminated	Správa Krkonošského národního parku	13. 11. 2026 12:00
+Detail	N006/26/V00035547	PR26_005 Měření a regulace VS 014 a VS 027	Termination of performance	TEPO s.r.o.	
+Detail	N006/26/V00015075	Core switche	Awarded	Kroměřížská nemocnice a.s.	04. 06. 2026 10:00
+Detail	N006/26/V00035546	Dodávka kancelářských potřeb z Rámcové dohody pro objekt: SZ Kratochvíle (poř.č.5 z 10/2026)	Awarded	Národní památkový ústav	
+Detail	N006/26/V00033661	FVE na objektech města - sportovní hala a MŠ Na Zelince, Lipník nad Bečvou	Not terminated	Město Lipník nad Bečvou	09. 11. 2026 10:00
+Detail	N006/26/V00029386	DNS - VZ Ovčárna pod Pradědem - Suché potraviny - 13-26038	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
+Detail	N006/26/V00032467	Oprava páteřních rozvodů vody v 2.NP budovy B - Interna I.	Awarded	Kroměřížská nemocnice a.s.	
+Detail	N006/26/V00032464	JI – Provádění elektrických revizí pro KrP v Jihlavě	Awarded	Úřad práce České republiky	
+Detail	N006/26/V00033646	DNS – VK Vyškov (Moravská Třebová) – Pečivo čerstvé – 16-26072	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
+Detail	N006/26/V00035493	nákup stravenek v el. podobě na listopad	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00014824	Migrace dat mezi technologiemi IS	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00029602	Telefonní operátor	Not terminated	Ministerstvo školství, mládeže a tělovýchovy	30. 10. 2026 09:30
+Detail	N006/26/V00035426	Úsporná opatření ve společnosti Vodohospodářská společnost Rokycany, s.r.o. – Tepelné čerpadlo	Not terminated	Vodohospodářská společnost Rokycany, s.r.o.	16. 11. 2026 10:00
+Detail	N006/26/V00032882	Nákup břitu na sněhový pluh	Awarded	Ministerstvo obrany	20. 10. 2026 07:00
+Detail	N006/26/V00011612	Internát Hradec Králové – oprava atria - realizace	Awarded	Armádní Servisní, příspěvková organizace	22. 05. 2026 10:00
+Detail	N006/26/V00016102	Modernizace portálu občana	Awarded	Statutární město Zlín	01. 07. 2026 10:00
+Detail	N006/26/V00032835	DNS – VK Vyškov – Polotovary mražené – 16-26071	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
+Detail	N006/26/V00033019	RD SVOBODA s.r.o. II - ÚSPORA ENERGIÍ BRUSÍRNA	Not terminated	RD Svoboda s.r.o.	30. 10. 2026 10:00
+Detail	N006/26/V00030788	Nákup osvětlovacích souprav	Awarded	Ministerstvo obrany	06. 10. 2026 02:00
+Detail	N006/26/V00035114	17. DP RD 25105002168 - Odstranění odpadů u CZM 2025-2028	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035531	Support for National Awareness-Raising Campaign on Quality Infrastructure (QI) in Tbilisi and Regions of Georgia (2027)	Not terminated	Česká rozvojová agentura	18. 11. 2026 10:00
+Detail	N006/26/V00029495	DP č. 14 k RD č. 5-10851/2026-551210 - praní a chemické čištění prádla	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00024330	Systém IRC-T pro MŠ M. Knesla 4056 Zlín	Awarded	Statutární město Zlín	13. 08. 2026 10:00
+Detail	N006/26/V00032534	Nákup kovového nábytku z RD	Awarded	Zařízení služeb pro Ministerstvo vnitra	
+Detail	N006/26/V00035109	16. DP RD 25105002168 - Odstranění odpadů u CZM 2025-2028	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035402	Mikroskop pro NCH	Not terminated	Krajská nemocnice T. Bati, a. s.	30. 11. 2026 09:00
+Detail	N006/26/V00035519	Rekonstrukce a zateplení budovy na adrese Žižkova 1300/8, Cheb	Not terminated	SAYIN s.r.o.	20. 11. 2026 09:00
+Detail	N006/23/V00027339	Rekonstrukce části veřejného osvětlení města Orlová	Termination of performance	Město Orlová	30. 10. 2023 09:00
+Detail	N006/26/V00035360	DP č. 38 - RD 8-5087/2025/551210 - opravy, TÚ a pneuservis NA a Př	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035214	Rekonstrukce propustků na silnici III/46428 v km 4,591 a 4,755 Bartošovice a Hukovice	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	06. 11. 2026 08:00
+Detail	N006/26/V00032073	SZ Náchod - Západní terasy - Sanace zdi - I.	Awarded	Národní památkový ústav	
+Detail	N006/26/V00032343	DNS - Nákup xerografického papíru A3 +A4	Awarded	Zařízení služeb pro Ministerstvo vnitra	
+Detail	N006/26/V00032300	1.82 Akumulátory	Termination of performance	Ministerstvo obrany	16. 10. 2026 06:00
+Detail	N006/26/V00035054	DNS - nákup rukavic	Not terminated	Sociální služby Vsetín, příspěvková organizace	
+Detail	N006/26/V00033332	GP - pozemku p.p.č. 11/4 v k.ú. Březová u Broumova	Awarded	Úřad pro zastupování státu ve věcech majetkových	
+Detail	N006/26/V00035231	Nákup skládacích stolů a židlí	Not terminated	Ministerstvo obrany	06. 11. 2026 06:30
+Detail	N006/26/V00035233	Rekonstrukce propustků na silnici III/04735 v km 0,560 a 1,440 před obcí Vražné	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	09. 11. 2026 08:00
+Detail	N006/26/V00003818	DODÁVKY IZOLOVANÝCH VODIČŮ NN (AXS) S XLPE IZOLACÍ	Not terminated	ČEZ Distribuce, a. s.	
+Detail	N006/24/V00003148	Objekt č.p. 2 - Ústav šlechtičen - oprava fasády a střechy a oprava uličních a dvorních fasád	Awarded	Správa Pražského hradu	14. 03. 2024 09:00
+Detail	N006/26/V00032344	PS 0018 - Bezpečnostní prořez a kácení stromů - kasárna Generála Píky	Awarded	Ministerstvo obrany	16. 10. 2026 07:00
+Detail	N006/26/V00017068	Oprava části fasády Černínského paláce	Awarded	Ministerstvo zahraničních věcí	
+Detail	N006/26/V00019962	Moravská Třebová – workoutové hřiště, překážková dráha – výstavba, rekonstrukce	Awarded	Ministerstvo obrany	23. 07. 2026 09:00
+Detail	N006/25/V00025216	Rekonstrukce ulice Školní v Hostomicích	Awarded	Město Hostomice	
+Detail	N006/26/V00030927	Výstavba nájemního bydlení v obci Páleč	Not terminated	Obec Páleč	12. 11. 2026 10:00
+Detail	N006/26/V00031236	Rehabilitační aktivity pro hotel Janošík 2027 - 2029	Awarded	Zařízení služeb pro Ministerstvo vnitra	08. 10. 2026 10:00
+Detail	N006/24/V00036331	KŘP KVy - stavební připravenost MKI - realizace, okres Pelhřimov	Awarded	Krajské ředitelství policie kraje Vysočina	29. 11. 2024 10:00
+Detail	N006/25/V00010277	REVITALIZACE TYRŠOVA NÁMĚSTÍ V HOSTOMICÍCH	Awarded	Město Hostomice	16. 05. 2025 10:00
+Detail	N006/26/V00035091	Nákup popruhů upínacích dvoudílných	Not terminated	Ministerstvo obrany	05. 11. 2026 07:00
+Detail	N006/26/V00035448	OS Plzeň - sever - KSV	Awarded	Okresní soud Plzeň - sever	
+Detail	N006/26/V00035514	Strategie nouzového zásobování elektřinou v rámci projektu „Společně proti živlům“ pro Petrovice u Karviné II	Not terminated	Obec Petrovice u Karviné	18. 11. 2026 08:00
+Detail	N006/26/V00030499	Objednávka č. 4 k RD 73/2025-SEV	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00032861	Znalecké posudky: minitendr 009	Awarded	Správa Krkonošského národního parku	15. 10. 2026 10:00
+Detail	N006/23/V00021125	23-092 Vzdělávání v oblasti hospodářských opatření pro krizové stavy	Awarded	Správa státních hmotných rezerv	18. 09. 2023 09:00
+Detail	N006/26/V00033396	Nákup výpočetní techniky z RS – II.	Awarded	OLYMP CENTRUM SPORTU MINISTERSTVA VNITRA	
+Detail	N006/26/V00035080	OIT – OSI SW OS2 (RedHat)	Not terminated	Národní úřad pro kybernetickou a informační bezpečnost	30. 11. 2026 09:00
+Detail	N006/26/V00023291	„Praha, MO - K GP - budova č. 003 - komplexní rekonstrukce“; „Praha - GP - budova č. 008, budova č. 012 a budova č. 14 - rekonstrukce“ a „Praha, MO - K GP- rekonstrukce objektu č. 015 – realizace“ (PD)	Cancelled	Ministerstvo obrany	
+Detail	N006/26/V00035482	Výběr Dohodce pro zprostředkování centralizovaného nákupu elektrické energie a plynu na Českomoravské komoditní burze v Kladně	Not terminated	Středisko společných činností AV ČR, v. v. i.	11. 11. 2026 10:00
+Detail	N006/26/V00034120	KT - příprava k práci dle § 72 odst. 2 písm. c) zákona č. 435/2004 Sb., o zaměstnanosti	Awarded	Úřad práce České republiky	
+Detail	N006/26/V00033563	Servis call center České správy sociálního zabezpečení	Not terminated	Česká správa sociálního zabezpečení	03. 11. 2026 12:00
+Detail	N006/25/V00017661	Stavební úpravy haly H5 včetně rekonstrukce osvětlení	Not terminated	ŽĎAS, a.s.	
+Detail	N006/26/V00029457	DNS - VZ Ovčárna pod Pradědem - Konzervované potraviny - 13-26042	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
+Detail	N006/26/V00033695	Objednávka č. 33 RD 47/2024-SE provádění STK a ME	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035505	DP 4/26 Automatizované zpracování dat - 4 čtvrtletí	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00006118	SZ Valeč - interiér pultových skleníků a terasa před skleníky	Awarded	Národní památkový ústav	26. 03. 2026 09:00
+Detail	N006/26/V00035488	Elektromobil pro Tým podpory v zaměstnávání Vysočina	Awarded	FOKUS Vysočina, z.ú.	
+Detail	N006/26/V00034763	Výzva k poskytnutí plnění č. 3/2026 k RD MO 64245/2026-2230 Rozšíření řidičského oprávnění /Hradec Králové/	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00034021	Stavební úpravy zubních ordinací - Poliklinika Orlová	Not terminated	Město Orlová	05. 11. 2026 23:59
+Detail	N006/26/V00034921	23-041.4 Hadicový kontejner se zakladačem hadic k vysokotlaké mobilní čerpací stanici	Not terminated	Správa státních hmotných rezerv	16. 12. 2026 10:00
+Detail	N006/25/V00016888	Boty kotníčkové 2012 pro HS a VKPR	Awarded	Ministerstvo obrany	14. 08. 2025 09:00
+Detail	N006/26/V00035298	26-056 Elektrocentrála 65 kVA na plošinovém přívěsu s osvětlovací technikou	Not terminated	Správa státních hmotných rezerv	08. 12. 2026 11:00
+Detail	N006/26/V00027134	Dodání počítačů pro střih videa	Not terminated	Krajské ředitelství policie hlavního města Prahy	03. 09. 2026 09:00
+Detail	N006/26/V00034958	Objednávka č. 8 k RD 149/2026-SEV	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00035494	DP - Stravenky listopad 2026	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00020403	PS 0624 - Oprava betonových povrchů komunikací ve Stálém parku techniky, posádka Vyškov	Awarded	Ministerstvo obrany	15. 07. 2026 10:00
+Detail	N006/26/V00031086	Zajištění svozu komunálních odpadů pro město Žamberk	Not terminated	Město Žamberk	02. 11. 2026 10:00
+Detail	N006/26/V00033876	Nákup 24 ks kancelářských lampiček	Awarded	Úřad práce České republiky	27. 10. 2026 10:00
+Detail	N006/26/V00034858	Posílení biodiverzity Krkonošských lesů - asanace kůrovcové hmoty dle ZL 16/35/2/2026	Awarded	Správa Krkonošského národního parku	
+Detail	N006/26/V00029176	SZ Ratibořice - Odstranění zeleně: Zásobní zahrada, Bathildina stezka, Viktorčin splav	Awarded	Národní památkový ústav	
+Detail	N006/26/V00033472	Dodání mobilních klimatizací II	Not terminated	Krajské ředitelství policie hlavního města Prahy	23. 10. 2026 09:00
+Detail	N006/26/V00035381	Dodávka vozidel BEMU 130-150 a EMU 145 pro Zlínský kraj	Not terminated	RegioJet a.s.	03. 12. 2026 10:00
+Detail	N006/26/V00035234	DP č. 8 Provádění oprav, kontrol a seřízení manipulační techniky	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00032364	Materiálně technické vybavení OKTE - Objektiv k digitálnímu fotopřístroji	Awarded	Krajské ředitelství policie Jihočeského kraje	16. 10. 2026 11:00
+Detail	N006/26/V00031694	Strategie nouzového zásobování elektřinou v rámci projektu „Společně proti živlům“ pro Petrovice u Karviné	Cancelled	Obec Petrovice u Karviné	13. 10. 2026 08:00
+Detail	N006/26/V00034424	54. dílčí plnění - Běžné opravy a servis vozidel značky Škoda a VW, RD č. 25105002471	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035399	LFA kit na detekci ricinu	Not terminated	Ministerstvo obrany	06. 11. 2026 09:00
+Detail	N006/26/V00034244	dílčí plnění č. 121/26 - výměna stěračů pro sl. vozidla Škoda Fabia Combi VPZ 215-72-45, 215-72-52, 214-63-68, 214-63-75 a 213-70-69	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035270	DP 11/26 Revize EPS	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035212	RD - Provádění TK a ME u osobních a nákladních vozidel, traktorů a přívěsů, Ústecký kraj v letech 2027 - 2030	Not terminated	Ministerstvo obrany	13. 11. 2026 23:59
+Detail	N006/26/V00030376	Expozice Ostravského muzea – návrh a kompletní realizace expozice	Not terminated	Ostravské muzeum, příspěvková organizace	26. 10. 2026 08:00
+Detail	N006/26/V00031449	Televizor	Termination of performance	Ministerstvo obrany	08. 10. 2026 08:00
+Detail	N006/26/V00032502	Holter tlakový	Awarded	Ministerstvo obrany	19. 10. 2026 09:00
+Detail	N006/26/V00030272	Dodávka hákového nosiče kontejnerů v kategorii SS	Awarded	Technické služby obce Nošovice, p. o.	08. 10. 2026 10:00
+Detail	N006/26/V00035192	DP č. 7 Provádění oprav, kontrol a seřízení manipulační techniky	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00033744	RD: Provedení zákonné kontroly, údržby a opravy přenosných a pojízdných hasicích přístrojů v roce 2027-2028 II. kolo	Not terminated	Ministerstvo obrany	26. 10. 2026 12:00
+Detail	N006/26/V00030695	SZ Jezeří - obnova oken severního křídla	Awarded	Národní památkový ústav	
+Detail	N006/26/V00007542	Bazilika – oprava střechy kaple sv. Ludmily	Awarded	Správa Pražského hradu	07. 04. 2026 09:00
+Detail	N006/26/V00035166	DP č. 6 Provádění oprav, kontrol a seřízení manipulační techniky	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00032800	SYBR Green	Awarded	Ministerstvo obrany	19. 10. 2026 09:00
+Detail	N006/26/V00035377	SPS 0444 - Odebírání vzorků vody	Not terminated	Ministerstvo obrany	11. 11. 2026 10:00
+Detail	N006/26/V00030449	Nástěnná klimatizační jednotka s venkovní jednotkou včetně montáže	Awarded	Ministerstvo obrany	30. 09. 2026 09:00
+Detail	N006/26/V00032375	„Franver, s.r.o. - Úsporné vodní hospodářství – dodávka mycí rampy“	Awarded	Franver, s.r.o.	19. 10. 2026 10:30
+Detail	N006/26/V00024070	Dílčí zakázka č. 1 - Část 4. – Tablety a příslušenství značky Apple	Awarded	Správa Pražského hradu	
+Detail	N006/26/V00024069	Dílčí zakázka č. 1 - Část 3. – Mobilní telefony a příslušenství značky Apple	Awarded	Správa Pražského hradu	
+Detail	N006/26/V00032289	DNS - Očkovací látky - Oznámení k aktualizaci elektronického katalogu č. 34	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00032695	Stavební úpravy chodby a kanceláří v 2. NP Bartolomějská 7, Praha 1	Not terminated	Krajské ředitelství policie hlavního města Prahy	23. 10. 2026 08:30
+Detail	N006/24/V00023343	Bezhotovostní odběr pohonných hmot formou karet Z RD	Awarded	Zařízení služeb pro Ministerstvo vnitra	
+Detail	N006/26/V00032142	Senzor do přístroje EOLIFE	Awarded	Ministerstvo obrany	16. 10. 2026 09:00
+Detail	N006/24/V00022216	Zajištění praní, chemického čištění a opravy prádla pro Prahu a Středočeský kraj	Awarded	Zařízení služeb pro Ministerstvo vnitra	11. 09. 2024 10:00
+Detail	N006/25/V00010955	Přístavba a stavební úpravy objektu ZŠ Kamenné Žehrovice	Awarded	Obec Kamenné Žehrovice	28. 04. 2025 15:00
+Detail	N006/24/V00018599	Pozáruční opravy a servis gastrotechnologií, Praha II - opakovaná VZ	Termination of performance	Zařízení služeb pro Ministerstvo vnitra	26. 08. 2024 10:00
+Detail	N006/24/V00011158	Pozáruční opravy a servis chladících zařízení	Awarded	Zařízení služeb pro Ministerstvo vnitra	12. 07. 2024 10:00
+Detail	N006/24/V00006234	Opravy užitkových vozů a busů značky VOLVO 2024-2028 - II.	Awarded	Zařízení služeb pro Ministerstvo vnitra	20. 03. 2024 10:00
+Detail	N006/26/V00033820	Dodání nafukovacího člunu a lodních motorů	Not terminated	Krajské ředitelství policie hlavního města Prahy	29. 10. 2026 08:30
+Detail	N006/24/V00003881	Zajištění ostrahy areálu Svojšice	Awarded	Zařízení služeb pro Ministerstvo vnitra	08. 04. 2024 10:00
+Detail	N006/23/V00033735	Provádění pravidelných profylaxí, revizí, funkčních zkoušek, údržby a oprav bezpečnostních systémů - Letná	Awarded	Zařízení služeb pro Ministerstvo vnitra	
+Detail	N006/23/V00032671	Kamerové bezpečnostní systémy - VSS Letná	Awarded	Zařízení služeb pro Ministerstvo vnitra	
+Detail	N006/23/V00032472	Kontrola a servis věcných prostředků požární ochrany a požárně bezpečnostních zařízení na roky 2024-2026	Awarded	Zařízení služeb pro Ministerstvo vnitra	18. 12. 2023 10:00
+Detail	N006/23/V00027801	Opravy vozidel a dodávky náhradních dílů pro vozy značky TOYOTA 2023-2027	Awarded	Zařízení služeb pro Ministerstvo vnitra	30. 11. 2023 10:00
+Detail	N006/23/V00024789	Dodávky barev, laků a pomocného materiálu pro autolakovnu 2024-2028	Awarded	Zařízení služeb pro Ministerstvo vnitra	30. 11. 2023 10:00
+Detail	N006/26/V00020026	Speciální výstroj pro hasiče - Zásahový oděv a integrovaná záchranná smyčka	Not terminated	Ministerstvo obrany	22. 09. 2026 09:00
+Detail	N006/23/V00013265	Opravy vozidel a dodávky ND pro vozy zn. Land Rover 2023-2027	Awarded	Zařízení služeb pro Ministerstvo vnitra	18. 09. 2023 10:00
+Detail	N006/23/V00009741	Objednávka z RD na zajištění tiskových služeb v resortu Ministerstva vnitra ČRch dokumentů v prostředí MV ČR	Awarded	Zařízení služeb pro Ministerstvo vnitra	
+Detail	N006/23/V00003383	Dodávky ND pro vozy zn. AUDI 2023-2027	Awarded	Zařízení služeb pro Ministerstvo vnitra	30. 06. 2023 10:00
+Detail	N006/22/V00026786	Provozní podpora, údržba a rozvoj informačního systému LBIS	Awarded	Zařízení služeb pro Ministerstvo vnitra	05. 12. 2022 10:00
+Detail	N006/26/V00030522	Zajištění stravovacích služeb pro ČGS	Not terminated	Česká geologická služba	19. 11. 2026 09:30
+Detail	N006/26/V00032639	Bezpilotní prostředek - dron	Not terminated	Hasičský záchranný sbor Ústeckého kraje	22. 10. 2026 08:00
+Detail	N006/26/V00033583	Nářadí a vybavení pro elektroniku a kabeláž	Not terminated	Ministerstvo obrany	26. 10. 2026 07:00
+Detail	N006/26/V00020018	Ctětín - vodovod Kvítek	Awarded	Obec Ctětín	29. 07. 2026 10:00
+Detail	N006/26/V00032547	Rozšíření vlečky v areálu Campus Hodonín	Not terminated	alkus IMG s.r.o.	13. 11. 2026 10:00
+Detail	N006/26/V00033890	Konektory a redukce II	Cancelled	Ministerstvo obrany	27. 10. 2026 07:00
+Detail	N006/25/V00025247	Oprava místní komunikace v ulici Lípy, Čechy pod Kosířem	Awarded	Obec Čechy pod Kosířem	11. 11. 2025 08:00
+Detail	N006/26/V00020959	KŘP Kvk-IROP-VÝSTAVBA ÚO CHEB - TDS	Awarded	Krajské ředitelství policie Karlovarského kraje	22. 07. 2026 10:00
+Detail	N006/26/V00034940	FVE na městském úřadě a MŠ Čtyřlístek ve městě Žamberk - 2. výzva	Not terminated	Město Žamberk	18. 11. 2026 10:00
+Detail	N006/26/V00031173	Technická podpora pro software ERDAS	Not terminated	Ministerstvo obrany	04. 11. 2026 16:00
+Detail	N006/26/V00033756	Realizace energetických úspor v průmyslovém areálu v Doubravicích	Not terminated	ČERVENÝ CB s.r.o.	05. 11. 2026 09:00
+Detail	N006/26/V00034361	Dodání testů na orientační detekci omamných a psychotropních látek ze slin a potu	Not terminated	Krajské ředitelství policie hlavního města Prahy	04. 11. 2026 12:00
+Detail	N006/26/V00034622	ŘLZ - Nákup chemických ochranných prostředků	Not terminated	Ministerstvo vnitra	10. 11. 2026 00:00
+Detail	N006/26/V00035071	„PERM Technologies s.r.o. - úspora energií“	Not terminated	PERM Technologies s.r.o.	18. 11. 2026 10:30
+Detail	N006/26/V00034312	DG – Dodávky diagnostik pro komplexní diagnostiku autoimunitních a hematologických onemocnění II.	Not terminated	Institut klinické a experimentální medicíny	30. 11. 2026 11:00
+Detail	N006/26/V00035490	PD, dozor projektanta, koordinátor BOZP po dobu přípravy stavby a inženýrská činnost pro stavbu: „Silnice III/4845 v obci Staříč 2. etapa”	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	13. 11. 2026 12:00
+Detail	N006/26/V00035441	Poskytování certifikačních služeb kvalifikovaných poskytovatelů služeb vytvářejících důvěru pro Digitální a informační agenturu	Not terminated	Digitální a informační agentura	09. 11. 2026 10:00
+Detail	N006/26/V00019145	Zajištění realizace jazykových kurzů anglického jazyka pro zaměstnance ČIŽP v letech 2027-2030	Not terminated	Česká inspekce životního prostředí	30. 11. 2026 15:00
+Detail	N006/26/V00035072	„PERM Technologies s.r.o. - snížení energetické náročnosti“	Not terminated	PERM Technologies s.r.o.	18. 11. 2026 08:30
+Detail	N006/26/V00034316	Výzva k poskytnutí plnění č. 2/2026 k RD MO 793451/2026-2230 Specialista/specialistka AI	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00035487	Květná zahrada, obnova vybraných částí ohradních zdí, úsek 1 a 2	Awarded	Národní památkový ústav	
+Detail	N006/26/V00023102	Rozvoj areálu Zbraslav (RAZ) - hlavní etapa - II. fáze	Not terminated	Ministerstvo vnitra	
+Detail	N006/26/V00033446	Snížení energetické náročnosti kuchyně v MŠ Bohdalice-Pavlovice - dodávka technologie kuchyně	Cancelled	Obec Bohdalice - Pavlovice	02. 11. 2026 10:00
+Detail	N006/26/V00005277	Energetické úspory společnosti Innovative Sensor Technology, s.r.o. - zakázka na dodávku FVE	Not terminated	Innovative Sensor Technology, s.r.o.	08. 10. 2026 09:00
+Detail	N006/26/V00035077	Svoz a odstranění biologicky rozložitelného odpadu v měsíci listopad 2026.	Termination of performance	Ministerstvo obrany	
+Detail	N006/26/V00033181	Revitalizace bytového domu Zálešná I 4057 zvaného Drofa ve Zlíně - etapa č. 1	Not terminated	Statutární město Zlín	18. 11. 2026 10:00
+Detail	N006/26/V00032604	VZ – UZ Bublava – oprava opěrné zdi a schodiště	Cancelled	Krajské ředitelství policie Karlovarského kraje	16. 10. 2026 10:00
+Detail	N006/26/V00021948	Projektory pro stálou expozici v Historické budově Národního muzea	Awarded	Národní muzeum	22. 07. 2026 11:00
+Detail	N006/26/V00018930	Digitální tisk publikací Národního muzea do výše nákladu 400 ks	Termination of performance	Národní muzeum	24. 06. 2026 10:00
+Detail	N006/21/V00009037	Odpady - Část 11 - Svozy odpadů na území hlavního města Prahy - Finanční úřad pro hl. m. Prahu, Opatovská 964/18, Praha - Jižní Město	Awarded	Generální finanční ředitelství	08. 06. 2021 10:00
+Detail	N006/26/V00033883	Těžba dříví s přiblížením na OM (Kůň, UKT) na UP 34 dle ZL 07/34/2/2026	Awarded	Správa Krkonošského národního parku	
+Detail	N006/26/V00027984	Servisní podpora informačního systému ALeX pro ÚVN	Cancelled	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	22. 10. 2026 10:00
+Detail	N006/26/V00014788	Restaurování tisků, periodik a plakátů	Termination of performance	Národní muzeum	
+Detail	N006/26/V00035473	Technická podpora IS Víno	Awarded	Česká republika - Státní zemědělská a potravinářská inspekce	
+Detail	N006/26/V00032507	JN (NEN) - Pořízení 46 ks televizních přijímačů 4K Ultra HD včetně příslušenství	Not terminated	Ministerstvo obrany	21. 10. 2026 10:00
+Detail	N006/26/V00028361	transparentní OLED displej	Awarded	Národní muzeum	17. 09. 2026 23:59
+Detail	N006/26/V00014473	Architektonické a grafické řešení pro edukační linku k expozici v HBNM	Termination of performance	Národní muzeum	
+Detail	N006/26/V00035480	Kancelářské potřeby UPM	Awarded	Uměleckoprůmyslové museum v Praze	
+Detail	N006/26/V00012300	Těžba dříví s přiblížením na OM (Kůň, UKT) na UP 34 dle ZL 07/34/3/2026	Awarded	Správa Krkonošského národního parku	
+Detail	N006/26/V00024995	Multifunkční pavilon s možností izolačního režimu	Not terminated	Moravskoslezský kraj	01. 12. 2026 10:00
+Detail	N006/26/V00033657	Pořízení skenovacích zařízení	Not terminated	Generální finanční ředitelství	02. 11. 2026 10:00
+Detail	N006/26/V00035030	Výzva k poskytnutí plnění č. 1/2026 k RD čj. MO 243379/2026-2230 Obsluha motovozíku (vysokozdvižný volantový do 5 tun)	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00034098	Monitoring médií a analýza mediálního obsahu pro Digitální a informační agenturu na roky 2027-2029	Not terminated	Digitální a informační agentura	11. 11. 2026 10:00
+Detail	N006/26/V00031940	SPS 0226 – Oprava rozvodu tlakového vzduchu	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00024276	ÚP ČR – KrP v Ústí nad Labem – pořízení bezpečnostních přepážek na pracoviště ÚP ČR – Kontaktní pracoviště Teplice	Awarded	Úřad práce České republiky	18. 09. 2026 08:00
+Detail	N006/26/V00031218	SPS 0530 – Porevizní opravy elektro	Awarded	Ministerstvo obrany	08. 10. 2026 10:00
+Detail	N006/26/V00035439	Rekonstrukce LC Ke Končité	Awarded	Obec Študlov	
+Detail	N006/26/V00033419	Realizace fotovoltaických elektráren metodou Design & Build na sedmi objektech AOPK ČR	Not terminated	Agentura ochrany přírody a krajiny České republiky	23. 11. 2026 09:00
+Detail	N006/26/V00034630	Revitalizace místních komunikací a veřejných prostor Zálezly	Not terminated	Obec Velemyšleves	18. 11. 2026 10:00
+Detail	N006/26/V00033603	Nákup drogistických potřeb 09/2026	Cancelled	Endokrinologický ústav	
+Detail	N006/26/V00032226	ZP - Dodávky hemoadsorpčních a plazmatických adsorbérů	Not terminated	Institut klinické a experimentální medicíny	01. 12. 2026 14:00
+Detail	N006/26/V00034105	tisk- leták s mapou	Awarded	Památník Terezín	
+Detail	N006/26/V00035386	Nákup propagačních předmětů 2026	Not terminated	Inspekce silniční dopravy	09. 11. 2026 13:00
+Detail	N006/26/V00034143	Správa Systému VO Neratovice - II.	Not terminated	Město Neratovice	01. 12. 2026 10:00
+Detail	N006/26/V00035466	VEŘEJNÉ OSVĚTLENÍ ZÁMRSK ( Park, Sad, Nábřeží u prodejny)	Awarded	Obec Zámrsk	
+Detail	N006/26/V00033759	Ošetření dřevní hmoty a keřů na zámku Vrchotovy Janovice	Awarded	Národní muzeum	
+Detail	N006/26/V00032008	SPS 0226 – Výměna svislého dopravního značení	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00034146	Pořízení ochranných pomůcek k mobilním telefonům	Not terminated	Ministerstvo obrany	02. 11. 2026 07:30
+Detail	N006/26/V00035096	Periodické zkoušky a opravy hasicích přístrojů	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00031611	Nákup baterií a redukčního ventilu	Awarded	Ministerstvo obrany	12. 10. 2026 10:00
+Detail	N006/26/V00030957	Rozvodna 110/22 kV pro záměr Strategický podnikatelský park Cheb	Not terminated	Státní investiční a rozvojová společnost, a.s.	27. 11. 2026 13:00
+Detail	N006/26/V00031225	SPS 0529 – Nákup správkový materiál	Awarded	Ministerstvo obrany	08. 10. 2026 10:00
+Detail	N006/26/V00028674	Dodávka hlubokomrazicích boxů -80°C, včetně záložního systému pro BBM RÚ	Awarded	Revmatologický ústav	21. 09. 2026 10:00
+Detail	N006/26/V00017677	Čáslav – OTL č. 448 PVO - rekonstrukce	Cancelled	Ministerstvo obrany	26. 10. 2026 09:00
+Detail	N006/24/V00006195	Třebín čp.50, občanská vybavenost - DESIGN and BUILD	Termination of performance	Obec Dubné	29. 04. 2024 08:00
+Detail	N006/26/V00031939	Nákup ND - kabely a instalační materiál IV. - sada konektorů	Awarded	Ministerstvo obrany	14. 10. 2026 10:00
+Detail	N006/26/V00032477	26-023 Výstavba přípojek a pořízení náhradních zdrojů elektrické energie IV. etapa – PD	Not terminated	Správa státních hmotných rezerv	06. 11. 2026 08:00
+Detail	N006/26/V00033076	Zajištění přepínačů do serverovny v objektu Strakova akademie	Not terminated	Úřad vlády České republiky	05. 11. 2026 10:00
+Detail	N006/26/V00029057	SPS 0217 - Nákup drceného kameniva pro přípravu odstavné plochy	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00029753	Vypracování projektové dokumentace ke stavební akci Oprava vnějšího pláště budovy	Awarded	Ústav pro českou literaturu AV ČR, v. v. i.	
+Detail	N006/26/V00019797	Oprava komunikací v obci Veřovice 2026	Termination of performance	Obec Veřovice	
+Detail	N006/25/V00010284	Obnova přivaděče na ČOV Dubné – Křenovice – I. etapa	Termination of performance	Obec Dubné	
+Detail	N006/25/V00022702	Veřejné osvětlení k.ú. Jaronice – rekonstrukce	Termination of performance	Obec Dubné	
+Detail	N006/26/V00034529	Radlická, rozšíření komunikace, P5, č. akce 1000023 – Podmíněné obnosy – Variace V001	Not terminated	Technická správa komunikací hl. m. Prahy, a.s.	
+Detail	N006/26/V00033746	VZ26988/2026-MA Vývojová a testovací platforma s infravizní kamerou	Cancelled	Ministerstvo obrany	
+Detail	N006/26/V00035461	IT vybavení pro zaměstnance	Not terminated	Národní muzeum	08. 11. 2026 23:59
+Detail	N006/26/V00017493	SPS 0530 – Oprava areálové kanalizace	Termination of performance	Ministerstvo obrany	26. 06. 2026 10:00
+Detail	N006/26/V00035144	DP č. 5 Provádění oprav, kontrol a seřízení manipulační techniky	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00024650	SPS 0503 - Oprava maleb, podlah, sociálního zařízení	Termination of performance	Ministerstvo obrany	13. 08. 2026 10:00
+Detail	N006/25/V00041809	Rozšíření sportovního areálu obce Dubné – futsalové a workoutové hřiště	Termination of performance	Obec Dubné	
+Detail	N006/26/V00033991	Připojení obce Cebiv na CamelNET	Awarded	Obec Cebiv	
+Detail	N006/26/V00034946	Výzva k poskytnutí plnění č. 6/2026 k RD MO 534883/2025-2230 Rekvalifikační kurz - Obsluha/Programátor CNC obráběcích strojů (Opava)	Awarded	Ministerstvo obrany	
+Detail	N006/26/V00026780	DNS 9 (2026/20) Dodávky potravinové pomoci	Awarded	Ministerstvo práce a sociálních věcí	
+Detail	N006/26/V00035464	Revitalizace návsi a jeho blízkého okolí - projektová dokumentace	Awarded	Městys Březová	
+Detail	N006/26/V00035459	Květná zahrada, vybudování přípojky NN k Domku ptáčníka	Awarded	Národní památkový ústav	
+Detail	N006/26/V00030535	Společná stezka pro chodce a cyklisty mezi ulicemi Trnovská a Poděbradská	Awarded	Městský obvod Pardubice VII	02. 10. 2026 12:00
+Detail	N006/26/V00029939	DNS 9 (2026/21) Dodávky potravinové pomoci	Awarded	Ministerstvo práce a sociálních věcí	
+Detail	N006/21/V00033438	21-085 Rýže loupaná – pořízení a ochraňování (část A)	Termination of performance	Správa státních hmotných rezerv	17. 01. 2022 09:00
 Detail	N006/26/V00035458	OS Sokolov - kontrola systémů vytápění - Evidence výsledků z RD KS Plzeň ev.č. 875/2026	Awarded	Okresní soud v Sokolově	
 Detail	N006/26/V00033551	VZMR č. 11/26 - SÚIP – Pořízení systému Service Desk	Not terminated	Státní úřad inspekce práce	09. 11. 2026 08:00
 Detail	N006/26/V00031412	Dodávka mobilní elektrocentrály	Awarded	Krajské ředitelství policie Královéhradeckého kraje	12. 10. 2026 09:00
@@ -49,9 +372,7 @@ Detail	N006/24/V00022198	Oprava MK v osadě Třebín na parc. č. 281/2, 290/1 a
 Detail	N006/25/V00016689	202508 - Silnice II/294 Rokytnice nad Jizerou včetně humanizace II	Awarded	Město Rokytnice nad Jizerou	
 Detail	N006/26/V00013379	Ventilátor plicní transportní pro použití v magnetické rezonanci	Awarded	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	22. 05. 2026 09:30
 Detail	N006/26/V00018998	Dodávky implantabilních kardioverterů - defibrilátorů včetně příslušenství pro KNL, a.s.	Awarded	Krajská nemocnice Liberec, a.s.	21. 07. 2026 10:00
-Detail	N006/26/V00035464	Revitalizace návsi a jeho blízkého okolí - projektová dokumentace	Not terminated	Městys Březová	
 Detail	N006/26/V00023917	Zkoušky pro certifikaci II	Cancelled	MSV Metal Studénka, a.s.	14. 09. 2026 08:00
-Detail	N006/25/V00010284	Obnova přivaděče na ČOV Dubné – Křenovice – I. etapa	Awarded	Obec Dubné	
 Detail	N006/26/V00035400	Opravy a revize hasicích přístrojů	Not terminated	Ministerstvo obrany	09. 11. 2026 07:00
 Detail	N006/26/V00026799	Antivirotika pro systémové použití – CMV – Letermovir, Maribavir II.	Awarded	Institut klinické a experimentální medicíny	23. 09. 2026 13:00
 Detail	N006/26/V00034392	Brno, Tučkova 23, sekce A – oprava učeben, 3. patro	Not terminated	Armádní Servisní, příspěvková organizace	13. 11. 2026 10:00
@@ -59,7 +380,6 @@ Detail	N006/25/V00034461	Modernizace gastroprovozu při Nemocnici Blansko	Termin
 Detail	N006/26/V00035450	Městys Březová - Oprava m. k. 2023 - 1. etapa	Termination of performance	Městys Březová	
 Detail	N006/26/V00033516	Statistická ročenka ČR 2026	Awarded	Český statistický úřad	26. 10. 2026 12:00
 Detail	N006/26/V00026001	RD - pronájem a servis mob. soc. zařízení - výzva č. 48	Termination of performance	Ministerstvo obrany	
-Detail	N006/25/V00022702	Veřejné osvětlení k.ú. Jaronice – rekonstrukce	Awarded	Obec Dubné	
 Detail	N006/26/V00035457	Nákup kamer pro odborný útvar	Not terminated	Generální ředitelství cel	09. 11. 2026 09:00
 Detail	N006/26/V00033139	ŘLZ - nákup kancelářského nábytku	Awarded	Ministerstvo vnitra	
 Detail	N006/26/V00026935	RD - pronájem a servis mob. soc. zařízení - výzva č. 50	Termination of performance	Ministerstvo obrany	
@@ -113,7 +433,6 @@ Detail	N006/24/V00032262	Cyklostezka Přerov - Dluhonice	Awarded	Statutární m�
 Detail	N006/26/V00033330	54.DP 2026 Morava opravy a údržba služebních vozidel Š a VW	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00024900	CSS Tloskov – nákup mikrobusu pro přepravu klientů	Cancelled	Centrum sociálních služeb Tloskov	20. 08. 2026 08:00
 Detail	N006/26/V00023876	Kardiaka 14 - Landiolol	Awarded	Institut klinické a experimentální medicíny	15. 09. 2026 14:00
-Detail	N006/26/V00031086	Zajištění svozu komunálních odpadů pro město Žamberk	Not terminated	Město Žamberk	02. 11. 2026 10:00
 Detail	N006/26/V00030524	Vybavení kuchyně OD Doubravice	Awarded	Městský obvod Pardubice VII	02. 10. 2026 12:00
 Detail	N006/26/V00018312	DNS - Kategorie č. 2 - Tvarovatelné dlahy - Výzva č. 5	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00026310	Rekonstrukce – LC Panáčková	Awarded	MP Holding, a.s.	17. 09. 2026 08:30
@@ -220,325 +539,6 @@ Detail	N006/26/V00027696	D 157 - Nákup léčiv	Termination of performance	Minis
 Detail	N006/26/V00035369	PS 0110 - Posádka Jince – Porevizní opravy elektro a hromosvodů a trafostanic	Not terminated	Ministerstvo obrany	05. 11. 2026 07:00
 Detail	N006/19/V00028664	Opravy osobních a užitkových vozidel a dodávky náhradních dílů pro vozy značky CITROËN	Awarded	Zařízení služeb pro Ministerstvo vnitra	05. 11. 2019 10:00
 Detail	N006/26/V00033582	Výstavní panely VFO 2026	Awarded	Středisko společných činností AV ČR, v. v. i.	
-Detail	N006/26/V00026427	Dodávka příslušenství k nosiči panelů balistických	Awarded	Krajské ředitelství policie hlavního města Prahy	06. 10. 2026 10:00
-Detail	N006/25/V00009553	Bytový komunitní dům Horní Rokytnice	Awarded	Město Rokytnice nad Jizerou	21. 05. 2025 11:00
-Detail	N006/19/V00027273	Opravy osobních vozidel a dodávky náhradních dílů pro vozy značky OPEL	Awarded	Zařízení služeb pro Ministerstvo vnitra	15. 10. 2019 10:00
-Detail	N006/26/V00033306	Výroba samolepek	Awarded	Středisko společných činností AV ČR, v. v. i.	
-Detail	N006/19/V00024649	Opravy osobních vozidel a dodávky náhradních dílů pro vozy značky FIAT (II.)	Awarded	Zařízení služeb pro Ministerstvo vnitra	19. 09. 2019 10:00
-Detail	N006/26/V00030840	Zajištění expertních a provozních služeb síťové infrastruktury	Not terminated	Česká správa sociálního zabezpečení	07. 12. 2026 12:00
-Detail	N006/22/V00003391	Karibuni II - zpracování projektové dokumentace	Termination of performance	ZOO a zámek Zlín - Lešná, příspěvková organizace	17. 03. 2022 10:00
-Detail	N006/18/V00023452	Provádění technických kontrol a měření emisí	Awarded	Zařízení služeb pro Ministerstvo vnitra	31. 10. 2018 10:00
-Detail	N006/26/V00033220	Polepy Bistro Národní	Awarded	Středisko společných činností AV ČR, v. v. i.	
-Detail	N006/26/V00032498	nákup tiskáren 3D	Not terminated	Ministerstvo obrany	20. 10. 2026 09:00
-Detail	N006/26/V00026576	Podpora aktivních prvků Extreme včetně Wi-Fi	Awarded	Úřad pro civilní letectví	18. 09. 2026 09:00
-Detail	N006/26/V00032071	Heřmanice - kanalizace a využití dešťových vod - Zhotovitel PD+AD II.	Not terminated	Vězeňská služba České republiky	21. 10. 2026 10:00
-Detail	N006/26/V00034663	Standardní a servisní podpora software EMC NetWorker pro zálohování dat na MF 2027+	Not terminated	Ministerstvo financí	27. 11. 2026 10:00
-Detail	N006/26/V00033180	Zimní oblečení pro instruktory výcviku.	Not terminated	Ministerstvo obrany	23. 10. 2026 09:00
-Detail	N006/25/V00039612	Revize, servis a údržba dieselagregátů v areálech KŘP Msk na období 2026-2029	Awarded	Krajské ředitelství policie Moravskoslezského kraje	02. 12. 2025 08:00
-Detail	N006/18/V00015417	Zabezpečení servisní podpory a upgrade aplikačního SW Automat a SW Gastromanažer	Awarded	Zařízení služeb pro Ministerstvo vnitra	18. 10. 2018 10:00
-Detail	N006/26/V00030439	Nákup měřící a diagnost. zařízení (brýle s lupou)	Not terminated	Ministerstvo obrany	01. 10. 2026 10:00
-Detail	N006/26/V00035138	600/2026-BR, objednávka č.3	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00030473	LIBEŇSKÝ MOST, č. akce 999984/7 – LIBE II – SO205	Not terminated	Technická správa komunikací hl. m. Prahy, a.s.	19. 11. 2026 10:00
-Detail	N006/18/V00006804	Zajištění garantovaných datových služeb pro areál Veleslavín, Praha 6	Awarded	Zařízení služeb pro Ministerstvo vnitra	02. 07. 2018 10:00
-Detail	N006/26/V00033605	DP servis 5 ks FORD Custom, 425/2026-7214	Awarded	Ministerstvo obrany	
-Detail	N006/18/V00002393	Preventivní údržba, prohlídky, zkoušky a opravy výtahů	Awarded	Zařízení služeb pro Ministerstvo vnitra	02. 01. 2019 10:00
-Detail	N006/26/V00031906	Nákup optického kabelu - ND	Not terminated	Ministerstvo obrany	22. 10. 2026 10:00
-Detail	N006/18/V00001151	Zajištění garantovaných datových služeb pro budovy Přípotoční, Praha 10 a Centrotex, Praha 4	Awarded	Zařízení služeb pro Ministerstvo vnitra	17. 05. 2018 10:00
-Detail	N006/26/V00031479	NÁKUP PŘÍSTROJE PRO NDT KONTROLU VÍŘIVÝMI PROUDY	Not terminated	LOM PRAHA s.p.	14. 10. 2026 10:00
-Detail	N006/26/V00012346	Servis a opravy klimatizačních jednotek a vzduchotechniky v areálech KŘP Msk	Awarded	Krajské ředitelství policie Moravskoslezského kraje	13. 05. 2026 08:00
-Detail	N006/26/V00033218	Konferenční nabídka – brožura	Awarded	Středisko společných činností AV ČR, v. v. i.	
-Detail	N006/25/V00036875	Pořízení požárního přívěsu pro hašení pro JSDHO Soběnov	Termination of performance	Obec Soběnov	
-Detail	N006/26/V00033898	Nákup sportovního materiálu pro outdoorové aktivity, 62024/26	Not terminated	Ministerstvo obrany	04. 11. 2026 09:00
-Detail	N006/26/V00031880	Nákup skladovacího kontejneru s požární odolností	Awarded	Krajské ředitelství policie kraje Vysočina	15. 10. 2026 10:00
-Detail	N006/26/V00035169	Nákup spotřebního materiálu pro stanovení tuku přístroji od fy Gerhardt	Not terminated	Ministerstvo obrany	09. 11. 2026 09:00
-Detail	N006/26/V00013247	ZP - Dodávky břišních roušek	Awarded	Institut klinické a experimentální medicíny	18. 06. 2026 14:00
-Detail	N006/26/V00032066	131 JN - Nákup 1 ks pračky se sušičkou a 1ks sušičky prádla pro ASO Dukla cyklistiky	Awarded	Ministerstvo obrany	15. 10. 2026 09:00
-Detail	N006/26/V00035370	OS Vsetín - servery pro virtualizaci 2ks	Not terminated	Okresní soud ve Vsetíně	11. 11. 2026 08:00
-Detail	N006/26/V00032695	Stavební úpravy chodby a kanceláří v 2. NP Bartolomějská 7, Praha 1	Not terminated	Krajské ředitelství policie hlavního města Prahy	23. 10. 2026 08:30
-Detail	N006/24/V00017397	Revitalizace kostela na Cvilíně	Awarded	Provincie Řádu minoritů v ČR	27. 06. 2024 08:00
-Detail	N006/26/V00004467	Stavební úpravy konstrukce střechy tělocvičny – Hotelová škola, Frenštát pod Radhoštěm	Awarded	Moravskoslezský kraj	12. 03. 2026 10:00
-Detail	N006/26/V00026627	Most přes potok Šumice k amfiteátru v Náměšti na Hané	Awarded	Městys Náměšť na Hané	09. 09. 2026 14:00
-Detail	N006/26/V00032879	Aktualizace PD a AD sanace objektu INSID Jihlava“	Cancelled	Inspekce silniční dopravy	23. 10. 2026 10:00
-Detail	N006/26/V00034591	55.DP 2026 Morava opravy a údržba služebních vozidel Š a VW	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00030663	Výměna FAN-COILŮ v technickém objektu budovy GŘC	Not terminated	Generální ředitelství cel	26. 10. 2026 08:00
-Detail	N006/26/V00035156	RD - praní a čištění prádla - výzva k plnění č. 42	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00027492	Dodávka 3 ks ultrazvukových přístrojů pro odborné ambulance	Awarded	Uherskohradišťská nemocnice a.s.	01. 10. 2026 10:00
-Detail	N006/26/V00034017	PS 0006 – Provedení revizí samozhášecího systému EPS v budově č. 002 VÚA na roky 2027 a 2028	Cancelled	Ministerstvo obrany	29. 10. 2026 07:00
-Detail	N006/26/V00034846	DP RD 24105002491 nákup argonu pro Prahu	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00031546	Nákup náhradních dílů pro stany vz. 87	Awarded	Ministerstvo obrany	14. 10. 2026 07:00
-Detail	N006/26/V00033658	Zpracování PD ve stupni DPZ a DPS na stavbu: Most přes potok Slavíč ev. č. 4774-17 v obci Morávka	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	30. 10. 2026 10:00
-Detail	N006/26/V00035153	RD - praní a čištění prádla - výzva k plnění č. 41	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00020333	Nákup mobilních telefonů	Cancelled	Centrum pro regionální rozvoj České republiky	09. 11. 2026 09:00
-Detail	N006/26/V00034190	PS 0110 - Posádka Jince – Porevizní opravy elektro a hromosvodů a trafostanic	Cancelled	Ministerstvo obrany	29. 10. 2026 07:00
-Detail	N006/26/V00024945	Využití dešťové vody ve společnosti Foxconn Technology – opakované zadání	Not terminated	Foxconn Technology CZ s.r.o.	29. 09. 2026 10:00
-Detail	N006/26/V00029900	Dobruška – rekonstrukce objektů – PD	Not terminated	Ministerstvo obrany	
-Detail	N006/25/V00026637	Vinařice - nákup instalatérského a topenářského materiálu - RKS	Termination of performance	Vězeňská služba České republiky	21. 08. 2025 12:00
-Detail	N006/26/V00028978	Dodávka systému VR pro taktický výcvik policistů	Not terminated	Krajské ředitelství policie Pardubického kraje	04. 12. 2026 08:00
-Detail	N006/26/V00034385	Uherskohradišťská nemocnice a.s. – přístavba onkologie	Not terminated	Uherskohradišťská nemocnice a.s.	25. 11. 2026 10:00
-Detail	N006/26/V00026029	EOR - vyvedení výkonu na hladině 400kV	Not terminated	ČEZ, a. s.	
-Detail	N006/25/V00041843	Komunikace v lokalitě Zahrádky II. etapa, Otaslavice	Awarded	Obec Otaslavice	19. 03. 2026 10:00
-Detail	N006/26/V00029754	Dodávka ICT vybavení - Svitavy 2	Not terminated	Krajské ředitelství policie Pardubického kraje	09. 10. 2026 08:00
-Detail	N006/26/V00034799	RD 20205-27 na provedení opravy a servis stanů a příslušenství - 10.dp	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00015843	Chránění kabelů NN Otaslavice - zahrady	Awarded	Obec Otaslavice	
-Detail	N006/26/V00029852	Vinařice - nákup instalatérského a topenářského matariálu - RKS	Awarded	Vězeňská služba České republiky	02. 10. 2026 14:30
-Detail	N006/26/V00024924	Maintenance licencí MS Dynamics NAV 2026	Awarded	Česká průmyslová zdravotní pojišťovna	09. 09. 2026 10:00
-Detail	N006/26/V00034758	Nákup záložních zdrojů	Not terminated	Krajské ředitelství policie Karlovarského kraje	05. 11. 2026 10:00
-Detail	N006/26/V00033487	Nákup stravovacích poukázek 2027 - 2028 pro 31. prchbo	Not terminated	Ministerstvo obrany	03. 11. 2026 06:00
-Detail	N006/26/V00033219	Abemaciklib	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	30. 11. 2026 10:00
-Detail	N006/26/V00032319	Nákup montážního nářadí	Awarded	Ministerstvo obrany	15. 10. 2026 06:00
-Detail	N006/26/V00035131	Prodloužení podpory komunikační platformy Webex a obnova nepodporovaných komponent	Not terminated	Český úřad zeměměřický a katastrální	27. 11. 2026 10:00
-Detail	N006/26/V00034442	17.DP.- provedení STK a měření emisí	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00033192	Součástky pracovního stejnokroje PS I - letní - dovystrojení	Awarded	Hasičský záchranný sbor Středočeského kraje	
-Detail	N006/26/V00035045	ZD828/2026-SEG - SW vybavení simulační laboratoře OP JAK PhD	Not terminated	Ministerstvo obrany	12. 11. 2026 23:59
-Detail	N006/26/V00032936	Nákup letních ponožek	Awarded	Hasičský záchranný sbor Olomouckého kraje	
-Detail	N006/26/V00032126	Dodávky hygienických potřeb pro Územní pracoviště Ostrava	Not terminated	Úřad pro zastupování státu ve věcech majetkových	16. 10. 2026 10:00
-Detail	N006/25/V00042612	Kanalizace Ondrášov a Sedm Dvorů	Awarded	Město Moravský Beroun	
-Detail	N006/26/V00032569	Dolní Rožínka - rekonstrukce havarijního stavu sdruženého objektu č. 2 na ČOV	Not terminated	Svaz vodovodů a kanalizací Žďársko	29. 10. 2026 07:00
-Detail	N006/26/V00031881	Bleskové průzkumy veřejného mínění k tematice obrany, bezpečnosti a činnosti resortu MO v letech 2027 – 2029	Not terminated	Ministerstvo obrany	20. 10. 2026 10:00
-Detail	N006/26/V00015751	Oprava vzduchotechnické a chladící jednotky IVC Ostrava-Zábřeh	Termination of performance	Hasičský záchranný sbor Moravskoslezského kraje	
-Detail	N006/26/V00014176	Stavební opravy IVC Ostrava-Zábřeh	Termination of performance	Hasičský záchranný sbor Moravskoslezského kraje	
-Detail	N006/26/V00019595	Detailní prověření smluvních vztahů včetně forenzního šetření	Not terminated	Ministerstvo pro místní rozvoj	29. 11. 2026 10:00
-Detail	N006/26/V00033467	DNS - ICT technika II.	Cancelled	Krajské ředitelství policie Plzeňského kraje	
-Detail	N006/26/V00029331	G 163 Nákup laminátorů	Termination of performance	Ministerstvo obrany	23. 09. 2026 23:59
-Detail	N006/26/V00035122	DP 12/26 Revize EPS	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00034971	H-Havarijní oprava střech na b.č.2 Kasárna Šumavská a b.č.4 Koleje Dobrovského, Brno	Not terminated	Ministerstvo obrany	11. 11. 2026 08:00
-Detail	N006/26/V00024306	KS - Reagencie a kity pro klonování a transfekci - část I. a II.	Termination of performance	Ministerstvo obrany	17. 08. 2026 07:00
-Detail	N006/26/V00026929	D 154 - Nákup léčiv	Termination of performance	Ministerstvo obrany	02. 09. 2026 23:59
-Detail	N006/26/V00035102	nákup PHM na Ccs karty na listopad	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035352	Výměna oplocení u ZŠ Březová	Termination of performance	Městys Březová	
-Detail	N006/26/V00035351	Nákup nákladního automobilu pro městys Březovou	Termination of performance	Městys Březová	
-Detail	N006/26/V00035350	"Oprava povrchů - část místní komunikace Jančí A a B a část místní komunikace Gručovice C"	Termination of performance	Městys Březová	
-Detail	N006/25/V00002350	„Liblín – vodovod a kanalizace“	Awarded	Městys Liblín	25. 02. 2025 09:00
-Detail	N006/26/V00035349	Komunikace lokalita Šipka Lesní Albrechtice - 1.etapa	Awarded	Městys Březová	
-Detail	N006/26/V00035348	Komunikace Leskovec podél potoka - I. etapa	Awarded	Městys Březová	
-Detail	N006/26/V00035347	Oprava chodníků v Jančí před rekonstrukcí komunikace III/46214 Jančí	Awarded	Městys Březová	
-Detail	N006/26/V00035346	"Březová - nové zdroje vody pro skupinový obecní vodovod"	Awarded	Městys Březová	
-Detail	N006/26/V00035345	Oprava výtluků na části komunikace v Březové	Termination of performance	Městys Březová	
-Detail	N006/26/V00035340	Oprava střechy kaple v obci Bezkov	Termination of performance	Obec Bezkov	
-Detail	N006/26/V00035343	Havárie vodovodu Lesní Albrechtice	Awarded	Městys Březová	
-Detail	N006/25/V00013155	Valašské Meziříčí – rekonstrukce vodojemu Helštýn 2x1500 m3	Awarded	Vodovody a kanalizace Vsetín, a.s.	
-Detail	N006/26/V00033783	Peristaltické čerpadlo - 4 ks	Cancelled	Výzkumný ústav vodohospodářský T. G. Masaryka veřejná výzkumná instituce	03. 11. 2026 10:00
-Detail	N006/26/V00024557	ZALOŽENÍ VÝVOJOVÉHO CENTRA SPOLEČNOSTI METALSAFE s.r.o. - DODÁVKA SPECIÁLNÍHO TECHNOLOGICKÉHO VYBAVENÍ II.	Cancelled	Metalsafe s.r.o.	08. 09. 2026 10:00
-Detail	N006/26/V00035339	Polopodzemní kontejnery Lázně Toušeň	Awarded	Městys Lázně Toušeň	
-Detail	N006/26/V00024386	ZALOŽENÍ VÝVOJOVÉHO CENTRA SPOLEČNOSTI METALSAFE s.r.o.“ - DODÁVKA SPECIÁLNÍHO TECHNOLOGICKÉHO VYBAVENÍ I.	Cancelled	Metalsafe s.r.o.	07. 09. 2026 10:00
-Detail	N006/26/V00035235	7. DP k RD č.26105002242 Praní a chemické čištění Vyškov	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035098	Rozvodny VN, dispečerské řízení a zemní přípojky pro větrné elektrárny vč. uvedení výroben do provozu	Not terminated	RenoEnergie, a.s.	30. 11. 2026 18:00
-Detail	N006/26/V00035336	„Herní a workoutové prvky – Čestice a Nahořany“	Awarded	Městys Čestice	
-Detail	N006/25/V00024949	„Česká Lhota – Prodloužení kanalizace a vodovodu“	Awarded	Obec Dívčice	12. 08. 2025 10:00
-Detail	N006/26/V00031305	123/2026 RD - Nákup lyžařských vosků a servisního materiálu značky HOLMENKOL	Awarded	Ministerstvo obrany	09. 10. 2026 09:00
-Detail	N006/26/V00032614	Úprava areálového vstupu hlavní výstavní budovy areálu TMB na Purkyňově ulici v Brně	Not terminated	Technické muzeum v Brně	02. 11. 2026 23:59
-Detail	N006/26/V00032056	„Nákup – Třístranný sklápěč pro úsek Technických služeb“	Cancelled	SPORTES Svitavy s.r.o.	22. 10. 2026 10:00
-Detail	N006/26/V00021237	Úpravy části venkovních prostor MŠ Kamenné Žehrovice	Awarded	Obec Kamenné Žehrovice	
-Detail	N006/26/V00033939	Dodávka IT vybavení pro SJ ČR	Not terminated	Správa jeskyní České republiky	27. 10. 2026 10:00
-Detail	N006/26/V00035333	Snížení energetické náročnosti výrobního areálu – svařovna Frenštát	Not terminated	TEKO Trutnov a.s.	18. 11. 2026 11:30
-Detail	N006/26/V00035332	Snížení energetické náročnosti výrobního areálu – lakovna Frenštát	Not terminated	TEKO Trutnov a.s.	18. 11. 2026 13:00
-Detail	N006/26/V00035331	Snížení energetické náročnosti výrobního areálu – administrativa Frenštát	Not terminated	TEKO Trutnov a.s.	18. 11. 2026 10:00
-Detail	N006/26/V00033936	TAPA s.r.o. – úspora energií	Not terminated	TAPA s.r.o.	09. 11. 2026 10:00
-Detail	N006/26/V00035324	Nový elektronický systém spisové služby	Not terminated	Státní oblastní archiv v Plzni	06. 11. 2026 10:00
-Detail	N006/26/V00033620	ICT, telekomunikační a bezpečnostní služby pro Dům kněžny Emmy	Not terminated	Dům kněžny Emmy	04. 11. 2026 10:00
-Detail	N006/26/V00029322	Snížení energetické náročnosti gastroprovozu - Základní škola Bechyně, Školní 293 – dodávka gastro zařízení	Not terminated	Základní škola Bechyně, Školní 293	05. 11. 2026 12:00
-Detail	N006/26/V00030031	WOKESEN s.r.o. - Realizace energeticky úsporných opatření	Awarded	WOKESEN s.r.o.	08. 10. 2026 10:00
-Detail	N006/26/V00027887	Most Evropská S028, č. akce 1000253 - přeložky	Not terminated	Technická správa komunikací hl. m. Prahy, a.s.	06. 11. 2026 10:00
-Detail	N006/26/V00033813	Brambory čerstvé na období od 1.11.2026 do 31.12.2026	Awarded	Vojenská nemocnice Olomouc	
-Detail	N006/26/V00034237	Dodávka SSD disků pro zálohovací systém	Not terminated	Státní investiční a rozvojová společnost, a.s.	06. 11. 2026 13:00
-Detail	N006/25/V00020433	Rekonstrukce v budově obecního úřadu - 1. etapa	Awarded	Obec Kněževes	
-Detail	N006/26/V00035255	496000: Tělovýchovný materiál	Not terminated	Ministerstvo obrany	06. 11. 2026 07:00
-Detail	N006/26/V00035204	496000: Nákup televizorů a příslušenství	Not terminated	Ministerstvo obrany	06. 11. 2026 07:00
-Detail	N006/26/V00026777	Modernizace sportoviště v Rankově	Awarded	SH ČMS - Sbor dobrovolných hasičů Rankov	
-Detail	N006/26/V00032751	Obnova licencí Fortigate	Not terminated	Národní knihovna České republiky	23. 10. 2026 10:00
-Detail	N006/26/V00034620	VZMR - Nákup služby - Revize a opravy přenosných hasících přístrojů AHNM v regionální působnosti Praha	Not terminated	Ministerstvo obrany	03. 11. 2026 08:00
-Detail	N006/26/V00029079	VUZ Stará Boleslav_Stavební opravy nebytových prostor a střešního pláště	Awarded	Armádní Servisní, příspěvková organizace	01. 10. 2026 13:00
-Detail	N006/26/V00020214	Kity pro molekulární biologii - 3 části	Termination of performance	Ministerstvo obrany	13. 07. 2026 06:00
-Detail	N006/26/V00015921	CISCO - 24. etapa	Awarded	Vojenský technický ústav, s.p.	
-Detail	N006/26/V00020950	Rekonstrukce BJ č. 807/3 o velikosti 2+1 – Obránců Míru, Bechyně	Termination of performance	Město Bechyně	
-Detail	N006/26/V00035266	„HULMAN - kovošrot s.r.o. - úspora energií“	Not terminated	HULMAN - kovošrot s.r.o.	11. 11. 2026 08:30
-Detail	N006/26/V00009504	Rekonstrukce BJ č. 687/5 o velikosti 2+1 – Na Libuši, Bechyně	Termination of performance	Město Bechyně	
-Detail	N006/25/V00002902	Stavební a technologické práce - Nepolisy	Termination of performance	Vojenský technický ústav, s.p.	
-Detail	N006/26/V00028343	CSS Tloskov – pořízení klimatizace 2.etapa	Awarded	Centrum sociálních služeb Tloskov	
-Detail	N006/26/V00030707	Prodloužení podpory řešení pro monitorování a zabezpečení sítí	Not terminated	Český telekomunikační úřad	02. 11. 2026 10:00
-Detail	N006/26/V00025250	Nákup komerčních technologií pro modernizaci provozoven - komerční IT	Termination of performance	Vojenský technický ústav, s.p.	
-Detail	N006/26/S00000010	Dětské centrum Štěpánka	Not terminated	Hospic sv. Štěpána, z.s.	
-Detail	N006/26/V00035321	TUPO - Směšovač plynů	Not terminated	Ministerstvo vnitra	04. 11. 2026 10:00
-Detail	N006/26/V00014234	Výzva č. 2/2026 v DNS - Aerobní trenažéry	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00007437	Rámcová dohoda – Orientační testy na detekci omamných a psychotropních látek ze slin a potu	Not terminated	Ministerstvo vnitra	28. 05. 2026 08:15
-Detail	N006/26/V00035320	DODÁVKY ODĚVŮ, OBUVI A DOPLŇKŮ PRO ŘIDIČE MHD	Not terminated	Dopravní společnost Zlín-Otrokovice, s.r.o.	24. 11. 2026 10:00
-Detail	N006/26/V00024141	Dodávky topného oleje extra lehkého 2026/2027	Awarded	Armádní Servisní, příspěvková organizace	18. 09. 2026 10:00
-Detail	N006/26/V00029602	Telefonní operátor	Not terminated	Ministerstvo školství, mládeže a tělovýchovy	30. 10. 2026 09:30
-Detail	N006/26/V00035311	ŘLZM - Nákup ocenění	Not terminated	Ministerstvo vnitra	09. 11. 2026 09:00
-Detail	N006/26/V00030959	Stavební práce ke zřízení větrných elektráren	Not terminated	RenoEnergie, a.s.	08. 11. 2026 18:00
-Detail	N006/26/V00021404	Technické a organizační zajištění akcí OPŽP a OPST 2027 - 2029	Not terminated	Česká republika - Ministerstvo životního prostředí	09. 11. 2026 14:00
-Detail	N006/26/V00021342	Praha – rekonstrukce výtahové plošiny budovy V	Awarded	Ministerstvo obrany	11. 08. 2026 09:00
-Detail	N006/26/V00025722	Rámcová dohoda - Bunda černá 23 PČR nepromokavá a Expandér do bundy černé 23 PČR nepromokavé	Not terminated	Ministerstvo vnitra	26. 01. 2027 08:15
-Detail	N006/26/V00033440	Protipovodňové bariéry - opakované vyhlášení	Not terminated	Ministerstvo vnitra	25. 11. 2026 09:00
-Detail	N006/26/V00032792	Nákup nářadí a materiálu	Awarded	Ministerstvo obrany	21. 10. 2026 08:00
-Detail	N006/26/V00035312	POCHOZÍ SERVISNÍ A MANIPULAČNÍ LÁVKY PRO ÚDRŽBU DRÁŽNÍCH A ELEKTRICKÝCH VOZIDEL	Not terminated	Dopravní společnost Zlín-Otrokovice, s.r.o.	24. 11. 2026 10:00
-Detail	N006/26/V00035306	Výměna osvětlovacích těles včetně úpravy elektroinstalace	Not terminated	Česká správa sociálního zabezpečení	09. 11. 2026 09:00
-Detail	N006/26/V00035133	Vodní systém pro kontrolované řízení teploty pacienta	Not terminated	Nemocnice Blansko	11. 11. 2026 12:00
-Detail	N006/26/V00035299	Obec Polnička – Oprava komunikace k budově dětské skupiny Polnička č.p. 335	Awarded	Obec Polnička	
-Detail	N006/26/V00033810	Obnova a doplnění uživatelské ICT techniky	Not terminated	Česká školní inspekce	26. 10. 2026 10:00
-Detail	N006/26/V00031901	VZ - KŘP K - OOP Nejdek - Oprava plynové kotelny	Awarded	Krajské ředitelství policie Karlovarského kraje	16. 10. 2026 10:00
-Detail	N006/26/V00034914	ŘLZ - Pořízení 2 kávovarů	Not terminated	Ministerstvo vnitra	13. 11. 2026 07:00
-Detail	N006/26/V00030555	Pronájem tlumočnické techniky - Beseda s Yannem Martelem dne 30. 10. 2026	Awarded	Moravská zemská knihovna v Brně	14. 10. 2026 09:00
-Detail	N006/26/V00031771	Nákup notebooků s příslušrnstvím přes RD	Awarded	Krajské ředitelství policie Karlovarského kraje	
-Detail	N006/26/V00034991	Nákup služby - provádění servisních prací, údržby a oprav vozidel značky Škoda a VW v kategoriích M1 a N1 v regionu Praha	Not terminated	Ministerstvo obrany	10. 11. 2026 08:00
-Detail	N006/26/V00030041	Tisk a vazba knihy České literární almanachy	Awarded	Moravská zemská knihovna v Brně	02. 10. 2026 09:00
-Detail	N006/26/V00031707	Nákup kancelářského nábytku z RD	Awarded	Krajské ředitelství policie Karlovarského kraje	
-Detail	N006/26/V00027721	Areál Dostihového závodiště – nový podhled včetně elektroinstalace – PD	Awarded	Statutární město Pardubice	11. 09. 2026 09:00
-Detail	N006/26/V00028917	Úklid – čistící a úklidové prostředky	Awarded	Moravská zemská knihovna v Brně	23. 09. 2026 09:00
-Detail	N006/26/V00033201	261042/2026-HR Výstražný radarový přijímač (radarový detektor)	Not terminated	Ministerstvo obrany	22. 10. 2026 23:59
-Detail	N006/26/V00034872	objednávka č. 61 k RD 312/2025-MA	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00034855	Zajištění úklidových služeb v budovách Správy hřbitovů města Brna, p.o.	Not terminated	Správa hřbitovů města Brna, příspěvková organizace	06. 11. 2026 09:00
-Detail	N006/26/V00035301	Úklidové práce prostor budovy určených pro MSDC	Not terminated	Moravskoslezské datové centrum, příspěvková organizace	19. 11. 2026 10:00
-Detail	N006/26/V00031108	DNS – VLL K. Vary, Sadový Pramen – stavební úpravy balnea – BOZP - 2605	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
-Detail	N006/26/V00020330	Moravská zemská knihovna v Brně - Personální a mzdový systém (licence, dodání, implementace, předvedení funkčnosti a pravidelná roční údržba)	Awarded	Moravská zemská knihovna v Brně	27. 07. 2026 13:00
-Detail	N006/26/V00032688	DNS - VZ Ovčárna pod Pradědem - Pečivo čerstvé - 13-26047	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
-Detail	N006/26/V00026572	Rekonstrukce sociálního zařízení	Awarded	Ústav územního rozvoje	
-Detail	N006/26/V00033346	Čerpadlo kalové elektrické – opakované vyhlášení	Not terminated	Ministerstvo vnitra	04. 11. 2026 10:00
-Detail	N006/26/V00032666	DNS01-26-L-04: Dodávka optických a optomechanických komponentů kategorie L - Motorové polohovací mechanismy	Awarded	Ústav přístrojové techniky AV ČR, v. v. i.	
-Detail	N006/26/V00034409	26-145 Pořízení notebooků	Not terminated	Správa státních hmotných rezerv	10. 11. 2026 08:00
-Detail	N006/26/V00032793	Nákup Kávovarů 2	Awarded	Ministerstvo obrany	20. 10. 2026 08:00
-Detail	N006/25/V00036024	SZM – Přestavba vstupního pavilonu v AND	Awarded	Slezské zemské muzeum	12. 11. 2025 09:00
-Detail	N006/25/V00000560	Lešany - hala č. 2 - výstavba	Awarded	Ministerstvo obrany	26. 06. 2025 09:00
-Detail	N006/26/V00030539	Rekonstrukce obecního domu	Not terminated	Obec Klínec	13. 11. 2026 09:00
-Detail	N006/26/V00032494	DNS01-26-K-05: Dodávka optických a optomechanických komponentů kategorie K - Manuální polohovací mechanismy	Awarded	Ústav přístrojové techniky AV ČR, v. v. i.	
-Detail	N006/26/V00028037	DNS – Nákup a pronájem audiovizuální techniky	Awarded	Zařízení služeb pro Ministerstvo vnitra	
-Detail	N006/26/V00032350	1024/2026-MA Inzerce Univerzity obrany na Spotify v období 11/2026 - 1/2027	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00033047	17. listopadu, přechod pro chodce - PD	Not terminated	Statutární město Pardubice	09. 11. 2026 08:00
-Detail	N006/26/V00024643	ZATEPLENÍ KATASTRÁLNÍHO PRACOVIŠTĚ STRAKONICE	Not terminated	Katastrální úřad pro Jihočeský kraj	30. 09. 2026 08:00
-Detail	N006/26/V00033253	261021/2026-SE Návrh API modelu II. kolo	Awarded	Ministerstvo obrany	23. 10. 2026 10:00
-Detail	N006/26/V00016821	„NOVÉ SEDLO – DODÁVKA ČISTÍCÍCH PROSTŘEDKŮ PRO KP 2026-2027“	Awarded	Vězeňská služba České republiky	
-Detail	N006/26/V00032492	DNS01-26-J-05: Dodávka optických a optomechanických komponentů kategorie J - Statické mechanické elementy	Awarded	Ústav přístrojové techniky AV ČR, v. v. i.	
-Detail	N006/26/V00032836	Dodání dieselagregátu	Awarded	Krajské ředitelství policie hlavního města Prahy	20. 10. 2026 08:30
-Detail	N006/26/V00032950	ZŠ Štípa přístavba jídelny - stavební práce	Not terminated	Statutární město Zlín	16. 11. 2026 10:00
-Detail	N006/26/V00035279	Úložiště pro archivaci virtualizovaných dat (náhrada NAS serverů)	Not terminated	Česká školní inspekce	09. 11. 2026 10:00
-Detail	N006/26/V00034835	Dodávka serverů, č. ZMR-216	Not terminated	Úřad průmyslového vlastnictví	06. 11. 2026 10:00
-Detail	N006/26/V00032753	2026 Nákup notebooků pro zastupitele a magistrát	Not terminated	Statutární město Přerov	13. 11. 2026 10:00
-Detail	N006/26/V00033750	Dodávka silničních panelů	Cancelled	Záchranný útvar Hasičského záchranného sboru České republiky	
-Detail	N006/26/V00021299	Sanitní vozidlo ZZS	Awarded	Moravskoslezský kraj	03. 08. 2026 10:00
-Detail	N006/26/V00031325	VZMR - Pořízení klinických čteček	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	09. 11. 2026 10:00
-Detail	N006/26/V00027335	Dynamický nákupní systém pro standardní kancelářské potřeby statutárního města Přerov (2026 – 2029)	Not terminated	Statutární město Přerov	
-Detail	N006/26/V00033380	Brno, Chodská 17 A4 - oprava PVC podlah	Not terminated	Armádní Servisní, příspěvková organizace	09. 11. 2026 10:00
-Detail	N006/26/V00033226	DNS01-26-C-03: Dodávka optických a optomechanických komponentů kategorie C - Difrakční optické elementy	Awarded	Ústav přístrojové techniky AV ČR, v. v. i.	
-Detail	N006/26/V00035277	Objednávka dětských publikací s technickou tematikou pro prodej	Awarded	Národní technické muzeum	
-Detail	N006/26/V00032490	Pořízení materiálu pro mSOC, bÚU a NFM	Not terminated	Ministerstvo obrany	20. 10. 2026 08:00
-Detail	N006/26/V00028150	Obličejová maska s filtry	Awarded	Ministerstvo vnitra	07. 10. 2026 10:30
-Detail	N006/26/V00015277	Výkon technického dozoru stavebníka a koordinátora BOZP pro MUSEum+	Awarded	MUSEum+, Industriální muzeum v Ostravě	25. 06. 2026 10:00
-Detail	N006/26/V00033683	DNS - tablety pro prevenci	Cancelled	Hasičský záchranný sbor Pardubického kraje	
-Detail	N006/26/V00019122	Dodávka propagačních předmětů z DNS	Termination of performance	Zařízení služeb pro Ministerstvo vnitra	
-Detail	N006/26/V00034924	Vsetínská nemocnice a.s. – Stavební úpravy budov B1 a B2 – zhotovitel stavby	Not terminated	Zlínský kraj	30. 11. 2026 10:00
-Detail	N006/26/V00031378	SZM na diagnostické a intervenční výkony pro pracoviště interveční radiologie II. - část 4: Dilatační pumpa	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	04. 11. 2026 10:00
-Detail	N006/26/V00032790	MT 40496/ÚP82/LÚ2/ PČ	Awarded	Správa Národního parku Šumava	
-Detail	N006/26/V00033024	DP č. 26225015949 oprava T815 dle RD 26105001720	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00031340	ÚVN-VoFN Praha - Modernizace klíčových informačních systémů v ÚVN: Upgrade a rozšíření funkcionalit FAMA+ II.	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	10. 11. 2026 10:00
-Detail	N006/26/V00030779	26506/2026-PO Impedanční analyzátor Microtest 6632-30	Not terminated	Ministerstvo obrany	08. 10. 2026 10:00
-Detail	N006/26/V00031467	Dřevěné hranoly	Awarded	Ministerstvo obrany	14. 10. 2026 09:00
-Detail	N006/26/V00033356	Ř VLRZ – Tiskařské služby v letech 2027-2028	Not terminated	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	10. 11. 2026 23:59
-Detail	N006/26/V00031395	DP č. 26225015162 oprava Škoda dle RD 26105001895	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00015583	CM25070 Úpravy v TR Přeštice, kabel 110kV	Awarded	ČEZ Distribuce, a. s.	
-Detail	N006/26/V00033119	DNS01-26-N-04: Dodávka optických a optomechanických komnponentů kategorie N - Optické měřicí přístroje	Awarded	Ústav přístrojové techniky AV ČR, v. v. i.	
-Detail	N006/26/V00030018	26788/2026-HR Bezpilotní prostředek pro rekognoskaci zájmových prostorů (výbuchové testy, pasport)	Awarded	Ministerstvo obrany	04. 10. 2026 23:59
-Detail	N006/26/V00033357	ZAJIŠTĚNÍ MEZINÁRODNÍ STATISTICKÉ KONFERENCE IMAODBC 2027	Not terminated	Český statistický úřad	06. 11. 2026 10:00
-Detail	N006/26/V00030362	Rekonstrukce střech a instalace FVE	Not terminated	Základní škola a Mateřská škola Motýlek, Kopřivnice, Smetanova 1122, příspěvková organizace	05. 11. 2026 10:00
-Detail	N006/26/V00018299	HW pro laboratoře Těchonín a Praha	Awarded	Ministerstvo obrany	12. 08. 2026 10:00
-Detail	N006/26/V00031648	Čistící a úklidová chemie a pomůcky	Awarded	Vojenská nemocnice Olomouc	
-Detail	N006/26/V00032714	Nový skatepark a pumptrack - ul. Langiewiczova	Not terminated	Město Jaroměř	18. 11. 2026 12:00
-Detail	N006/26/V00029058	DP č. 26225013853 oprava Škoda Fabia dle RD 26105001895	Termination of performance	Ministerstvo obrany	
-Detail	N006/24/V00012800	Oděv pro výkonné letce	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035273	Objednávka hraček pro prodej	Awarded	Národní technické muzeum	
-Detail	N006/26/V00027242	DP č. 26225013099 odborná údržba dle RD 25106000353	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00033546	PS 0135 - Nákup materiálu	Cancelled	Ministerstvo obrany	22. 10. 2026 07:00
-Detail	N006/26/V00020100	Modernizace školicí místnosti a zasedací místnosti 188, Letná - realizace	Termination of performance	Zařízení služeb pro Ministerstvo vnitra	10. 07. 2026 10:00
-Detail	N006/26/V00027578	Vypracování autorských kreseb, ilustrací a motivů v souvislosti s přípravou mezinárodní výstavy Dinosauři, draci z Mongolska	Awarded	Národní muzeum	
-Detail	N006/26/V00034965	Dílčí plnění č. 123/26 – provedení technické údržby č. 2 pro služební vozidlo Tatra 815-7	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00023885	Areál K Dolíčku – oprava šaten	Awarded	Statutární město Pardubice	18. 08. 2026 09:00
-Detail	N006/26/V00035261	PR26_003 Oprava střechy Mostecká	Termination of performance	TEPO s.r.o.	
-Detail	N006/24/V00013792	Bunda černá 2022	Awarded	Ministerstvo obrany	17. 09. 2024 09:00
-Detail	N006/26/V00026963	DP č. 26225012609 servis Škoda dle RD 26105001895	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00033224	Zajištění zimní údržby komunikací v Harrachově v období 11/2026 až 03/2031	Not terminated	Město Harrachov	10. 11. 2026 13:00
-Detail	N006/26/V00026635	DP č. 26225012619 servis T815 dle RD 26105001720	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00034021	Stavební úpravy zubních ordinací - Poliklinika Orlová	Not terminated	Město Orlová	02. 11. 2026 10:00
-Detail	N006/26/V00033275	Výzva č.44 k RD 22106000315	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00033402	Servisní údržba návěsu Hammar 110 HC	Cancelled	Ministerstvo obrany	22. 10. 2026 07:00
-Detail	N006/26/V00025811	DP č. 26225012448 dodávka primerů a sond dle RD 26105002374	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00035264	Před a posazbové korektury publikace Vytápění	Awarded	Národní technické muzeum	
-Detail	N006/25/V00029741	Pořízení Faradaybag	Cancelled	Ministerstvo vnitra	27. 10. 2025 08:00
-Detail	N006/23/V00019904	Stejnokroj pro HS	Awarded	Ministerstvo obrany	22. 11. 2023 10:00
-Detail	N006/23/V00023386	Nárameníky III.	Awarded	Ministerstvo obrany	12. 12. 2023 09:00
-Detail	N006/26/V00031223	Nákup postelí z RD	Termination of performance	Zařízení služeb pro Ministerstvo vnitra	
-Detail	N006/26/V00033127	261037/2026-ZE, Akreditovaná kalibrace zařízení pro měření hluku výstřelu a vibrací	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00033602	DP oprava tahače VOLVO FL 6/T 025-40-25, 424/2026-7214	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00034182	Portál Jeremiášova ulice, P13 , č. akce: 1165 - II	Not terminated	Technická správa komunikací hl. m. Prahy, a.s.	09. 11. 2026 10:00
-Detail	N006/26/V00028803	Nákup skříňových sestav z RD	Termination of performance	Zařízení služeb pro Ministerstvo vnitra	
-Detail	N006/26/V00031562	Nákup - řečnický pult - z RD	Termination of performance	Zařízení služeb pro Ministerstvo vnitra	
-Detail	N006/26/V00033568	Nákup přepravních boxů	Not terminated	Ministerstvo obrany	26. 10. 2026 08:00
-Detail	N006/26/V00034063	MT-GP PE Kejžlice	Cancelled	Úřad pro zastupování státu ve věcech majetkových	
-Detail	N006/26/V00035206	85173 Nájem 2 ks mobilních zajišťovacích systémů proti pádu pro C-390	Not terminated	Ministerstvo obrany	12. 11. 2026 08:00
-Detail	N006/26/V00032036	Windows Server 2025 Datacenter , 16 CORE	Not terminated	Hasičský záchranný sbor Pardubického kraje	06. 11. 2026 09:00
-Detail	N006/26/V00035231	Nákup skládacích stolů a židlí	Not terminated	Ministerstvo obrany	06. 11. 2026 06:30
-Detail	N006/26/V00035252	Pořízení disků do NAS	Not terminated	Český statistický úřad	11. 11. 2026 10:00
-Detail	N006/26/V00034936	Opravy nákladních vozidel a přívěsů Královehradecký kraj	Not terminated	Ministerstvo obrany	11. 11. 2026 23:59
-Detail	N006/26/V00033209	Dodání multifunkčních nožů pro prvosledové hlídky	Cancelled	Krajské ředitelství policie hlavního města Prahy	22. 10. 2026 09:00
-Detail	N006/26/V00034797	Nákup mobilních telefonů pro projektové zaměstnance	Not terminated	Agentura ochrany přírody a krajiny České republiky	06. 11. 2026 10:00
-Detail	N006/26/V00028680	Autobusové spojení Harrachov – Szklarska Poręba – Harrachov	Not terminated	Město Harrachov	08. 10. 2026 10:00
-Detail	N006/26/V00034453	Vyvážení dříví na OM na ÚP 35 dle ZL 52/35/2/2026	Awarded	Správa Krkonošského národního parku	
-Detail	N006/26/V00035033	POPOZT_2026_29 LRI Diamantový nůž II.	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	05. 11. 2026 10:00
-Detail	N006/26/V00029362	DNS - VZ Ovčárna pod Pradědem - Maso vepřové a hovězí volně ložené - 13-26045	Awarded	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	
-Detail	N006/26/V00035244	OSSZ Opava - oprava technologické části kotelny - zdrojové prvky	Not terminated	Česká správa sociálního zabezpečení	09. 11. 2026 08:00
-Detail	N006/26/V00034457	Těžba dříví s přiblížením lesní lanovkou na ÚP 35 dle ZL 53/35/2/2026	Awarded	Správa Krkonošského národního parku	
-Detail	N006/26/V00034490	Těžba dříví s přiblížením lesní lanovkou na ÚP 35 dle ZL 20/35/1/2026	Awarded	Správa Krkonošského národního parku	
-Detail	N006/26/V00021041	Výstavba kanalizace a ČOV v obci Úpohlavy	Not terminated	Obec Úpohlavy	06. 11. 2026 10:00
-Detail	N006/26/V00035119	výzva č. 3 k RD 26105002339	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00030864	Úklidové služby pro SSMSK, středisko Frýdek-Místek a jeho cestmistrovství Bílá a Bystřice	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	12. 10. 2026 10:00
-Detail	N006/26/V00035236	Technické vybavení pro výuku robotiky-iDZ Praha	Not terminated	Hospodářská komora hlavního města Prahy	30. 11. 2026 10:00
-Detail	N006/26/V00020344	SPZ Holešov – Stavba 11 – Technická a dopravní infrastruktura uvnitř SPZ Holešov – ul. Tovární – revitalizace komunikace	Awarded	Zlínský kraj	11. 08. 2026 10:00
-Detail	N006/26/V00033260	Nákup fotopřístrojů a příslušenství	Not terminated	Krajské ředitelství policie Moravskoslezského kraje	22. 10. 2026 08:00
-Detail	N006/26/V00031806	RD - servisní údržby, opravy, defektace BUS IVECO Crossway CBCW3/00	Awarded	Ministerstvo obrany	13. 10. 2026 08:00
-Detail	N006/26/V00032532	DNS - kancelářské potřeby 3/2026 - nákup xerografického papíru	Awarded	Krajské ředitelství policie kraje Vysočina	
-Detail	N006/26/V00035181	Provedení výměny ventilu k plnění plynného kyslíku VT3 19	Not terminated	Ministerstvo obrany	06. 11. 2026 07:00
-Detail	N006/26/V00035019	5. DP - oprava vozidla JCB 4CX, RZ 024-09-61	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00023738	Páteřní / distribuční L3 přepínače pro HZS ČR	Not terminated	Ministerstvo vnitra	29. 10. 2026 10:00
-Detail	N006/26/V00034913	DP k RD MO 443105/2022-4773 - nákup 877 ks stravovacích poukázek na listopad a prosinec 2026	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035136	Servis laboratorních zařízení AAS a MARS v roce 2026.	Not terminated	Ministerstvo obrany	06. 11. 2026 10:00
-Detail	N006/26/V00020821	Dodávka benzínu dle RD 2026 - 3.	Awarded	Krajské ředitelství policie Pardubického kraje	
-Detail	N006/26/V00035006	RD - pronájem a servis mob. soc. zařízení - výzva č. 66	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035003	RD - pronájem a servis mob. soc. zařízení - výzva č. 65	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035223	Dodávka kancelářských potřeb z Rámcové dohody pro UOP ČB_říjen 2026	Awarded	Národní památkový ústav	
-Detail	N006/26/V00031499	Nákup dopravních kuželů	Not terminated	Ministerstvo obrany	09. 10. 2026 10:00
-Detail	N006/26/V00035233	Rekonstrukce propustků na silnici III/04735 v km 0,560 a 1,440 před obcí Vražné	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	09. 11. 2026 08:00
-Detail	N006/26/V00011344	Dodávka technický plynů a dlouhodobý pronájem obalů technických plynů	Not terminated	Česká geologická služba	09. 11. 2026 10:00
-Detail	N006/23/V00028677	23-026.2 V.B. – celková rekonstrukce a modernizace provozu sila, TZH sila, realizace - kopie	Termination of performance	Správa státních hmotných rezerv	28. 11. 2023 09:00
-Detail	N006/26/V00031007	Oprava objektu po požáru – vnitřní dispozice	Not terminated	Moravskoslezský kraj	25. 11. 2026 10:00
-Detail	N006/26/V00016787	Materiální a přístrojové zajištění laboratorní diagnostiky v CLM KNL, a.s.	Not terminated	Krajská nemocnice Liberec, a.s.	
-Detail	N006/26/V00035229	Energetické úspory - MOTO MORAVA s.r.o.	Not terminated	MOTO MORAVA s.r.o.	01. 12. 2026 10:00
-Detail	N006/26/V00035224	Nákup zametače za traktor pro VTM Lešany	Not terminated	Ministerstvo obrany	06. 11. 2026 07:00
-Detail	N006/26/V00034973	DP č.5 k RD č. 25105002421 opravy a servis vozidla AUTOBUS IVECO CROSSWAY CBW300	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035127	Výzva č. 008/2026 k RD SML 26105002104, Technická kontrola a měření emisí nákladních vozidel	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035228	427/2026-7214 Recertifikace personálu NDT pracovníků D-LEVEL	Not terminated	Ministerstvo obrany	12. 11. 2026 06:00
-Detail	N006/26/V00035213	RD: Školení práce ve výškách a nad volnou hloubkou 2027-2028	Not terminated	Ministerstvo obrany	06. 11. 2026 12:00
-Detail	N006/26/V00005773	„26-020 Přenosné plovoucí čerpadlo s příslušenstvím – 5 spr“	Termination of performance	Správa státních hmotných rezerv	
-Detail	N006/26/V00035215	Oprava evakuačního výtahu (Cihelná)	Awarded	Ministerstvo financí	
-Detail	N006/25/V00014421	24-021 Odporová zátěž na přívěsu	Termination of performance	Správa státních hmotných rezerv	22. 07. 2025 10:00
-Detail	N006/26/P00000238	Průzkum trhu_Openshift	Not terminated	Ministerstvo zemědělství	
-Detail	N006/26/V00035151	Výběr provozovatele vodohospodářského majetku obce Studnice	Not terminated	OBEC STUDNICE	19. 11. 2026 10:00
-Detail	N006/26/V00032302	II. 26786/2026-PO Relay spojovací prvek - deska plošných spojů pro drony	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00035214	Rekonstrukce propustků na silnici III/46428 v km 4,591 a 4,755 Bartošovice a Hukovice	Not terminated	Správa silnic Moravskoslezského kraje, příspěvková organizace	06. 11. 2026 08:00
-Detail	N006/26/V00035208	Provádění technických prohlídek a měření emisí v letech 2026-2028	Not terminated	Krajské ředitelství policie Ústeckého kraje	06. 11. 2026 09:00
-Detail	N006/23/V00033858	Dodávky potravin do vybraných organizačních jednotek VS	Awarded	Vězeňská služba České republiky	
-Detail	N006/26/V00029327	Opravy a dodávky ND pro vozy značky MERCEDES 2026 až 2028	Cancelled	Zařízení služeb pro Ministerstvo vnitra	20. 10. 2026 10:00
-Detail	N006/26/V00031743	Nákup mobilních odsavačů výfukových plynů	Awarded	Ministerstvo obrany	12. 10. 2026 07:00
-Detail	N006/26/V00034541	Instalace FVE na krajských organizacích 2	Not terminated	Moravskoslezský kraj	30. 11. 2026 10:00
-Detail	N006/26/V00032330	Úklidové služby v objektech HZS Pardubického kraje	Not terminated	Hasičský záchranný sbor Pardubického kraje	23. 10. 2026 09:00
-Detail	N006/26/V00034488	Zpracování projektové dokumentace pro revitalizaci lokality Mlýnský potok	Not terminated	Správa Národního parku Šumava	06. 11. 2026 08:00
-Detail	N006/26/V00022521	Nákup sluchátek pro systém Matra	Termination of performance	Krajské ředitelství policie Ústeckého kraje	
-Detail	N006/26/V00016270	Křižovatka sil. III/3152 na průtahu obce s MOK 10c u prodejny, Zámrsk II.	Awarded	Obec Zámrsk	12. 06. 2026 12:00
-Detail	N006/26/V00035054	DNS - nákup rukavic	Not terminated	Sociální služby Vsetín, příspěvková organizace	
-Detail	N006/26/V00029813	Demontáž a likvidace výstavy ‘Přemyslovci. Panovnická dynastie a její doba‘ v Historické budově Národního muzea	Awarded	Národní muzeum	24. 09. 2026 16:00
-Detail	N006/26/V00020238	I204 - OPTIMALIZACE TRAS TRVALÉHO ODKALU PG HVB1,2	Not terminated	ČEZ, a. s.	
-Detail	N006/26/V00018356	Realizace opatření k vybudování místnosti "T" - stavební práce	Awarded	Krajské ředitelství policie Královéhradeckého kraje	
-Detail	N006/26/V00027437	Dodávka 10 ks výpočetní techniky z RD HZS Praha I./2026	Awarded	Hasičský záchranný sbor hlavního města Prahy	
-Detail	N006/26/V00035012	Modernizace evakuačního výtahu u bufetu	Not terminated	Domov pro seniory Lukov, příspěvková organizace	11. 11. 2026 09:00
-Detail	N006/26/V00033526	RD - Transceivery	Termination of performance	Krajské ředitelství policie Plzeňského kraje	
-Detail	N006/26/V00023379	Náhradní díly pro vozidlo IVECO	Cancelled	Ministerstvo obrany	04. 08. 2026 09:00
 LOAD ANOTHER 50
 Page
 1
@@ -553,7 +553,7 @@ Page
 11
 ...
 Page
-5685
+5688
 NEN System User Support
 ServiceDesk
 +420 272 680 985
