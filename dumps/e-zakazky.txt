@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-10-30T13:18:07.590148+00:00
+Staženo: 2026-10-31T12:55:44.945901+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -10,7 +10,11 @@ Informační panel / Information panel
 
 Upozornění pro uživatele systému
 
+
+
+
 Vážení klienti,
+
 
 v souvislosti s implementací nového řízení na straně zadavatele je pro zajištění správné funkčnosti systému potřeba obnovit načtení stránky.
 
@@ -52,7 +56,16 @@ Předp. cena	 
 	
 		 
   
+	Test agentes - prosím storno faktury	Test agentes	112233445	Otevřené řízení	Dodávky	30. 10. 2026	30. 10. 2026	Neuvedeno	
+
+  
+	„Výběrové řízení na dodávku SW a HW pro monitoring a přenos dat výrobních strojů pro společnost Kovo In s.r.o.“	Kovo In s.r.o.	29315107	Otevřené řízení	Dodávky	30. 10. 2026	16. 11. 2026	800 000,00 Kč	
+
+  
 	Implementace legislativních změn a další rozvoj PIS AVA	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Jednací řízení bez uveřejnění	Služby	29. 10. 2026	11. 11. 2026	Neuvedeno	
+
+Veřejné zakázky z pohledu dodavatele
+
 
   
 	UČEBNA PRO ŽÁKY SE SPECIÁLNÍMI VZDĚLÁVACÍMI POTŘEBAMI A ŠKOLNÍ KLUB ZŠ KOMENSKÉHO, SVĚTLÁ NAD SÁZAVOU	Město Světlá nad Sázavou	00268321	Zjednodušené podlimitní řízení	Stavební práce	29. 10. 2026	16. 11. 2026	15 602 030,91 Kč	
@@ -60,11 +73,11 @@ Předp. cena	 
   
 	Docházkový systém - opakované řízení (uzavřená výzva jen pro oslovené dodavatele)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	29. 10. 2026	12. 11. 2026	Neuvedeno	
 
-Veřejné zakázky z pohledu dodavatele
-
-
   
 	Rekonstrukce místních komunikací	Obec Nové Sedlice	66144540	Poptávkové řízení	Stavební práce	 	 	Neuvedeno	
+
+Zakázkový refresh pro dodavatele
+
 
   
 	Rekonstrukce KZ a MŠ	Obec Nové Sedlice	66144540	Poptávkové řízení	Stavební práce	 	 	Neuvedeno	
@@ -72,11 +85,11 @@ Veřejné zakázky z pohledu dodavatele
   
 	Rekonstrukce lesní cesty 2L v k. ú. Sobotín	Obec Sobotín	00303348	Zjednodušené podlimitní řízení	Stavební práce	28. 10. 2026	16. 11. 2026	24 487 010,00 Kč	
 
-Zakázkový refresh pro dodavatele
-
-
   
 	Inovovaná plnicí linka pro fermentované mléčné výrobky	LACRUM Velké Meziříčí, s.r.o.	63992370	Otevřené řízení	Dodávky	27. 10. 2026	27. 11. 2026	14 000 000,00 Kč	
+
+Novelizace stavebního zákona
+
 
   
 	Pergoly – zastřešení pro posezení zaměstnanců a návštěvníků areálu, Bečov	Obec Bečov	00265811	Zakázka malého rozsahu	Stavební práce	27. 10. 2026	12. 11. 2026	Neuvedeno	
@@ -84,17 +97,8 @@ Zakázkový refresh pro dodavatele
   
 	Rekonstrukce střešního pláště nám. Horníků 647, Rtyně v Podkrkonoší	Společenství vlastníků nám. Horníků 647, Rtyně v Podkrkonoší	09967940	Zakázka malého rozsahu	Stavební práce	27. 10. 2026	30. 11. 2026	8 500 000,00 Kč	
 
-Novelizace stavebního zákona
-
-
   
 	Zabezpečení areálu školy	SOŠ a SOU technické Třemošnice	15052796	Zakázka malého rozsahu	Dodávky	27. 10. 2026	12. 11. 2026	1 050 000,00 Kč	
-
-  
-	IT a digitální vzdělávání pro OHK Přerov	Okresní hospodářská komora Přerov	47676981	Zakázka malého rozsahu	Služby	27. 10. 2026	6. 11. 2026	1 198 800,00 Kč	
-
-  
-	Dodávka kontinuálního lisu	RESPONO, a.s., Cukrovarská 486/16, 682 01 Vyškov	49435612	Otevřené řízení	Dodávky	27. 10. 2026	30. 11. 2026	6 500 000,00 Kč	
 Stránka 1 z 179 (2148 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
