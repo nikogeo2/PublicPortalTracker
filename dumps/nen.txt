@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-10-31T12:55:29.225769+00:00
+Staženo: 2026-11-01T13:40:50.443158+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,11 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/25/V00041967	Rekonstrukce místních komunikací 2026 - Nad Hřištěm	Awarded	Obec Kamenné Žehrovice	13. 02. 2026 12:00
+Detail	N006/26/V00035229	Energetické úspory - MOTO MORAVA s.r.o.	Not terminated	MOTO MORAVA s.r.o.	08. 12. 2026 10:00
+Detail	N006/26/V00035514	Strategie nouzového zásobování elektřinou v rámci projektu „Společně proti živlům“ pro Petrovice u Karviné II	Not terminated	Obec Petrovice u Karviné	18. 11. 2026 08:00
+Detail	N006/26/V00030029	Administrace veřejných zakázek	Cancelled	Městská energetická agentura Ostrava, s. r. o.	02. 10. 2026 08:00
+Detail	N006/26/V00035629	Administrace veřejných zakázek II	Not terminated	Městská energetická agentura Ostrava, s. r. o.	11. 11. 2026 08:00
 Detail	N006/26/V00035627	Oprava místních komunikací v obci Suchý	Awarded	Obec Suchý	
 Detail	N006/26/V00017523	Oprava kanalizace pod školou	Awarded	Obec Petrovice u Karviné	24. 06. 2026 08:00
 Detail	N006/26/V00033986	Posílení biodiverzity krkonošských lesů - asanace kůrovcové hmoty dle ZL 18/36/3/2026	Awarded	Správa Krkonošského národního parku	
@@ -61,7 +66,6 @@ Detail	N006/25/V00007859	Pořízení palivových článků pro proces a systém 
 Detail	N006/26/V00034630	Revitalizace místních komunikací a veřejných prostor Zálezly	Not terminated	Obec Velemyšleves	18. 11. 2026 10:00
 Detail	N006/26/V00031287	ÚVN-VoFN Praha - zdravotnická technika - obměna - Automatické vstupní dveře	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	19. 11. 2026 10:00
 Detail	N006/26/V00017083	Vybavení pro ukládání vrtné hmotné dokumentace	Awarded	Česká geologická služba	25. 09. 2026 09:00
-Detail	N006/26/V00035229	Energetické úspory - MOTO MORAVA s.r.o.	Not terminated	MOTO MORAVA s.r.o.	01. 12. 2026 10:00
 Detail	N006/26/V00024101	Modernizace sociálního zázemí tělocvičny	Awarded	Obec Krakovany	
 Detail	N006/26/V00029781	Dotační management projektů ČIŽP ve 108. výzvě OPŽP 2021–2027	Not terminated	Česká inspekce životního prostředí	10. 11. 2026 10:00
 Detail	N006/26/V00035146	Nákup elektrod pro defibrilační přístroje	Not terminated	Ministerstvo obrany	10. 11. 2026 07:00
@@ -232,7 +236,6 @@ Detail	N006/24/V00036331	KŘP KVy - stavební připravenost MKI - realizace, okr
 Detail	N006/25/V00010277	REVITALIZACE TYRŠOVA NÁMĚSTÍ V HOSTOMICÍCH	Awarded	Město Hostomice	16. 05. 2025 10:00
 Detail	N006/26/V00035091	Nákup popruhů upínacích dvoudílných	Not terminated	Ministerstvo obrany	05. 11. 2026 07:00
 Detail	N006/26/V00035448	OS Plzeň - sever - KSV	Awarded	Okresní soud Plzeň - sever	
-Detail	N006/26/V00035514	Strategie nouzového zásobování elektřinou v rámci projektu „Společně proti živlům“ pro Petrovice u Karviné II	Not terminated	Obec Petrovice u Karviné	18. 11. 2026 08:00
 Detail	N006/26/V00030499	Objednávka č. 4 k RD 73/2025-SEV	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00032861	Znalecké posudky: minitendr 009	Awarded	Správa Krkonošského národního parku	15. 10. 2026 10:00
 Detail	N006/23/V00021125	23-092 Vzdělávání v oblasti hospodářských opatření pro krizové stavy	Awarded	Správa státních hmotných rezerv	18. 09. 2023 09:00
@@ -536,9 +539,6 @@ Detail	N006/26/V00031382	„České muzeum hudby v Litoměřicích – vybudová
 Detail	N006/26/V00035408	OS Karviná – dodávka tonerů	Not terminated	Okresní soud v Karviné	10. 11. 2026 06:30
 Detail	N006/26/V00032090	M 175 Nákup léčiv	Awarded	Ministerstvo obrany	14. 10. 2026 23:59
 Detail	N006/26/V00011842	SÚKL VZ07/2026 - Ostraha objektů SÚKL	Awarded	Státní ústav pro kontrolu léčiv	01. 06. 2026 12:00
-Detail	N006/26/V00004859	KŘP Jčk - IROP - Parkovací dům Nerudova ul. č. 860, České Budějovice	Awarded	Krajské ředitelství policie Jihočeského kraje	14. 07. 2026 11:00
-Detail	N006/26/V00028078	Oprava volného bytu Emy Destinnové 1169/1C, č.b. 7	Awarded	Statutární město Havířov	10. 09. 2026 08:00
-Detail	N006/26/V00035304	Výzva k poskytnutí plnění č. 16/2026 k RD čj. MO 143612/2026-2230 Zajištění stěhovacích služeb pro AP AČR	Awarded	Ministerstvo obrany	
 LOAD ANOTHER 50
 Page
 1
