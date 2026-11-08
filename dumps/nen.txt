@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-11-07T13:23:54.799441+00:00
+Staženo: 2026-11-08T13:44:08.840762+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,8 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00036541	„VÚ a DDŠ Moravský Krumlov – dodávka interaktivních tabulí“	Not terminated	Výchovný ústav, dětský domov se školou, středisko výchovné péče, střední škola a základní škola, Moravský Krumlov	20. 11. 2026 12:00
+Detail	N006/26/V00036536	Zajištění výstavní plochy na veletrhu IMTEX 2027 v Bengaluru	Awarded	CzechBusiness	
 Detail	N006/26/V00036535	Realizovat prodloužení vodovodu Lešná na p.č.330/1, 1017, 1000, 1011, 1012 v k.ú. Lešná	Awarded	Obec Lešná	
 Detail	N006/26/V00031280	Podpora a rozvoj APV pro pojistné dávky – 2026+	Not terminated	Ministerstvo práce a sociálních věcí	30. 11. 2026 10:00
 Detail	N006/26/V00036507	Nákup příslušenství do datových sítí	Not terminated	Ministerstvo obrany	18. 11. 2026 07:30
@@ -537,8 +539,6 @@ Detail	N006/26/V00035748	Výzva č. 312 k RD 23106000347	Awarded	Ministerstvo ob
 Detail	N006/26/V00034847	Nákup xerografického papíru A4 a A3	Awarded	Krajské ředitelství policie Jihomoravského kraje	
 Detail	N006/26/V00033703	Bioplynová a biometanová stanice Mořice	Not terminated	BMS Mořice s.r.o.	
 Detail	N006/26/V00029074	Dostihové závodiště – výměna koberců	Awarded	Statutární město Pardubice	21. 09. 2026 09:00
-Detail	N006/26/V00035306	Výměna osvětlovacích těles včetně úpravy elektroinstalace	Not terminated	Česká správa sociálního zabezpečení	09. 11. 2026 09:00
-Detail	N006/25/V00023331	Modulární UAV detekční systém pro měření plynů a prachových částic	Not terminated	Ministerstvo vnitra	24. 11. 2026 10:00
 LOAD ANOTHER 50
 Page
 1
