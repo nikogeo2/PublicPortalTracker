@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-08T13:44:25.928788+00:00
+Staženo: 2026-11-09T16:43:51.469899+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -56,50 +56,50 @@ Předp. cena	 
 	
 		 
   
-	Rozvoj pracovníků odboru vývoje ASW a datové analýzy (Uzavřená výzva jen pro oslovené dodavatele)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	6. 11. 2026	16. 11. 2026	Neuvedeno	
+	Dodávka plynu na rok 2027 pro město Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 9. 2026	4. 11. 2026	800 000,00 Kč	
 
   
-	Notebook pro grafické a výpočetně náročné úlohy	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	6. 11. 2026	19. 11. 2026	120 000,00 Kč	
+	Dodávka elektrické energie na rok 2027 pro Město Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	600 000,00 Kč	
 
   
-	Poskytnutí služeb při sběru, svozu a likvidaci odpadů pro městys Lomnice v roce 2027	městys Lomnice	00280577	Zakázka malého rozsahu	Služby	8. 10. 2026	21. 10. 2026	Neuvedeno	
+	Dodávka elektrické energie na rok 2027 pro Technické služby Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	3 000 000,00 Kč	
 
 Veřejné zakázky z pohledu dodavatele
 
 
   
-	Havarijní oprava zatákání do bytového domu v Braňanech	Obec Braňany	00265845	Poptávkové řízení	Stavební práce	 	 	Neuvedeno	
+	Dodávka plynu na rok 2027 pro Gymnázium a ZŠ Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	900 000,00 Kč	
 
   
-	Nákup 21 kusů softwarových doplňků pro vysokorychlostní skenování LTE sítí u analyzátorů mobilních sítí TSMA6B	Český telekomunikační úřad	70106975	Zakázka malého rozsahu	Dodávky	5. 11. 2026	18. 11. 2026	2 560 000,00 Kč	
+	Dodávka elektrické energie na rok 2027 pro Gymnázium a ZŠ Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 11. 2026	4. 11. 2026	2 000 000,00 Kč	
 
   
-	Rekonstrukce chodby primárního kolektoru TG1 – Š4, včetně technické galerie TG1	Technické sítě Brno, akciová společnost	25512285	Zjednodušené podlimitní řízení	Stavební práce	5. 11. 2026	25. 11. 2026	20 000 000,00 Kč	
+	Repasportizace sekundárního kolektoru HJmB část TSB	Technické sítě Brno, akciová společnost	25512285	Zakázka malého rozsahu	Služby	9. 11. 2026	18. 11. 2026	2 500 000,00 Kč	
 
 Zakázkový refresh pro dodavatele
 
 
   
-	Reklama a propagace II. – Minitendr č. 7	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	5. 11. 2026	18. 11. 2026	Neuvedeno	
+	Dodávka plynu v roce 2027 pro MŠ Mnichovice, příspěvkovou organizaci	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	300 000,00 Kč	
 
   
-	Pěstební opatření na dřevinách rostoucích na hřbitově Kukleny a v přilehlé farské zahradě, pozemky p.č. 258/4, 258/11, 258/5 a 254/1 k.ú. Kukleny	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	4. 11. 2026	23. 11. 2026	Neuvedeno	
+	Dodávka elektřiny ze sítě NN pro rok 2027 pro MŠ Mnichovice, příspěvkovou organizaci	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	300 000,00 Kč	
 
   
-	Opravy místních a účelových komunikací a opravy komunikací s dlážděným povrchem	Město Štětí	00264466	Zakázka malého rozsahu	Stavební práce	4. 11. 2026	30. 11. 2026	Neuvedeno	
+	Zajištění úklidových služeb v budovách OZP v Praze	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Otevřené řízení	Služby	5. 11. 2026	8. 12. 2026	9 000 000,00 Kč	
 
 Novelizace stavebního zákona
 
 
   
-	DNS – Automobily kategorie 2 - nákup 4 ks elektromobilů	Pražské vodovody a kanalizace, a.s.	25656635	Nákup v dynamickém nákupním systému	Dodávky	4. 11. 2026	19. 11. 2026	3 000 000,00 Kč	
+	Rekonstrukce mostního objektu na polní cestě v k.ú. Prostřední Lipka	Město Králíky	00279072	Zakázka malého rozsahu	Stavební práce	22. 7. 2026	5. 8. 2026	4 400 000,00 Kč	
 
   
-	Přístavba a stavební úpravy hasičské zbrojnice	Obec Chyňava	00233358	Zjednodušené podlimitní řízení	Stavební práce	3. 11. 2026	30. 11. 2026	19 395 200,00 Kč	
+	Nákup tabletů a interaktivních monitorů - ZŠ J. Husa	Základní škola Jana Husa a Mateřská škola Písek, Hosovo nám. 725	70943141	Zakázka malého rozsahu	Dodávky	9. 11. 2026	24. 11. 2026	Neuvedeno	
 
   
-	dodávka reklamních předmětů s potiskem / laserovým gravírováním	Centrum dopravního výzkumu, v. v. i.	44994575	Poptávkové řízení	Dodávky	3. 11. 2026	11. 11. 2026	100 000,00 Kč	
-Stránka 1 z 179 (2139 položek)12345. . .179
+	Rozvoj pracovníků odboru vývoje ASW a datové analýzy (Uzavřená výzva jen pro oslovené dodavatele)	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Zakázka malého rozsahu	Služby	9. 11. 2026	18. 11. 2026	Neuvedeno	
+Stránka 1 z 179 (2144 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
