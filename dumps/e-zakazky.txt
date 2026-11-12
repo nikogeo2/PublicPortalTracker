@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-10T15:07:23.856626+00:00
+Staženo: 2026-11-12T15:30:08.604737+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -56,6 +56,42 @@ Předp. cena	 
 	
 		 
   
+	Pojištění odpovědnosti za škodu nebo jinou újmu způsobenou provozem letadel, havarijní pojištění letadel a úrazové pojištění sedadel	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Služby	12. 11. 2026	26. 11. 2026	2 000 000,00 Kč	
+
+  
+	Kloubovo-teleskopická pracovní plošina na podvozku N2	Technické služby města Vítkova, příspěvková organizace	00037494	Zjednodušené podlimitní řízení	Dodávky	12. 11. 2026	30. 11. 2026	3 700 000,00 Kč	
+
+  
+	Buchlovice, ul. Brněnská, A6, Š276 - Š281	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	12. 11. 2026	7. 12. 2026	200 000,00 Kč	
+
+Veřejné zakázky z pohledu dodavatele
+
+
+  
+	Nivnice, ul. Nová čtvrť, stoka NII, Š187 - Š189	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	12. 11. 2026	7. 12. 2026	100 000,00 Kč	
+
+  
+	Uherský Brod, ul. U Lapače - oprava vodovodního řadu C-4	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Služby	11. 11. 2026	4. 12. 2026	200 000,00 Kč	
+
+  
+	Fitness TEB stavební úpravy	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Stavební práce	 	26. 11. 2026	Neuvedeno	
+
+Zakázkový refresh pro dodavatele
+
+
+  
+	Obnova svítidel, Brno, 2026	Technické sítě Brno, akciová společnost	25512285	Otevřené řízení	Dodávky	9. 11. 2026	14. 12. 2026	6 500 000,00 Kč	
+
+  
+	Nákup počítačů pro pracoviště ČTÚ	Český telekomunikační úřad	70106975	Otevřené řízení	Dodávky	10. 11. 2026	15. 12. 2026	4 350 000,00 Kč	
+
+  
+	Kolový nakladač nad 8 tun	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zjednodušené podlimitní řízení	Dodávky	11. 11. 2026	30. 11. 2026	Neuvedeno	
+
+Novelizace stavebního zákona
+
+
+  
 	Dodávka formulářů ZP MV ČR	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Zakázka malého rozsahu	Dodávky	10. 11. 2026	25. 11. 2026	Neuvedeno	
 
   
@@ -63,43 +99,7 @@ Předp. cena	 
 
   
 	Supply of a NiTiHf alloy powder	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	10. 11. 2026	24. 11. 2026	1 200 000,00 Kč	
-
-Veřejné zakázky z pohledu dodavatele
-
-
-  
-	Víceúčelové hřiště s umělým povrchem obci Sentice	Obec Sentice	00282545	Zakázka malého rozsahu	Stavební práce	 	 	7 538 634,73 Kč	
-
-  
-	Diagnostický průzkum a přepočet zatížitelnosti Tyršova mostu HK – 029	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Služby	10. 11. 2026	27. 11. 2026	Neuvedeno	
-
-  
-	Dodávka plynu na rok 2027 pro město Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 9. 2026	4. 11. 2026	800 000,00 Kč	
-
-Zakázkový refresh pro dodavatele
-
-
-  
-	Dodávka elektrické energie na rok 2027 pro Město Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	600 000,00 Kč	
-
-  
-	Dodávka elektrické energie na rok 2027 pro Technické služby Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	3 000 000,00 Kč	
-
-  
-	Dodávka plynu na rok 2027 pro Gymnázium a ZŠ Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	900 000,00 Kč	
-
-Novelizace stavebního zákona
-
-
-  
-	Dodávka elektrické energie na rok 2027 pro Gymnázium a ZŠ Mnichovice	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 11. 2026	4. 11. 2026	2 000 000,00 Kč	
-
-  
-	Repasportizace sekundárního kolektoru HJmB část TSB	Technické sítě Brno, akciová společnost	25512285	Zakázka malého rozsahu	Služby	9. 11. 2026	18. 11. 2026	2 500 000,00 Kč	
-
-  
-	Dodávka plynu v roce 2027 pro MŠ Mnichovice, příspěvkovou organizaci	Město Mnichovice	00240478	Zakázka malého rozsahu	Dodávky	26. 10. 2026	4. 11. 2026	300 000,00 Kč	
-Stránka 1 z 179 (2145 položek)12345. . .179
+Stránka 1 z 179 (2142 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
