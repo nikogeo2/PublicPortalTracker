@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-12T15:30:08.604737+00:00
+Staženo: 2026-11-13T14:47:34.418495+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -8,7 +8,15 @@ Domů
 Veřejné zakázky
 Informační panel / Information panel
 
-Upozornění pro uživatele systému
+Upozornění pro uživatele systému,
+
+
+
+
+rádi bychom vás informovali o plánované technické odstávce systémů Zadavatel, e-zakázky, která proběhne v souvislosti s pravidelnou údržbou systému.
+
+Termín odstávky: 13.11.2026
+Předpokládaný čas: [22:00–02:00]
 
 
 
@@ -56,6 +64,18 @@ Předp. cena	 
 	
 		 
   
+	Cyklostezka Choceň – Hemže	Město Choceň	00278955	Zjednodušené podlimitní řízení	Stavební práce	13. 11. 2026	4. 12. 2026	18 484 427,00 Kč	
+
+  
+	Výměna závorového parkovacího systému v Českém Krumlově	Českokrumlovský rozvojový fond spol. s r.o.	42396182	Otevřené řízení	Dodávky	13. 11. 2026	16. 12. 2026	10 500 000,00 Kč	
+
+  
+	Smlouva osdružených službách dodávky zemního plynu	Město Planá	00260096	Zakázka malého rozsahu	Dodávky	 	 	Neuvedeno	
+
+Veřejné zakázky z pohledu dodavatele
+
+
+  
 	Pojištění odpovědnosti za škodu nebo jinou újmu způsobenou provozem letadel, havarijní pojištění letadel a úrazové pojištění sedadel	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Služby	12. 11. 2026	26. 11. 2026	2 000 000,00 Kč	
 
   
@@ -64,7 +84,7 @@ Předp. cena	 
   
 	Buchlovice, ul. Brněnská, A6, Š276 - Š281	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	12. 11. 2026	7. 12. 2026	200 000,00 Kč	
 
-Veřejné zakázky z pohledu dodavatele
+Zakázkový refresh pro dodavatele
 
 
   
@@ -76,7 +96,7 @@ Veřejné zakázky z pohledu dodavatele
   
 	Fitness TEB stavební úpravy	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Stavební práce	 	26. 11. 2026	Neuvedeno	
 
-Zakázkový refresh pro dodavatele
+Novelizace stavebního zákona
 
 
   
@@ -87,19 +107,7 @@ Zakázkový refresh pro dodavatele
 
   
 	Kolový nakladač nad 8 tun	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zjednodušené podlimitní řízení	Dodávky	11. 11. 2026	30. 11. 2026	Neuvedeno	
-
-Novelizace stavebního zákona
-
-
-  
-	Dodávka formulářů ZP MV ČR	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Zakázka malého rozsahu	Dodávky	10. 11. 2026	25. 11. 2026	Neuvedeno	
-
-  
-	Rozšíření ZŠ Blažovice - přeložka STL plynovodu	Obec Blažovice	00281603	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
-
-  
-	Supply of a NiTiHf alloy powder	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	10. 11. 2026	24. 11. 2026	1 200 000,00 Kč	
-Stránka 1 z 179 (2142 položek)12345. . .179
+Stránka 1 z 178 (2136 položek)12345. . .178
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
