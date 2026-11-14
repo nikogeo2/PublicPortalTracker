@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-13T14:47:34.418495+00:00
+Staženo: 2026-11-14T13:43:29.246175+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -13,16 +13,7 @@ Upozornění pro uživatele systému,
 
 
 
-rádi bychom vás informovali o plánované technické odstávce systémů Zadavatel, e-zakázky, která proběhne v souvislosti s pravidelnou údržbou systému.
-
-Termín odstávky: 13.11.2026
-Předpokládaný čas: [22:00–02:00]
-
-
-
-
 Vážení klienti,
-
 
 v souvislosti s implementací nového řízení na straně zadavatele je pro zajištění správné funkčnosti systému potřeba obnovit načtení stránky.
 
@@ -64,16 +55,19 @@ Předp. cena	 
 	
 		 
   
+	RAM pro virtualizační servery	Fyzikální ústav AV ČR, v. v. i.	68378271	Zakázka malého rozsahu	Dodávky	13. 11. 2026	25. 11. 2026	661 157,02 Kč	
+
+  
 	Cyklostezka Choceň – Hemže	Město Choceň	00278955	Zjednodušené podlimitní řízení	Stavební práce	13. 11. 2026	4. 12. 2026	18 484 427,00 Kč	
 
   
 	Výměna závorového parkovacího systému v Českém Krumlově	Českokrumlovský rozvojový fond spol. s r.o.	42396182	Otevřené řízení	Dodávky	13. 11. 2026	16. 12. 2026	10 500 000,00 Kč	
 
-  
-	Smlouva osdružených službách dodávky zemního plynu	Město Planá	00260096	Zakázka malého rozsahu	Dodávky	 	 	Neuvedeno	
-
 Veřejné zakázky z pohledu dodavatele
 
+
+  
+	Smlouva osdružených službách dodávky zemního plynu	Město Planá	00260096	Zakázka malého rozsahu	Dodávky	 	 	Neuvedeno	
 
   
 	Pojištění odpovědnosti za škodu nebo jinou újmu způsobenou provozem letadel, havarijní pojištění letadel a úrazové pojištění sedadel	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Služby	12. 11. 2026	26. 11. 2026	2 000 000,00 Kč	
@@ -81,11 +75,11 @@ Veřejné zakázky z pohledu dodavatele
   
 	Kloubovo-teleskopická pracovní plošina na podvozku N2	Technické služby města Vítkova, příspěvková organizace	00037494	Zjednodušené podlimitní řízení	Dodávky	12. 11. 2026	30. 11. 2026	3 700 000,00 Kč	
 
-  
-	Buchlovice, ul. Brněnská, A6, Š276 - Š281	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	12. 11. 2026	7. 12. 2026	200 000,00 Kč	
-
 Zakázkový refresh pro dodavatele
 
+
+  
+	Buchlovice, ul. Brněnská, A6, Š276 - Š281	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	12. 11. 2026	7. 12. 2026	200 000,00 Kč	
 
   
 	Nivnice, ul. Nová čtvrť, stoka NII, Š187 - Š189	Slovácké vodárny a kanalizace, a. s.	49453866	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	12. 11. 2026	7. 12. 2026	100 000,00 Kč	
@@ -93,21 +87,18 @@ Zakázkový refresh pro dodavatele
   
 	Uherský Brod, ul. U Lapače - oprava vodovodního řadu C-4	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Služby	11. 11. 2026	4. 12. 2026	200 000,00 Kč	
 
-  
-	Fitness TEB stavební úpravy	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Stavební práce	 	26. 11. 2026	Neuvedeno	
-
 Novelizace stavebního zákona
 
+
+  
+	Fitness TEB stavební úpravy	Řízení letového provozu ČR, s.p.	49710371	Zakázka malého rozsahu	Stavební práce	 	26. 11. 2026	Neuvedeno	
 
   
 	Obnova svítidel, Brno, 2026	Technické sítě Brno, akciová společnost	25512285	Otevřené řízení	Dodávky	9. 11. 2026	14. 12. 2026	6 500 000,00 Kč	
 
   
 	Nákup počítačů pro pracoviště ČTÚ	Český telekomunikační úřad	70106975	Otevřené řízení	Dodávky	10. 11. 2026	15. 12. 2026	4 350 000,00 Kč	
-
-  
-	Kolový nakladač nad 8 tun	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zjednodušené podlimitní řízení	Dodávky	11. 11. 2026	30. 11. 2026	Neuvedeno	
-Stránka 1 z 178 (2136 položek)12345. . .178
+Stránka 1 z 179 (2137 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
