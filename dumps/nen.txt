@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-11-14T13:43:14.318218+00:00
+Staženo: 2026-11-15T14:11:38.508891+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,15 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00037501	„VÚ, DDŠ, SVP, ZŠ a SŠ Pšov – dodávka notebooků a příslušenství“	Not terminated	Výchovný ústav, dětský domov se školou, středisko výchovné péče, základní škola a střední škola, Pšov, státní příspěvková organizace	27. 11. 2026 10:00
+Detail	N006/26/V00033501	Rekonstrukce OM 811/10 (2+1), Bechyně	Awarded	Město Bechyně	
+Detail	N006/26/V00013073	Revitalizace obecního rybníka v k. ú. Vilice, p. p. č. 12/1	Not terminated	Obec Vilice	29. 05. 2026 17:00
+Detail	N006/26/V00019833	„DDŠ, ZŠ a ŠJ Měcholupy – Rekonstrukce elektroinstalace pavilonu „B“- 2. NP – havarijní stav“	Termination of performance	Dětský domov se školou, základní škola a školní jídelna, Měcholupy 2	
+Detail	N006/26/V00036541	„VÚ a DDŠ Moravský Krumlov – dodávka interaktivních tabulí“	Not terminated	Výchovný ústav, dětský domov se školou, středisko výchovné péče, střední škola a základní škola, Moravský Krumlov	20. 11. 2026 12:00
+Detail	N006/26/V00021123	„SŠ Janské Lázně – odstranění havarijního stavu EPS“	Awarded	Střední škola Olgy Havlové	22. 07. 2026 12:00
+Detail	N006/26/V00003748	„SŠOH – nákup speciálního vícemístného automobilu“	Termination of performance	Střední škola Olgy Havlové	06. 03. 2026 00:00
+Detail	N006/26/V00014875	Rekonstrukce mostu na místní komunikaci 56c	Awarded	Obec Liptál	
+Detail	N006/26/V00014046	Rekonstrukce LC Na Strážích	Awarded	Obec Liptál	
 Detail	N006/26/V00037357	8660 - 13. DP k RD Běžné a havarijní opravy velkokuchyňských zařízení, platnost do 31.05.2028	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00037194	8660 - 14. DP k RD Běžné a havarijní opravy velkokuchyňských zařízení, platnost do 31.05.2028	Awarded	Ministerstvo obrany	
 Detail	N006/26/V00037354	8660 - 11. DP k RD Běžné a havarijní opravy velkokuchyňských zařízení, platnost do 31.05.2028	Awarded	Ministerstvo obrany	
@@ -530,15 +539,6 @@ Detail	N006/26/V00036592	100. DP 2026 Čechy opravy a údržba služebních vozi
 Detail	N006/26/V00032642	Zajištění prohlídek těl zemřelých na území Moravskoslezského kraje 2027-2029	Not terminated	Moravskoslezský kraj	09. 11. 2026 10:00
 Detail	N006/26/V00029458	MT 40468 / ÚP 84 / LÚ 3 / TČ	Termination of performance	Správa Národního parku Šumava	
 Detail	N006/26/V00036349	2 DP. k RD 26105002301	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00036040	Oblast Morava – středisko Brno - oprav a údržby slaboproudých a silnoproudých rozvodů a zařízení včetně odstraňování havarijních stavů	Not terminated	Armádní Servisní, příspěvková organizace	24. 11. 2026 10:00
-Detail	N006/26/V00036965	Novostavba ZŠ Stará Boleslav	Not terminated	DSO Svazková škola Stará Boleslav	
-Detail	N006/26/V00025228	Úprava oplocení v Českých Žlebech na pozemku p.č. 225/1 – k.ú. České Žleby, obec Stožec	Termination of performance	Správa Národního parku Šumava	18. 08. 2026 08:00
-Detail	N006/26/V00030689	Nákup PHM prostřednictvím odběrových karet na říjen 2026 - 10. dílčí plnění	Termination of performance	Ministerstvo obrany	
-Detail	N006/26/V00034630	Revitalizace místních komunikací a veřejných prostor Zálezly	Not terminated	Obec Velemyšleves	20. 11. 2026 10:00
-Detail	N006/26/V00035694	Zkoušky pro certifikaci II	Not terminated	MSV Metal Studénka, a.s.	04. 12. 2026 08:00
-Detail	N006/26/V00033483	Zajištění služeb Microsoft 365 (opakované zadání)	Awarded	Energetický regulační úřad	26. 10. 2026 09:00
-Detail	N006/26/V00037083	Výzva č. 004/2026 k RD SML 25105001863, Pozáruční servisní údržba a opravy techniky na podvozku T815	Awarded	Ministerstvo obrany	
-Detail	N006/26/V00025477	Plynový chromatograf s trojitým kvadrupolovým analyzátorem a automatickým dávkovačem	Awarded	Heyrovského ústav AV ČR, v. v. i.	14. 09. 2026 00:00
 LOAD ANOTHER 50
 Page
 1
