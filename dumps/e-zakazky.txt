@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-19T15:57:32.371705+00:00
+Staženo: 2026-11-20T15:40:52.111692+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -55,7 +55,16 @@ Předp. cena	 
 	
 		 
   
+	Svoz odpadu pro obec Tichá	Obec Tichá	00298476	Zakázka malého rozsahu	Služby	20. 11. 2026	30. 11. 2026	Neuvedeno	
+
+  
+	ČOV Vraňany - rekonstrukce a intenzifikace (1300 EO)	Vodárny Kladno - Mělník, a.s.	46356991	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	 	 	1 956 800,00 Kč	
+
+  
 	Oprava 2 rybníků ve Hřištích parc. č. 17 a 935 v k.ú. Hřiště, Přibyslav	Město Přibyslav	00268097	Zakázka malého rozsahu	Stavební práce	19. 11. 2026	3. 12. 2026	2 557 000,00 Kč	
+
+Veřejné zakázky z pohledu dodavatele
+
 
   
 	Dodávky technických plynů v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	19. 11. 2026	7. 12. 2026	Neuvedeno	
@@ -63,11 +72,11 @@ Předp. cena	 
   
 	Dodávky kancelářských potřeb v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	19. 11. 2026	8. 12. 2026	Neuvedeno	
 
-Veřejné zakázky z pohledu dodavatele
-
-
   
 	Pojištění EKOLTES Hranice, a.s.	EKOLTES Hranice,a.s.	61974919	Otevřené řízení	Služby	18. 11. 2026	 	5 778 000,00 Kč	
+
+Zakázkový refresh pro dodavatele
+
 
   
 	Snížení energetické náročnosti gastroprovozu – Domov Seniorů sv. Václava – dodávka gastro technologie II.	Arcidiecézní charita Praha	43873499	Otevřené řízení	Dodávky	18. 11. 2026	21. 12. 2026	Neuvedeno	
@@ -75,11 +84,11 @@ Veřejné zakázky z pohledu dodavatele
   
 	Oprava odvodnění podlahy chodby kolektoru Vinohrady IV. etapa G5 až konec větve V3 a G2 až konec větve V1-3	Technické sítě Brno, akciová společnost	25512285	Zakázka malého rozsahu	Stavební práce	19. 11. 2026	26. 11. 2026	8 000 000,00 Kč	
 
-Zakázkový refresh pro dodavatele
-
-
   
 	Infrastruktura pro lokalitu Doubravník – Jih (I. etapa) – Rekonstrukce elektroinstalace VDJ Doubravník	Městys Doubravník	00294268	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
+
+Novelizace stavebního zákona
+
 
   
 	Reklama a propagace II. – Minitendr č. 8	Zdravotní pojišťovna ministerstva vnitra České republiky	47114304	Minitendr (zadání na základě rámcové dohody)	Služby	19. 11. 2026	27. 11. 2026	Neuvedeno	
@@ -87,18 +96,9 @@ Zakázkový refresh pro dodavatele
   
 	Oprava bytu č. 3, ul. Mikuláše z Husi, čp. 36, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	18. 11. 2026	7. 12. 2026	Neuvedeno	
 
-Novelizace stavebního zákona
-
-
   
 	Oprava bytu č. 5, ul. Vančurova, čp. 2197, Tábor	Město Tábor	00253014	Zakázka malého rozsahu	Stavební práce	18. 11. 2026	7. 12. 2026	Neuvedeno	
-
-  
-	Oprava místní komunikace Mlaka	Obec Drhovle	00249645	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
-
-  
-	Zajištění bezpečnostních a recepčních služeb pro objekty OZP v Praze	Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví	47114321	Otevřené řízení	Služby	16. 11. 2026	18. 12. 2026	13 000 000,00 Kč	
-Stránka 1 z 179 (2139 položek)12345. . .179
+Stránka 1 z 179 (2137 položek)12345. . .179
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
