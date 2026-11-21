@@ -1,6 +1,6 @@
 Zdroj: nen
 URL: https://nen.nipez.cz/en/verejne-zakazky/p:vz:page=1-10
-Staženo: 2026-11-20T15:40:36.503026+00:00
+Staženo: 2026-11-21T14:50:38.964909+00:00
 ------------------------------------------------------------
 Skip to the Main content (Accesskey: o)
 Skip to the Main navigation (Accesskey: n)
@@ -39,6 +39,22 @@ CONTRACTING AUTHORITY
 	
 DEADLINE FOR SUBMITTING TENDERS
 
+Detail	N006/26/V00036915	Dodavatel tepla – Gymnázium, Havířov-Město	Not terminated	Gymnázium, Havířov-Město, Komenského 2, příspěvková organizace	11. 12. 2026 08:00
+Detail	N006/26/V00037090	Minitendr č. 151 v rámci VZ Sdílený informační systém TA ČR (bez obnovení soutěže)	Awarded	Technologická agentura ČR	
+Detail	N006/26/V00031301	Realizace optimalizace distribučních sazeb NN u odběrných míst MŽP	Awarded	Ministerstvo životního prostředí	29. 10. 2026 14:00
+Detail	N006/26/V00034328	Dynamický nákupní systém – síťová infrastruktura a prvky kybernetické bezpečnosti – Výzva č. 1	Awarded	Dopravní a energetický stavební úřad	
+Detail	N006/26/V00037617	Služba Select Subscription pro software Bentley	Not terminated	Ministerstvo obrany	30. 11. 2026 14:30
+Detail	N006/26/V00037616	Podpora sledování pohybu osob a majetku	Not terminated	Ministerstvo obrany	30. 11. 2026 14:00
+Detail	N006/26/V00038144	Dílčí úpravy ve více částech prostor VN Brno	Not terminated	Vojenská nemocnice Brno	01. 12. 2026 23:59
+Detail	N006/26/V00029940	SZ Velké Losiny - oprava havarijní CCTV	Awarded	Národní památkový ústav	
+Detail	N006/26/V00012118	Dodávka CNC laserového řezacího centra	Termination of performance	K-K METAL, a.s.	28. 05. 2026 09:00
+Detail	N006/26/V00033650	Úklidové služby pro KNTB, a.s.	Not terminated	Krajská nemocnice T. Bati, a. s.	23. 12. 2026 09:00
+Detail	N006/26/V00026673	Navýšení kapacity a stavební úpravy ZŠ Semín	Not terminated	Obec Semín	21. 09. 2026 17:00
+Detail	N006/26/V00032057	Technická modernizace a optimalizace webové aplikace tsbohemia.cz	Not terminated	T.S.BOHEMIA a.s.	27. 11. 2026 10:00
+Detail	N006/26/V00035320	DODÁVKY ODĚVŮ, OBUVI A DOPLŇKŮ PRO ŘIDIČE MHD	Not terminated	Dopravní společnost Zlín-Otrokovice, s.r.o.	01. 12. 2026 10:00
+Detail	N006/26/V00037716	Zajištění služeb Microsoft Azure pro rok 2027	Not terminated	Centrum pro zjišťování výsledků vzdělávání	03. 12. 2026 10:00
+Detail	N006/26/V00032600	Sanace, rekultivace a revitalizace území po těžbě štěrkopísku u Hlučína – II. etapa	Not terminated	Ministerstvo financí	14. 12. 2026 15:00
+Detail	N006/26/V00032542	SEZ – 2. etapa sanace, odstranění odpadů, v bývalém areálu Kovošrot Group CZ a.s. v Praze – Dolních Měcholupech, nyní ve vlastnictví společnosti Accolade CZ XXVII, s.r.o., člen koncernu	Not terminated	Ministerstvo financí	25. 11. 2026 15:00
 Detail	N006/26/V00038141	výpočetní server pro generování audiovizuálního Ai avatara v reálném čase	Not terminated	Národní muzeum	30. 11. 2026 23:59
 Detail	N006/26/S00000010	Dětské centrum Štěpánka	Not terminated	Hospic sv. Štěpána, z.s.	
 Detail	N006/25/V00027156	Pořízení komunální techniky - obec Třebařov	Awarded	Obec Třebařov	01. 09. 2025 11:00
@@ -398,7 +414,6 @@ Detail	N006/26/V00026369	74. DP 2026 Čechy opravy a údržba služebních vozid
 Detail	N006/26/V00036960	Praha, MO Hradební – Zřízení zabezpečené oblasti – PD+RE	Not terminated	Ministerstvo obrany	14. 12. 2026 09:00
 Detail	N006/26/V00026280	4.DP Opravy a údržba vozidel Fiat, Ford, Mercedes	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00037882	ZP-Dodávky katetrizačního systému pro jednorázovou pulzní ablaci s podporou intrakardiální echokardiografie s příslušenstvím	Not terminated	Institut klinické a experimentální medicíny	22. 12. 2026 11:00
-Detail	N006/26/V00032057	Technická modernizace a optimalizace webové aplikace tsbohemia.cz	Not terminated	T.S.BOHEMIA a.s.	27. 11. 2026 10:00
 Detail	N006/26/V00026273	73. DP 2026 Čechy opravy a údržba služebních vozidel Š a VW	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00032664	Dodávka automatického analyzátoru pro měření sedimentace erytrocytů včetně diagnostik	Awarded	Revmatologický ústav	19. 10. 2026 10:00
 Detail	N006/26/V00033166	Dodávky speciálního zdravotnického materiálu pro intervenční kardiologii - balonkové katetry a koronární stenty	Not terminated	Krajská nemocnice Liberec, a.s.	07. 12. 2026 10:00
@@ -524,21 +539,6 @@ Detail	N006/26/V00037490	Venkovní učebna přírodovědy	Not terminated	Obec Al
 Detail	N006/26/V00035131	Prodloužení podpory komunikační platformy Webex a obnova nepodporovaných komponent	Not terminated	Český úřad zeměměřický a katastrální	27. 11. 2026 10:00
 Detail	N006/26/V00037264	Realizační smlouva č. 26225018158	Termination of performance	Ministerstvo obrany	
 Detail	N006/26/V00037547	Ř VLRZ - obnovení licencí pro VMware vSphere 2026-2027	Not terminated	Vojenská lázeňská a rekreační zařízení, příspěvková organizace	24. 11. 2026 23:59
-Detail	N006/26/V00029066	ZP k. ú. Údlice, p. st. p. č. 260 - 47/2026/CV	Termination of performance	Úřad pro zastupování státu ve věcech majetkových	
-Detail	N006/26/V00031287	ÚVN-VoFN Praha - zdravotnická technika - obměna - Automatické vstupní dveře	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	26. 11. 2026 10:00
-Detail	N006/26/V00027932	Krmivo pro všechny věkové, výkonnostní a zdravotní kategorie psů 2026 - 2028	Awarded	Ministerstvo vnitra	10. 09. 2026 08:00
-Detail	N006/26/V00034776	Obnova velkokapacitního mycího automatu na centrální sterilizaci Nemocnice Česká Lípa	Not terminated	Krajská nemocnice Liberec, a.s.	09. 12. 2026 10:00
-Detail	N006/26/V00026418	Rámcová dohoda - vesta balistická speciální NIJ IIIA/IV (ZJ)	Not terminated	Ministerstvo vnitra	08. 12. 2026 08:15
-Detail	N006/26/V00026230	26-032 Centrální nákup plynu na rok 2027	Awarded	Správa státních hmotných rezerv	
-Detail	N006/26/V00037960	Krmivo pro všechny věkové, výkonnostní a zdravotní kategorie psů 2026 - 2028	Not terminated	Ministerstvo vnitra	30. 11. 2026 08:00
-Detail	N006/26/V00032799	Analyzátor krevního obrazu III	Not terminated	Ústřední vojenská nemocnice - Vojenská fakultní nemocnice Praha	21. 12. 2026 10:00
-Detail	N006/26/V00036357	Dodávka transparentních obálek a silikonovaného papíru II	Cancelled	Uměleckoprůmyslové museum v Praze	
-Detail	N006/25/V00021694	Rekonstrukce střechy bývalé ZŠ č. p. 65 v obci Chodský Újezd	Awarded	Obec Chodský Újezd	
-Detail	N006/26/V00034728	nákup drogistického zboží	Termination of performance	Psychiatrická nemocnice Kosmonosy	
-Detail	N006/26/V00035709	Kancelářský materiál pro projekt IPs Kurikulum	Cancelled	Národní pedagogický institut České republiky (zařízení pro další vzdělávání pedagogických pracovníků)	18. 11. 2026 10:00
-Detail	N006/26/V00036088	jednorázový nákup kancelářských a hygienických potřeb	Termination of performance	Psychiatrická nemocnice Kosmonosy	
-Detail	N006/26/V00037950	Meziresortní společný nákup kancelářských potřeb pro resorty MZe a MK	Awarded	Státní fond audiovize	
-Detail	N006/26/V00029171	jednorázový nákup hygienických potřeb pro kontakt s potravinami	Termination of performance	Psychiatrická nemocnice Kosmonosy	
 LOAD ANOTHER 50
 Page
 1
@@ -553,7 +553,7 @@ Page
 11
 ...
 Page
-5728
+5729
 NEN System User Support
 ServiceDesk
 +420 272 680 985
