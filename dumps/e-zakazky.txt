@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-23T18:35:36.623390+00:00
+Staženo: 2026-11-24T18:04:01.019080+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -55,7 +55,16 @@ Předp. cena	 
 	
 		 
   
+	Zajištění pojistné ochrany majetku a odpovědnosti města Nový Bydžov 2027-2030	Město Nový Bydžov	00269247	Zjednodušené podlimitní řízení	Služby	24. 11. 2026	11. 12. 2026	5 300 000,00 Kč	
+
+  
+	Kunovice, ul. Husitská - rekonstrukce části řadu M-12	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Služby	24. 11. 2026	8. 12. 2026	250 000,00 Kč	
+
+  
 	Zimní nástavba pro komunální vozidlo 2026	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	23. 11. 2026	8. 12. 2026	Neuvedeno	
+
+Veřejné zakázky z pohledu dodavatele
+
 
   
 	Systém pro depozici a leptání iontovým svazkem	Fyzikální ústav AV ČR, v. v. i.	68378271	Otevřené řízení	Dodávky	19. 11. 2026	21. 12. 2026	Neuvedeno	
@@ -63,11 +72,11 @@ Předp. cena	 
   
 	Dodávky drceného kameniva 2027	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	23. 11. 2026	8. 12. 2026	Neuvedeno	
 
-Veřejné zakázky z pohledu dodavatele
-
-
   
 	Dodávky svislého dopravního značení 2027	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	23. 11. 2026	8. 12. 2026	Neuvedeno	
+
+Zakázkový refresh pro dodavatele
+
 
   
 	Svozové vozidlo odpadu – Technické služby Vlašim, s.r.o.	Technické služby Vlašim s.r.o.	62958283	Otevřené řízení	Dodávky	20. 11. 2026	23. 12. 2026	6 100 000,00 Kč	
@@ -75,11 +84,11 @@ Veřejné zakázky z pohledu dodavatele
   
 	Svoz odpadu pro obec Tichá	Obec Tichá	00298476	Zakázka malého rozsahu	Služby	20. 11. 2026	30. 11. 2026	Neuvedeno	
 
-Zakázkový refresh pro dodavatele
-
-
   
 	ČOV Vraňany - rekonstrukce a intenzifikace (1300 EO)	Vodárny Kladno - Mělník, a.s.	46356991	Podlimitní sektorová zakázka (mimo režim zákona)	Služby	 	 	1 956 800,00 Kč	
+
+Novelizace stavebního zákona
+
 
   
 	Oprava 2 rybníků ve Hřištích parc. č. 17 a 935 v k.ú. Hřiště, Přibyslav	Město Přibyslav	00268097	Zakázka malého rozsahu	Stavební práce	19. 11. 2026	3. 12. 2026	2 557 000,00 Kč	
@@ -87,18 +96,9 @@ Zakázkový refresh pro dodavatele
   
 	Dodávky technických plynů v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	19. 11. 2026	7. 12. 2026	Neuvedeno	
 
-Novelizace stavebního zákona
-
-
   
 	Dodávky kancelářských potřeb v roce 2027	TECHNICKÉ SLUŽBY HRADEC KRÁLOVÉ	64809447	Zakázka malého rozsahu	Dodávky	19. 11. 2026	8. 12. 2026	Neuvedeno	
-
-  
-	Pojištění EKOLTES Hranice, a.s.	EKOLTES Hranice,a.s.	61974919	Otevřené řízení	Služby	18. 11. 2026	 	5 778 000,00 Kč	
-
-  
-	Snížení energetické náročnosti gastroprovozu – Domov Seniorů sv. Václava – dodávka gastro technologie II.	Arcidiecézní charita Praha	43873499	Otevřené řízení	Dodávky	18. 11. 2026	21. 12. 2026	Neuvedeno	
-Stránka 1 z 179 (2140 položek)12345. . .179
+Stránka 1 z 178 (2134 položek)12345. . .178
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
