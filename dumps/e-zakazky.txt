@@ -1,6 +1,6 @@
 Zdroj: e-zakazky
 URL: https://www.e-zakazky.cz/verejne-zakazky
-Staženo: 2026-11-26T17:11:43.853709+00:00
+Staženo: 2026-11-27T16:54:14.461444+00:00
 ------------------------------------------------------------
 info@zadavatel.cz  Facebook
 Registrovat se Přihlásit se 
@@ -25,6 +25,13 @@ S pozdravem
 
 
 Váš tým
+
+
+
+
+Rádi bychom Vás povzbudili k využívání nového druhu zadávacího řízení – užšího řízení. Jedná se o další možnost, jak efektivně realizovat zadávací proces, rozšířit okruh potenciálních dodavatelů a zvolit postup odpovídající charakteru a potřebám Vaší zakázky.
+
+Věříme, že tuto novou možnost zařadíte do své praxe a využijete její potenciál při zadávání veřejných zakázek.
 
 Veřejné zakázky
 	
@@ -55,7 +62,28 @@ Předp. cena	 
 	
 		 
   
+	Fotovoltaika v obci Lipová-lázně – design and build	Obec Lipová-lázně	00302929	Otevřené řízení	Dodávky	26. 11. 2026	4. 1. 2027	8 900 000,00 Kč	
+
+  
+	Opěrná zeď ul.Hlavní I/14 Seba	Město Smržovka	00262579	Otevřené řízení	Stavební práce	27. 11. 2026	21. 12. 2026	5 279 580,98 Kč	
+
+  
+	LINAPLAST – dodávka technologie oběhového hospodářství - granulátory, vstřikovací forma a gravimetrické dávkovací jednotky	LINAPLAST s.r.o.	25348965	Dotační zakázka (mimo režim zákona)	Dodávky	27. 11. 2026	 	6 915 874,00 Kč	
+
+Veřejné zakázky z pohledu dodavatele
+
+
+  
+	Dodávka svozového vozidla press	RESPONO, a.s., Cukrovarská 486/16, 682 01 Vyškov	49435612	Otevřené řízení	Dodávky	26. 11. 2026	4. 1. 2027	10 400 000,00 Kč	
+
+  
+	Odvodnění a odvlhčení spodní stavby bytového domu	Společenství vlastníků domu 75 Bedřichov	08692840	Zakázka malého rozsahu	Stavební práce	26. 11. 2026	10. 12. 2026	Neuvedeno	
+
+  
 	Úprava technologie systému zasněžování	Obec Strážné	00580180	Zjednodušené podlimitní řízení	Dodávky	 	 	Neuvedeno	
+
+Zakázkový refresh pro dodavatele
+
 
   
 	Dodávky technických plynů	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	26. 11. 2026	10. 12. 2026	2 000 000,00 Kč	
@@ -63,11 +91,11 @@ Předp. cena	 
   
 	Dodávka čteček pro docházkový systém	Centrum dopravního výzkumu, v. v. i.	44994575	Zakázka malého rozsahu	Dodávky	26. 11. 2026	7. 12. 2026	550 000,00 Kč	
 
-Veřejné zakázky z pohledu dodavatele
-
-
   
 	Dodavatel zajištění obsahové, vizuální a multimediální komunikace MČ Brno Maloměřice a -Obřany	Statutární město Brno, MČ Brno - Maloměřice a Obřany	44992785	Poptávkové řízení	Služby	26. 11. 2026	8. 12. 2026	Neuvedeno	
+
+Novelizace stavebního zákona
+
 
   
 	Restaurování sv. Valentiny	Město Plasy	00258245	Poptávkové řízení	Stavební práce	 	 	1 710 880,00 Kč	
@@ -75,30 +103,9 @@ Veřejné zakázky z pohledu dodavatele
   
 	Chodníky v lokalitě U Dobré Vody, Bří. karpíšků a 5. května	Obec Pchery	00234788	Zakázka malého rozsahu	Stavební práce	 	 	Neuvedeno	
 
-Zakázkový refresh pro dodavatele
-
-
   
 	TDS a BOZP - Anny Letenské 1680/11 – rekonstrukce a oprava domu pro potřeby PČR	Městská část Praha 2	00063461	Zakázka malého rozsahu	Služby	 	 	Neuvedeno	
-
-  
-	Revitalizace návsi, Petrohrad	Obec Petrohrad	00480975	Zjednodušené podlimitní řízení	Stavební práce	25. 11. 2026	14. 12. 2026	Neuvedeno	
-
-  
-	Vzdělání pro AČMN	Asociace českých a moravských nemocnic	12895865	Zjednodušené podlimitní řízení	Služby	25. 11. 2026	 	3 675 000,00 Kč	
-
-Novelizace stavebního zákona
-
-
-  
-	Zajištění pojistné ochrany majetku a odpovědnosti města Nový Bydžov 2027-2030	Město Nový Bydžov	00269247	Zjednodušené podlimitní řízení	Služby	24. 11. 2026	11. 12. 2026	5 300 000,00 Kč	
-
-  
-	Kunovice, ul. Husitská - rekonstrukce části řadu M-12	Slovácké vodárny a kanalizace, a. s.	49453866	Zakázka malého rozsahu	Služby	24. 11. 2026	8. 12. 2026	250 000,00 Kč	
-
-  
-	Zimní nástavba pro komunální vozidlo 2026	Technické služby Havlíčkův Brod	70188041	Zakázka malého rozsahu	Dodávky	23. 11. 2026	8. 12. 2026	Neuvedeno	
-Stránka 1 z 177 (2115 položek)12345. . .177
+Stránka 1 z 177 (2116 položek)12345. . .177
 Copyright © 2026 OTIDEA CZ s.r.o. Verze elektronického nástroje: 4.0
 Obchodní podmínky | GDPR | Manuál dodavatel | Prohlášení
 Chatovat s AI asistentem
